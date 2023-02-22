@@ -1,0 +1,1 @@
+# korean-dicts-synthv
