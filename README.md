@@ -7,7 +7,7 @@ The dictionary entries are romanized, although there might be future hangul inpu
 
 For consonants like "pp/bb", "kk/gg", "tt/dd", "jj", and "ss" it's recommended you increase the phoneme strength as well.
 
-The ANY2KOR dictionary has all other 3 dictionaries combined; to use Chinese phonemes add a 2 to the end and for English phonemes add a 3.
+The ANY2KOR dictionary has all other 3 dictionaries combined; to use Chinese phonemes add a 2 to the end and for English phonemes add a 3. Remember to change the note's language before typing the number in.
 
 Please note this dictionary was made with AI voicebanks in mind, so it might be faulty for Standard voicebanks. (Again, I'll also consider adding support for this if needed.)
 
