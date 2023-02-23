@@ -39,6 +39,11 @@ Also, credit isn't necessary, I don't really mind; but if you'd like to, feel fr
 | t | t | th | t |
 | p | p, py | ph | p |
 | h | h, hy, f | x, f | hh, f |
+| f | f | f | f |
+| th | s | s | th |
+| rr | w | z\` | r |
+| v | v | f | v |
+| z | z | ts | z |
 ### Vowels
 | Hangul | JPN | CHN | ENG |
 | --- | --- | --- | --- |
