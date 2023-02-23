@@ -16,7 +16,15 @@ Also, credit isn't necessary, I don't really mind; but if you'd like to, feel fr
 * Includes individual ending consonants (i.e. k, ng, l). Uppercase aliases are included too
 * Includes syllables starting with "f", "v", "th", "rr", and "z"
 
-| Hangul | Japanese | Chinese | English |
+| Hangul | JPN | CHN | ENG |
 | --- | --- | --- | --- |
-| g | [g] | [g] | [g] |
-| kk/gg | [cl k] | [cl k] | [cl k] |
+| g | [g], [gy] | [k] | [g] |
+| kk/gg | [cl k], [cl ky] | [cl k] | [cl k] |
+| n | [n], [ny] | [n] | [n]
+| d | [d] | [t] | [d] |
+| tt/dd | [cl t] | [cl t] | [cl t] |
+| m | [m], [my] | [m] | [m] |
+| b | [b], [by] | [p] | [b] |
+| pp/bb | [cl p], [cl py] | [cl p] | [cl p] |
+| s | [s], [sh] | [s], [s\] | [s], [sh] |
+| ss | [s], [sh] | [s], [s\] | [s], [sh] |
