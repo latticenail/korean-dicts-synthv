@@ -19,23 +19,47 @@ Also, credit isn't necessary, I don't really mind; but if you'd like to, feel fr
 ### Consonants (initial and final)
 | Hangul | JPN | CHN | ENG |
 | --- | --- | --- | --- |
-| g | [g], [gy] | [k] | [g] |
-| kk/gg | [cl k], [cl ky] | [cl k] | [cl k] |
-| n | [n], [ny] | [n] | [n]
-| d | [d] | [t] | [d] |
-| tt/dd | [cl t] | [cl t] | [cl t] |
-| r | [r] | [l] | [dx] |
-| l | [r] | [l] | [l] |
-| m | [m], [my] | [m] | [m] |
-| b | [b], [by] | [p] | [b] |
-| pp/bb | [cl p], [cl py] | [cl p] | [cl p] |
-| s | [s], [sh] | [s], [s\] | [s], [sh] |
-| ss | [s], [sh] | [s], [s\] | [s], [sh] |
-| ng | [N] | [N] | [ng] |
-| j | [j] | [ts\] | [jh] |
-| jj | [cl ch] | [cl ts\] | [cl ch] |
-| ch | [ch] | [ts\h] | [ch] |
-| k | [k], [ky] | [k] | [g] |
-| t | [t] | [th] | [t] |
-| p | [p], [py] | [ph] | [p] |
-| h | [h], [hy], [f] | [x], [f] | [hh], [f] |
+| g | g, gy | k | g |
+| kk/gg | cl k, cl ky | cl k | cl k |
+| n | n, ny | n | n
+| d | d | t | d |
+| tt/dd | cl t | cl t | cl t |
+| r | r | l | dx |
+| l | r | l | l |
+| m | m, my | m | m |
+| b | b, by | p | b |
+| pp/bb | cl p, cl py | cl p | cl p |
+| s | s, sh | s, s\ | s, sh |
+| ss | s, sh | s, s\ | s, sh |
+| ng | N | N | ng |
+| j | j | ts\ | jh |
+| jj | cl ch | cl ts\ | cl ch |
+| ch | ch | ts\h | ch |
+| k | k, ky | k | g |
+| t | t | th | t |
+| p | p, py | ph | p |
+| h | h, hy, f | x, f | hh, f |
+### Vowels
+| Hangul | JPN | CHN | ENG |
+| --- | --- | --- | --- |
+| a | a | a | aa |
+| ae | e | e | eh |
+| ya | y a | ia | y aa |
+| yae | y e | ie | y eh |
+| eo | o | o | ao |
+| e | e | e | eh |
+| yeo | y o | j o | y ao |
+| ye | y e | ie | y eh |
+| o | o | o | ao |
+| wa | w a | ua | w aa |
+| wae | w e | ue | w eh |
+| oe | w e | ue | w eh |
+| yo | y o | j o | y ao |
+| u | u | u | uh |
+| wo/weo | w o | uo | w ao |
+| we | w e | ue | w eh |
+| wi | w i | w i | w iy |
+| yu | y u | j u | y uh |
+| eu | u | u@ | ax |
+| ui/eui | w i | w i | w iy |
+| i | i | i | iy |
