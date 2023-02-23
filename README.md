@@ -15,7 +15,8 @@ Also, credit isn't necessary, I don't really mind; but if you'd like to, feel fr
 ## Notes
 * Includes individual ending consonants (i.e. k, ng, l). Uppercase aliases are included too
 * Includes syllables starting with "f", "v", "th", "rr", and "z"
-
+## Tables
+### Consonants (initial and final)
 | Hangul | JPN | CHN | ENG |
 | --- | --- | --- | --- |
 | g | [g], [gy] | [k] | [g] |
@@ -23,8 +24,18 @@ Also, credit isn't necessary, I don't really mind; but if you'd like to, feel fr
 | n | [n], [ny] | [n] | [n]
 | d | [d] | [t] | [d] |
 | tt/dd | [cl t] | [cl t] | [cl t] |
+| r | [r] | [l] | [dx] |
+| l | [r] | [l] | [l] |
 | m | [m], [my] | [m] | [m] |
 | b | [b], [by] | [p] | [b] |
 | pp/bb | [cl p], [cl py] | [cl p] | [cl p] |
 | s | [s], [sh] | [s], [s\] | [s], [sh] |
 | ss | [s], [sh] | [s], [s\] | [s], [sh] |
+| ng | [N] | [N] | [ng] |
+| j | [j] | [ts\] | [jh] |
+| jj | [cl ch] | [cl ts\] | [cl ch] |
+| ch | [ch] | [ts\h] | [ch] |
+| k | [k], [ky] | [k] | [g] |
+| t | [t] | [th] | [t] |
+| p | [p], [py] | [ph] | [p] |
+| h | [h], [hy], [f] | [x], [f] | [hh], [f] |
