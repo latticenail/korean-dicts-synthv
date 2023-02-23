@@ -16226,7 +16226,7 @@
     },
     {
       "w": "ho",
-      "p": "hf ao"
+      "p": "f ao"
     },
     {
       "w": "hwa",
@@ -16318,7 +16318,7 @@
     },
     {
       "w": "hok",
-      "p": "hf ao k"
+      "p": "f ao k"
     },
     {
       "w": "hwak",
@@ -16410,7 +16410,7 @@
     },
     {
       "w": "hon",
-      "p": "hf ao n"
+      "p": "f ao n"
     },
     {
       "w": "hwan",
@@ -16502,7 +16502,7 @@
     },
     {
       "w": "hot",
-      "p": "hf ao t"
+      "p": "f ao t"
     },
     {
       "w": "hwat",
@@ -16594,7 +16594,7 @@
     },
     {
       "w": "hol",
-      "p": "hf ao l"
+      "p": "f ao l"
     },
     {
       "w": "hwal",
@@ -16686,7 +16686,7 @@
     },
     {
       "w": "hom",
-      "p": "hf ao m"
+      "p": "f ao m"
     },
     {
       "w": "hwam",
@@ -16778,7 +16778,7 @@
     },
     {
       "w": "hop",
-      "p": "hf ao p"
+      "p": "f ao p"
     },
     {
       "w": "hwap",
@@ -16870,7 +16870,7 @@
     },
     {
       "w": "hong",
-      "p": "hf ao ng"
+      "p": "f ao ng"
     },
     {
       "w": "hwang",
@@ -17663,742 +17663,6 @@
     {
       "w": "fing",
       "p": "f iy ng"
-    },
-    {
-      "w": "tha",
-      "p": "th aa"
-    },
-    {
-      "w": "thae",
-      "p": "th eh"
-    },
-    {
-      "w": "thya",
-      "p": "th y aa"
-    },
-    {
-      "w": "thyae",
-      "p": "th y eh"
-    },
-    {
-      "w": "theo",
-      "p": "th ao"
-    },
-    {
-      "w": "the",
-      "p": "th eh"
-    },
-    {
-      "w": "thyeo",
-      "p": "th y ao"
-    },
-    {
-      "w": "thye",
-      "p": "th y eh"
-    },
-    {
-      "w": "tho",
-      "p": "th ao"
-    },
-    {
-      "w": "thwa",
-      "p": "th w aa"
-    },
-    {
-      "w": "thwae",
-      "p": "th w eh"
-    },
-    {
-      "w": "thoe",
-      "p": "th w eh"
-    },
-    {
-      "w": "thyo",
-      "p": "th y ao"
-    },
-    {
-      "w": "thu",
-      "p": "th uh"
-    },
-    {
-      "w": "thwo",
-      "p": "th w ao"
-    },
-    {
-      "w": "thweo",
-      "p": "th w ao"
-    },
-    {
-      "w": "thwe",
-      "p": "th w eh"
-    },
-    {
-      "w": "thwi",
-      "p": "th w iy"
-    },
-    {
-      "w": "thyu",
-      "p": "th y uh"
-    },
-    {
-      "w": "theu",
-      "p": "th ax"
-    },
-    {
-      "w": "thui",
-      "p": "th w iy"
-    },
-    {
-      "w": "theui",
-      "p": "th w iy"
-    },
-    {
-      "w": "thi",
-      "p": "th iy"
-    },
-    {
-      "w": "thak",
-      "p": "th aa k"
-    },
-    {
-      "w": "thaek",
-      "p": "th eh k"
-    },
-    {
-      "w": "thyak",
-      "p": "th y aa k"
-    },
-    {
-      "w": "thyaek",
-      "p": "th y eh k"
-    },
-    {
-      "w": "theok",
-      "p": "th ao k"
-    },
-    {
-      "w": "thek",
-      "p": "th eh k"
-    },
-    {
-      "w": "thyeok",
-      "p": "th y ao k"
-    },
-    {
-      "w": "thyek",
-      "p": "th y eh k"
-    },
-    {
-      "w": "thok",
-      "p": "th ao k"
-    },
-    {
-      "w": "thwak",
-      "p": "th w aa k"
-    },
-    {
-      "w": "thwaek",
-      "p": "th w eh k"
-    },
-    {
-      "w": "thoek",
-      "p": "th w eh k"
-    },
-    {
-      "w": "thyok",
-      "p": "th y ao k"
-    },
-    {
-      "w": "thuk",
-      "p": "th uh k"
-    },
-    {
-      "w": "thwok",
-      "p": "th w ao k"
-    },
-    {
-      "w": "thweok",
-      "p": "th w ao k"
-    },
-    {
-      "w": "thwek",
-      "p": "th w eh k"
-    },
-    {
-      "w": "thwik",
-      "p": "th w iy k"
-    },
-    {
-      "w": "thyuk",
-      "p": "th y uh k"
-    },
-    {
-      "w": "theuk",
-      "p": "th ax k"
-    },
-    {
-      "w": "thuik",
-      "p": "th w iy k"
-    },
-    {
-      "w": "theuik",
-      "p": "th w iy k"
-    },
-    {
-      "w": "thik",
-      "p": "th iy k"
-    },
-    {
-      "w": "than",
-      "p": "th aa n"
-    },
-    {
-      "w": "thaen",
-      "p": "th eh n"
-    },
-    {
-      "w": "thyan",
-      "p": "th y aa n"
-    },
-    {
-      "w": "thyaen",
-      "p": "th y eh n"
-    },
-    {
-      "w": "theon",
-      "p": "th ao n"
-    },
-    {
-      "w": "then",
-      "p": "th eh n"
-    },
-    {
-      "w": "thyeon",
-      "p": "th y ao n"
-    },
-    {
-      "w": "thyen",
-      "p": "th y eh n"
-    },
-    {
-      "w": "thon",
-      "p": "th ao n"
-    },
-    {
-      "w": "thwan",
-      "p": "th w aa n"
-    },
-    {
-      "w": "thwaen",
-      "p": "th w eh n"
-    },
-    {
-      "w": "thoen",
-      "p": "th w eh n"
-    },
-    {
-      "w": "thyon",
-      "p": "th y ao n"
-    },
-    {
-      "w": "thun",
-      "p": "th uh n"
-    },
-    {
-      "w": "thwon",
-      "p": "th w ao n"
-    },
-    {
-      "w": "thweon",
-      "p": "th w ao n"
-    },
-    {
-      "w": "thwen",
-      "p": "th w eh n"
-    },
-    {
-      "w": "thwin",
-      "p": "th w iy n"
-    },
-    {
-      "w": "thyun",
-      "p": "th y uh n"
-    },
-    {
-      "w": "theun",
-      "p": "th ax n"
-    },
-    {
-      "w": "thuin",
-      "p": "th w iy n"
-    },
-    {
-      "w": "theuin",
-      "p": "th w iy n"
-    },
-    {
-      "w": "thin",
-      "p": "th iy n"
-    },
-    {
-      "w": "that",
-      "p": "th aa t"
-    },
-    {
-      "w": "thaet",
-      "p": "th eh t"
-    },
-    {
-      "w": "thyat",
-      "p": "th y aa t"
-    },
-    {
-      "w": "thyaet",
-      "p": "th y eh t"
-    },
-    {
-      "w": "theot",
-      "p": "th ao t"
-    },
-    {
-      "w": "thet",
-      "p": "th eh t"
-    },
-    {
-      "w": "thyeot",
-      "p": "th y ao t"
-    },
-    {
-      "w": "thyet",
-      "p": "th y eh t"
-    },
-    {
-      "w": "thot",
-      "p": "th ao t"
-    },
-    {
-      "w": "thwat",
-      "p": "th w aa t"
-    },
-    {
-      "w": "thwaet",
-      "p": "th w eh t"
-    },
-    {
-      "w": "thoet",
-      "p": "th w eh t"
-    },
-    {
-      "w": "thyot",
-      "p": "th y ao t"
-    },
-    {
-      "w": "thut",
-      "p": "th uh t"
-    },
-    {
-      "w": "thwot",
-      "p": "th w ao t"
-    },
-    {
-      "w": "thweot",
-      "p": "th w ao t"
-    },
-    {
-      "w": "thwet",
-      "p": "th w eh t"
-    },
-    {
-      "w": "thwit",
-      "p": "th w iy t"
-    },
-    {
-      "w": "thyut",
-      "p": "th y uh t"
-    },
-    {
-      "w": "theut",
-      "p": "th ax t"
-    },
-    {
-      "w": "thuit",
-      "p": "th w iy t"
-    },
-    {
-      "w": "theuit",
-      "p": "th w iy t"
-    },
-    {
-      "w": "thit",
-      "p": "th iy t"
-    },
-    {
-      "w": "thal",
-      "p": "th aa l"
-    },
-    {
-      "w": "thael",
-      "p": "th eh l"
-    },
-    {
-      "w": "thyal",
-      "p": "th y aa l"
-    },
-    {
-      "w": "thyael",
-      "p": "th y eh l"
-    },
-    {
-      "w": "theol",
-      "p": "th ao l"
-    },
-    {
-      "w": "thel",
-      "p": "th eh l"
-    },
-    {
-      "w": "thyeol",
-      "p": "th y ao l"
-    },
-    {
-      "w": "thyel",
-      "p": "th y eh l"
-    },
-    {
-      "w": "thol",
-      "p": "th ao l"
-    },
-    {
-      "w": "thwal",
-      "p": "th w aa l"
-    },
-    {
-      "w": "thwael",
-      "p": "th w eh l"
-    },
-    {
-      "w": "thoel",
-      "p": "th w eh l"
-    },
-    {
-      "w": "thyol",
-      "p": "th y ao l"
-    },
-    {
-      "w": "thul",
-      "p": "th uh l"
-    },
-    {
-      "w": "thwol",
-      "p": "th w ao l"
-    },
-    {
-      "w": "thweol",
-      "p": "th w ao l"
-    },
-    {
-      "w": "thwel",
-      "p": "th w eh l"
-    },
-    {
-      "w": "thwil",
-      "p": "th w iy l"
-    },
-    {
-      "w": "thyul",
-      "p": "th y uh l"
-    },
-    {
-      "w": "theul",
-      "p": "th ax l"
-    },
-    {
-      "w": "thuil",
-      "p": "th w iy l"
-    },
-    {
-      "w": "theuil",
-      "p": "th w iy l"
-    },
-    {
-      "w": "thil",
-      "p": "th iy l"
-    },
-    {
-      "w": "tham",
-      "p": "th aa m"
-    },
-    {
-      "w": "thaem",
-      "p": "th eh m"
-    },
-    {
-      "w": "thyam",
-      "p": "th y aa m"
-    },
-    {
-      "w": "thyaem",
-      "p": "th y eh m"
-    },
-    {
-      "w": "theom",
-      "p": "th ao m"
-    },
-    {
-      "w": "them",
-      "p": "th eh m"
-    },
-    {
-      "w": "thyeom",
-      "p": "th y ao m"
-    },
-    {
-      "w": "thyem",
-      "p": "th y eh m"
-    },
-    {
-      "w": "thom",
-      "p": "th ao m"
-    },
-    {
-      "w": "thwam",
-      "p": "th w aa m"
-    },
-    {
-      "w": "thwaem",
-      "p": "th w eh m"
-    },
-    {
-      "w": "thoem",
-      "p": "th w eh m"
-    },
-    {
-      "w": "thyom",
-      "p": "th y ao m"
-    },
-    {
-      "w": "thum",
-      "p": "th uh m"
-    },
-    {
-      "w": "thwom",
-      "p": "th w ao m"
-    },
-    {
-      "w": "thweom",
-      "p": "th w ao m"
-    },
-    {
-      "w": "thwem",
-      "p": "th w eh m"
-    },
-    {
-      "w": "thwim",
-      "p": "th w iy m"
-    },
-    {
-      "w": "thyum",
-      "p": "th y uh m"
-    },
-    {
-      "w": "theum",
-      "p": "th ax m"
-    },
-    {
-      "w": "thuim",
-      "p": "th w iy m"
-    },
-    {
-      "w": "theuim",
-      "p": "th w iy m"
-    },
-    {
-      "w": "thim",
-      "p": "th iy m"
-    },
-    {
-      "w": "thap",
-      "p": "th aa p"
-    },
-    {
-      "w": "thaep",
-      "p": "th eh p"
-    },
-    {
-      "w": "thyap",
-      "p": "th y aa p"
-    },
-    {
-      "w": "thyaep",
-      "p": "th y eh p"
-    },
-    {
-      "w": "theop",
-      "p": "th ao p"
-    },
-    {
-      "w": "thep",
-      "p": "th eh p"
-    },
-    {
-      "w": "thyeop",
-      "p": "th y ao p"
-    },
-    {
-      "w": "thyep",
-      "p": "th y eh p"
-    },
-    {
-      "w": "thop",
-      "p": "th ao p"
-    },
-    {
-      "w": "thwap",
-      "p": "th w aa p"
-    },
-    {
-      "w": "thwaep",
-      "p": "th w eh p"
-    },
-    {
-      "w": "thoep",
-      "p": "th w eh p"
-    },
-    {
-      "w": "thyop",
-      "p": "th y ao p"
-    },
-    {
-      "w": "thup",
-      "p": "th uh p"
-    },
-    {
-      "w": "thwop",
-      "p": "th w ao p"
-    },
-    {
-      "w": "thweop",
-      "p": "th w ao p"
-    },
-    {
-      "w": "thwep",
-      "p": "th w eh p"
-    },
-    {
-      "w": "thwip",
-      "p": "th w iy p"
-    },
-    {
-      "w": "thyup",
-      "p": "th y uh p"
-    },
-    {
-      "w": "theup",
-      "p": "th ax p"
-    },
-    {
-      "w": "thuip",
-      "p": "th w iy p"
-    },
-    {
-      "w": "theuip",
-      "p": "th w iy p"
-    },
-    {
-      "w": "thip",
-      "p": "th iy p"
-    },
-    {
-      "w": "thang",
-      "p": "th aa ng"
-    },
-    {
-      "w": "thaeng",
-      "p": "th eh ng"
-    },
-    {
-      "w": "thyang",
-      "p": "th y aa ng"
-    },
-    {
-      "w": "thyaeng",
-      "p": "th y eh ng"
-    },
-    {
-      "w": "theong",
-      "p": "th ao ng"
-    },
-    {
-      "w": "theng",
-      "p": "th eh ng"
-    },
-    {
-      "w": "thyeong",
-      "p": "th y ao ng"
-    },
-    {
-      "w": "thyeng",
-      "p": "th y eh ng"
-    },
-    {
-      "w": "thong",
-      "p": "th ao ng"
-    },
-    {
-      "w": "thwang",
-      "p": "th w aa ng"
-    },
-    {
-      "w": "thwaeng",
-      "p": "th w eh ng"
-    },
-    {
-      "w": "thoeng",
-      "p": "th w eh ng"
-    },
-    {
-      "w": "thyong",
-      "p": "th y ao ng"
-    },
-    {
-      "w": "thung",
-      "p": "th uh ng"
-    },
-    {
-      "w": "thwong",
-      "p": "th w ao ng"
-    },
-    {
-      "w": "thweong",
-      "p": "th w ao ng"
-    },
-    {
-      "w": "thweng",
-      "p": "th w eh ng"
-    },
-    {
-      "w": "thwing",
-      "p": "th w iy ng"
-    },
-    {
-      "w": "thyung",
-      "p": "th y uh ng"
-    },
-    {
-      "w": "theung",
-      "p": "th ax ng"
-    },
-    {
-      "w": "thuing",
-      "p": "th w iy ng"
-    },
-    {
-      "w": "theuing",
-      "p": "th w iy ng"
-    },
-    {
-      "w": "thing",
-      "p": "th iy ng"
     },
     {
       "w": "rra",
@@ -20607,6 +19871,742 @@
     {
       "w": "zing",
       "p": "z iy ng"
+    },
+    {
+      "w": "tha",
+      "p": "th aa"
+    },
+    {
+      "w": "thae",
+      "p": "th eh"
+    },
+    {
+      "w": "thya",
+      "p": "th y aa"
+    },
+    {
+      "w": "thyae",
+      "p": "th y eh"
+    },
+    {
+      "w": "theo",
+      "p": "th ao"
+    },
+    {
+      "w": "the",
+      "p": "th eh"
+    },
+    {
+      "w": "thyeo",
+      "p": "th y ao"
+    },
+    {
+      "w": "thye",
+      "p": "th y eh"
+    },
+    {
+      "w": "tho",
+      "p": "th ao"
+    },
+    {
+      "w": "thwa",
+      "p": "th w aa"
+    },
+    {
+      "w": "thwae",
+      "p": "th w eh"
+    },
+    {
+      "w": "thoe",
+      "p": "th w eh"
+    },
+    {
+      "w": "thyo",
+      "p": "th y ao"
+    },
+    {
+      "w": "thu",
+      "p": "th uh"
+    },
+    {
+      "w": "thwo",
+      "p": "th w ao"
+    },
+    {
+      "w": "thweo",
+      "p": "th w ao"
+    },
+    {
+      "w": "thwe",
+      "p": "th w eh"
+    },
+    {
+      "w": "thwi",
+      "p": "th w iy"
+    },
+    {
+      "w": "thyu",
+      "p": "th y uh"
+    },
+    {
+      "w": "theu",
+      "p": "th ax"
+    },
+    {
+      "w": "thui",
+      "p": "th w iy"
+    },
+    {
+      "w": "theui",
+      "p": "th w iy"
+    },
+    {
+      "w": "thi",
+      "p": "th iy"
+    },
+    {
+      "w": "thak",
+      "p": "th aa k"
+    },
+    {
+      "w": "thaek",
+      "p": "th eh k"
+    },
+    {
+      "w": "thyak",
+      "p": "th y aa k"
+    },
+    {
+      "w": "thyaek",
+      "p": "th y eh k"
+    },
+    {
+      "w": "theok",
+      "p": "th ao k"
+    },
+    {
+      "w": "thek",
+      "p": "th eh k"
+    },
+    {
+      "w": "thyeok",
+      "p": "th y ao k"
+    },
+    {
+      "w": "thyek",
+      "p": "th y eh k"
+    },
+    {
+      "w": "thok",
+      "p": "th ao k"
+    },
+    {
+      "w": "thwak",
+      "p": "th w aa k"
+    },
+    {
+      "w": "thwaek",
+      "p": "th w eh k"
+    },
+    {
+      "w": "thoek",
+      "p": "th w eh k"
+    },
+    {
+      "w": "thyok",
+      "p": "th y ao k"
+    },
+    {
+      "w": "thuk",
+      "p": "th uh k"
+    },
+    {
+      "w": "thwok",
+      "p": "th w ao k"
+    },
+    {
+      "w": "thweok",
+      "p": "th w ao k"
+    },
+    {
+      "w": "thwek",
+      "p": "th w eh k"
+    },
+    {
+      "w": "thwik",
+      "p": "th w iy k"
+    },
+    {
+      "w": "thyuk",
+      "p": "th y uh k"
+    },
+    {
+      "w": "theuk",
+      "p": "th ax k"
+    },
+    {
+      "w": "thuik",
+      "p": "th w iy k"
+    },
+    {
+      "w": "theuik",
+      "p": "th w iy k"
+    },
+    {
+      "w": "thik",
+      "p": "th iy k"
+    },
+    {
+      "w": "than",
+      "p": "th aa n"
+    },
+    {
+      "w": "thaen",
+      "p": "th eh n"
+    },
+    {
+      "w": "thyan",
+      "p": "th y aa n"
+    },
+    {
+      "w": "thyaen",
+      "p": "th y eh n"
+    },
+    {
+      "w": "theon",
+      "p": "th ao n"
+    },
+    {
+      "w": "then",
+      "p": "th eh n"
+    },
+    {
+      "w": "thyeon",
+      "p": "th y ao n"
+    },
+    {
+      "w": "thyen",
+      "p": "th y eh n"
+    },
+    {
+      "w": "thon",
+      "p": "th ao n"
+    },
+    {
+      "w": "thwan",
+      "p": "th w aa n"
+    },
+    {
+      "w": "thwaen",
+      "p": "th w eh n"
+    },
+    {
+      "w": "thoen",
+      "p": "th w eh n"
+    },
+    {
+      "w": "thyon",
+      "p": "th y ao n"
+    },
+    {
+      "w": "thun",
+      "p": "th uh n"
+    },
+    {
+      "w": "thwon",
+      "p": "th w ao n"
+    },
+    {
+      "w": "thweon",
+      "p": "th w ao n"
+    },
+    {
+      "w": "thwen",
+      "p": "th w eh n"
+    },
+    {
+      "w": "thwin",
+      "p": "th w iy n"
+    },
+    {
+      "w": "thyun",
+      "p": "th y uh n"
+    },
+    {
+      "w": "theun",
+      "p": "th ax n"
+    },
+    {
+      "w": "thuin",
+      "p": "th w iy n"
+    },
+    {
+      "w": "theuin",
+      "p": "th w iy n"
+    },
+    {
+      "w": "thin",
+      "p": "th iy n"
+    },
+    {
+      "w": "that",
+      "p": "th aa t"
+    },
+    {
+      "w": "thaet",
+      "p": "th eh t"
+    },
+    {
+      "w": "thyat",
+      "p": "th y aa t"
+    },
+    {
+      "w": "thyaet",
+      "p": "th y eh t"
+    },
+    {
+      "w": "theot",
+      "p": "th ao t"
+    },
+    {
+      "w": "thet",
+      "p": "th eh t"
+    },
+    {
+      "w": "thyeot",
+      "p": "th y ao t"
+    },
+    {
+      "w": "thyet",
+      "p": "th y eh t"
+    },
+    {
+      "w": "thot",
+      "p": "th ao t"
+    },
+    {
+      "w": "thwat",
+      "p": "th w aa t"
+    },
+    {
+      "w": "thwaet",
+      "p": "th w eh t"
+    },
+    {
+      "w": "thoet",
+      "p": "th w eh t"
+    },
+    {
+      "w": "thyot",
+      "p": "th y ao t"
+    },
+    {
+      "w": "thut",
+      "p": "th uh t"
+    },
+    {
+      "w": "thwot",
+      "p": "th w ao t"
+    },
+    {
+      "w": "thweot",
+      "p": "th w ao t"
+    },
+    {
+      "w": "thwet",
+      "p": "th w eh t"
+    },
+    {
+      "w": "thwit",
+      "p": "th w iy t"
+    },
+    {
+      "w": "thyut",
+      "p": "th y uh t"
+    },
+    {
+      "w": "theut",
+      "p": "th ax t"
+    },
+    {
+      "w": "thuit",
+      "p": "th w iy t"
+    },
+    {
+      "w": "theuit",
+      "p": "th w iy t"
+    },
+    {
+      "w": "thit",
+      "p": "th iy t"
+    },
+    {
+      "w": "thal",
+      "p": "th aa l"
+    },
+    {
+      "w": "thael",
+      "p": "th eh l"
+    },
+    {
+      "w": "thyal",
+      "p": "th y aa l"
+    },
+    {
+      "w": "thyael",
+      "p": "th y eh l"
+    },
+    {
+      "w": "theol",
+      "p": "th ao l"
+    },
+    {
+      "w": "thel",
+      "p": "th eh l"
+    },
+    {
+      "w": "thyeol",
+      "p": "th y ao l"
+    },
+    {
+      "w": "thyel",
+      "p": "th y eh l"
+    },
+    {
+      "w": "thol",
+      "p": "th ao l"
+    },
+    {
+      "w": "thwal",
+      "p": "th w aa l"
+    },
+    {
+      "w": "thwael",
+      "p": "th w eh l"
+    },
+    {
+      "w": "thoel",
+      "p": "th w eh l"
+    },
+    {
+      "w": "thyol",
+      "p": "th y ao l"
+    },
+    {
+      "w": "thul",
+      "p": "th uh l"
+    },
+    {
+      "w": "thwol",
+      "p": "th w ao l"
+    },
+    {
+      "w": "thweol",
+      "p": "th w ao l"
+    },
+    {
+      "w": "thwel",
+      "p": "th w eh l"
+    },
+    {
+      "w": "thwil",
+      "p": "th w iy l"
+    },
+    {
+      "w": "thyul",
+      "p": "th y uh l"
+    },
+    {
+      "w": "theul",
+      "p": "th ax l"
+    },
+    {
+      "w": "thuil",
+      "p": "th w iy l"
+    },
+    {
+      "w": "theuil",
+      "p": "th w iy l"
+    },
+    {
+      "w": "thil",
+      "p": "th iy l"
+    },
+    {
+      "w": "tham",
+      "p": "th aa m"
+    },
+    {
+      "w": "thaem",
+      "p": "th eh m"
+    },
+    {
+      "w": "thyam",
+      "p": "th y aa m"
+    },
+    {
+      "w": "thyaem",
+      "p": "th y eh m"
+    },
+    {
+      "w": "theom",
+      "p": "th ao m"
+    },
+    {
+      "w": "them",
+      "p": "th eh m"
+    },
+    {
+      "w": "thyeom",
+      "p": "th y ao m"
+    },
+    {
+      "w": "thyem",
+      "p": "th y eh m"
+    },
+    {
+      "w": "thom",
+      "p": "th ao m"
+    },
+    {
+      "w": "thwam",
+      "p": "th w aa m"
+    },
+    {
+      "w": "thwaem",
+      "p": "th w eh m"
+    },
+    {
+      "w": "thoem",
+      "p": "th w eh m"
+    },
+    {
+      "w": "thyom",
+      "p": "th y ao m"
+    },
+    {
+      "w": "thum",
+      "p": "th uh m"
+    },
+    {
+      "w": "thwom",
+      "p": "th w ao m"
+    },
+    {
+      "w": "thweom",
+      "p": "th w ao m"
+    },
+    {
+      "w": "thwem",
+      "p": "th w eh m"
+    },
+    {
+      "w": "thwim",
+      "p": "th w iy m"
+    },
+    {
+      "w": "thyum",
+      "p": "th y uh m"
+    },
+    {
+      "w": "theum",
+      "p": "th ax m"
+    },
+    {
+      "w": "thuim",
+      "p": "th w iy m"
+    },
+    {
+      "w": "theuim",
+      "p": "th w iy m"
+    },
+    {
+      "w": "thim",
+      "p": "th iy m"
+    },
+    {
+      "w": "thap",
+      "p": "th aa p"
+    },
+    {
+      "w": "thaep",
+      "p": "th eh p"
+    },
+    {
+      "w": "thyap",
+      "p": "th y aa p"
+    },
+    {
+      "w": "thyaep",
+      "p": "th y eh p"
+    },
+    {
+      "w": "theop",
+      "p": "th ao p"
+    },
+    {
+      "w": "thep",
+      "p": "th eh p"
+    },
+    {
+      "w": "thyeop",
+      "p": "th y ao p"
+    },
+    {
+      "w": "thyep",
+      "p": "th y eh p"
+    },
+    {
+      "w": "thop",
+      "p": "th ao p"
+    },
+    {
+      "w": "thwap",
+      "p": "th w aa p"
+    },
+    {
+      "w": "thwaep",
+      "p": "th w eh p"
+    },
+    {
+      "w": "thoep",
+      "p": "th w eh p"
+    },
+    {
+      "w": "thyop",
+      "p": "th y ao p"
+    },
+    {
+      "w": "thup",
+      "p": "th uh p"
+    },
+    {
+      "w": "thwop",
+      "p": "th w ao p"
+    },
+    {
+      "w": "thweop",
+      "p": "th w ao p"
+    },
+    {
+      "w": "thwep",
+      "p": "th w eh p"
+    },
+    {
+      "w": "thwip",
+      "p": "th w iy p"
+    },
+    {
+      "w": "thyup",
+      "p": "th y uh p"
+    },
+    {
+      "w": "theup",
+      "p": "th ax p"
+    },
+    {
+      "w": "thuip",
+      "p": "th w iy p"
+    },
+    {
+      "w": "theuip",
+      "p": "th w iy p"
+    },
+    {
+      "w": "thip",
+      "p": "th iy p"
+    },
+    {
+      "w": "thang",
+      "p": "th aa ng"
+    },
+    {
+      "w": "thaeng",
+      "p": "th eh ng"
+    },
+    {
+      "w": "thyang",
+      "p": "th y aa ng"
+    },
+    {
+      "w": "thyaeng",
+      "p": "th y eh ng"
+    },
+    {
+      "w": "theong",
+      "p": "th ao ng"
+    },
+    {
+      "w": "theng",
+      "p": "th eh ng"
+    },
+    {
+      "w": "thyeong",
+      "p": "th y ao ng"
+    },
+    {
+      "w": "thyeng",
+      "p": "th y eh ng"
+    },
+    {
+      "w": "thong",
+      "p": "th ao ng"
+    },
+    {
+      "w": "thwang",
+      "p": "th w aa ng"
+    },
+    {
+      "w": "thwaeng",
+      "p": "th w eh ng"
+    },
+    {
+      "w": "thoeng",
+      "p": "th w eh ng"
+    },
+    {
+      "w": "thyong",
+      "p": "th y ao ng"
+    },
+    {
+      "w": "thung",
+      "p": "th uh ng"
+    },
+    {
+      "w": "thwong",
+      "p": "th w ao ng"
+    },
+    {
+      "w": "thweong",
+      "p": "th w ao ng"
+    },
+    {
+      "w": "thweng",
+      "p": "th w eh ng"
+    },
+    {
+      "w": "thwing",
+      "p": "th w iy ng"
+    },
+    {
+      "w": "thyung",
+      "p": "th y uh ng"
+    },
+    {
+      "w": "theung",
+      "p": "th ax ng"
+    },
+    {
+      "w": "thuing",
+      "p": "th w iy ng"
+    },
+    {
+      "w": "theuing",
+      "p": "th w iy ng"
+    },
+    {
+      "w": "thing",
+      "p": "th iy ng"
     },
     {
       "w": "k",

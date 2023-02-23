@@ -11041,742 +11041,6 @@
       "p": "sh i N"
     },
     {
-      "w": "sa",
-      "p": "s a"
-    },
-    {
-      "w": "sae",
-      "p": "s e"
-    },
-    {
-      "w": "sya",
-      "p": "sh a"
-    },
-    {
-      "w": "syae",
-      "p": "sh e"
-    },
-    {
-      "w": "seo",
-      "p": "s o"
-    },
-    {
-      "w": "se",
-      "p": "s e"
-    },
-    {
-      "w": "syeo",
-      "p": "sh o"
-    },
-    {
-      "w": "sye",
-      "p": "sh e"
-    },
-    {
-      "w": "so",
-      "p": "s o"
-    },
-    {
-      "w": "swa",
-      "p": "s w a"
-    },
-    {
-      "w": "swae",
-      "p": "s w e"
-    },
-    {
-      "w": "soe",
-      "p": "s w e"
-    },
-    {
-      "w": "syo",
-      "p": "sh o"
-    },
-    {
-      "w": "su",
-      "p": "s u"
-    },
-    {
-      "w": "swo",
-      "p": "s w o"
-    },
-    {
-      "w": "sweo",
-      "p": "s w o"
-    },
-    {
-      "w": "swe",
-      "p": "s w e"
-    },
-    {
-      "w": "swi",
-      "p": "sh w i"
-    },
-    {
-      "w": "syu",
-      "p": "sh u"
-    },
-    {
-      "w": "seu",
-      "p": "s u"
-    },
-    {
-      "w": "sui",
-      "p": "sh w i"
-    },
-    {
-      "w": "seui",
-      "p": "sh w i"
-    },
-    {
-      "w": "si",
-      "p": "sh i"
-    },
-    {
-      "w": "sak",
-      "p": "s a k"
-    },
-    {
-      "w": "saek",
-      "p": "s e k"
-    },
-    {
-      "w": "syak",
-      "p": "sh a k"
-    },
-    {
-      "w": "syaek",
-      "p": "sh e k"
-    },
-    {
-      "w": "seok",
-      "p": "s o k"
-    },
-    {
-      "w": "sek",
-      "p": "s e k"
-    },
-    {
-      "w": "syeok",
-      "p": "sh o k"
-    },
-    {
-      "w": "syek",
-      "p": "sh e k"
-    },
-    {
-      "w": "sok",
-      "p": "s o k"
-    },
-    {
-      "w": "swak",
-      "p": "s w a k"
-    },
-    {
-      "w": "swaek",
-      "p": "s w e k"
-    },
-    {
-      "w": "soek",
-      "p": "s w e k"
-    },
-    {
-      "w": "syok",
-      "p": "sh o k"
-    },
-    {
-      "w": "suk",
-      "p": "s u k"
-    },
-    {
-      "w": "swok",
-      "p": "s w o k"
-    },
-    {
-      "w": "sweok",
-      "p": "s w o k"
-    },
-    {
-      "w": "swek",
-      "p": "s w e k"
-    },
-    {
-      "w": "swik",
-      "p": "sh w i k"
-    },
-    {
-      "w": "syuk",
-      "p": "sh u k"
-    },
-    {
-      "w": "seuk",
-      "p": "s u k"
-    },
-    {
-      "w": "suik",
-      "p": "sh w i k"
-    },
-    {
-      "w": "seuik",
-      "p": "sh w i k"
-    },
-    {
-      "w": "sik",
-      "p": "sh i k"
-    },
-    {
-      "w": "san",
-      "p": "s a n"
-    },
-    {
-      "w": "saen",
-      "p": "s e n"
-    },
-    {
-      "w": "syan",
-      "p": "sh a n"
-    },
-    {
-      "w": "syaen",
-      "p": "sh e n"
-    },
-    {
-      "w": "seon",
-      "p": "s o n"
-    },
-    {
-      "w": "sen",
-      "p": "s e n"
-    },
-    {
-      "w": "syeon",
-      "p": "sh o n"
-    },
-    {
-      "w": "syen",
-      "p": "sh e n"
-    },
-    {
-      "w": "son",
-      "p": "s o n"
-    },
-    {
-      "w": "swan",
-      "p": "s w a n"
-    },
-    {
-      "w": "swaen",
-      "p": "s w e n"
-    },
-    {
-      "w": "soen",
-      "p": "s w e n"
-    },
-    {
-      "w": "syon",
-      "p": "sh o n"
-    },
-    {
-      "w": "sun",
-      "p": "s u n"
-    },
-    {
-      "w": "swon",
-      "p": "s w o n"
-    },
-    {
-      "w": "sweon",
-      "p": "s w o n"
-    },
-    {
-      "w": "swen",
-      "p": "s w e n"
-    },
-    {
-      "w": "swin",
-      "p": "sh w i n"
-    },
-    {
-      "w": "syun",
-      "p": "sh u n"
-    },
-    {
-      "w": "seun",
-      "p": "s u n"
-    },
-    {
-      "w": "suin",
-      "p": "sh w i n"
-    },
-    {
-      "w": "seuin",
-      "p": "sh w i n"
-    },
-    {
-      "w": "sin",
-      "p": "sh i n"
-    },
-    {
-      "w": "sat",
-      "p": "s a t"
-    },
-    {
-      "w": "saet",
-      "p": "s e t"
-    },
-    {
-      "w": "syat",
-      "p": "sh a t"
-    },
-    {
-      "w": "syaet",
-      "p": "sh e t"
-    },
-    {
-      "w": "seot",
-      "p": "s o t"
-    },
-    {
-      "w": "set",
-      "p": "s e t"
-    },
-    {
-      "w": "syeot",
-      "p": "sh o t"
-    },
-    {
-      "w": "syet",
-      "p": "sh e t"
-    },
-    {
-      "w": "sot",
-      "p": "s o t"
-    },
-    {
-      "w": "swat",
-      "p": "s w a t"
-    },
-    {
-      "w": "swaet",
-      "p": "s w e t"
-    },
-    {
-      "w": "soet",
-      "p": "s w e t"
-    },
-    {
-      "w": "syot",
-      "p": "sh o t"
-    },
-    {
-      "w": "sut",
-      "p": "s u t"
-    },
-    {
-      "w": "swot",
-      "p": "s w o t"
-    },
-    {
-      "w": "sweot",
-      "p": "s w o t"
-    },
-    {
-      "w": "swet",
-      "p": "s w e t"
-    },
-    {
-      "w": "swit",
-      "p": "sh w i t"
-    },
-    {
-      "w": "syut",
-      "p": "sh u t"
-    },
-    {
-      "w": "seut",
-      "p": "s u t"
-    },
-    {
-      "w": "suit",
-      "p": "sh w i t"
-    },
-    {
-      "w": "seuit",
-      "p": "sh w i t"
-    },
-    {
-      "w": "sit",
-      "p": "sh i t"
-    },
-    {
-      "w": "sal",
-      "p": "s a r"
-    },
-    {
-      "w": "sael",
-      "p": "s e r"
-    },
-    {
-      "w": "syal",
-      "p": "sh a r"
-    },
-    {
-      "w": "syael",
-      "p": "sh e r"
-    },
-    {
-      "w": "seol",
-      "p": "s o r"
-    },
-    {
-      "w": "sel",
-      "p": "s e r"
-    },
-    {
-      "w": "syeol",
-      "p": "sh o r"
-    },
-    {
-      "w": "syel",
-      "p": "sh e r"
-    },
-    {
-      "w": "sol",
-      "p": "s o r"
-    },
-    {
-      "w": "swal",
-      "p": "s w a r"
-    },
-    {
-      "w": "swael",
-      "p": "s w e r"
-    },
-    {
-      "w": "soel",
-      "p": "s w e r"
-    },
-    {
-      "w": "syol",
-      "p": "sh o r"
-    },
-    {
-      "w": "sul",
-      "p": "s u r"
-    },
-    {
-      "w": "swol",
-      "p": "s w o r"
-    },
-    {
-      "w": "sweol",
-      "p": "s w o r"
-    },
-    {
-      "w": "swel",
-      "p": "s w e r"
-    },
-    {
-      "w": "swil",
-      "p": "sh w i r"
-    },
-    {
-      "w": "syul",
-      "p": "sh u r"
-    },
-    {
-      "w": "seul",
-      "p": "s u r"
-    },
-    {
-      "w": "suil",
-      "p": "sh w i r"
-    },
-    {
-      "w": "seuil",
-      "p": "sh w i r"
-    },
-    {
-      "w": "sil",
-      "p": "sh i r"
-    },
-    {
-      "w": "sam",
-      "p": "s a m"
-    },
-    {
-      "w": "saem",
-      "p": "s e m"
-    },
-    {
-      "w": "syam",
-      "p": "sh a m"
-    },
-    {
-      "w": "syaem",
-      "p": "sh e m"
-    },
-    {
-      "w": "seom",
-      "p": "s o m"
-    },
-    {
-      "w": "sem",
-      "p": "s e m"
-    },
-    {
-      "w": "syeom",
-      "p": "sh o m"
-    },
-    {
-      "w": "syem",
-      "p": "sh e m"
-    },
-    {
-      "w": "som",
-      "p": "s o m"
-    },
-    {
-      "w": "swam",
-      "p": "s w a m"
-    },
-    {
-      "w": "swaem",
-      "p": "s w e m"
-    },
-    {
-      "w": "soem",
-      "p": "s w e m"
-    },
-    {
-      "w": "syom",
-      "p": "sh o m"
-    },
-    {
-      "w": "sum",
-      "p": "s u m"
-    },
-    {
-      "w": "swom",
-      "p": "s w o m"
-    },
-    {
-      "w": "sweom",
-      "p": "s w o m"
-    },
-    {
-      "w": "swem",
-      "p": "s w e m"
-    },
-    {
-      "w": "swim",
-      "p": "sh w i m"
-    },
-    {
-      "w": "syum",
-      "p": "sh u m"
-    },
-    {
-      "w": "seum",
-      "p": "s u m"
-    },
-    {
-      "w": "suim",
-      "p": "sh w i m"
-    },
-    {
-      "w": "seuim",
-      "p": "sh w i m"
-    },
-    {
-      "w": "sim",
-      "p": "sh i m"
-    },
-    {
-      "w": "sap",
-      "p": "s a p"
-    },
-    {
-      "w": "saep",
-      "p": "s e p"
-    },
-    {
-      "w": "syap",
-      "p": "sh a p"
-    },
-    {
-      "w": "syaep",
-      "p": "sh e p"
-    },
-    {
-      "w": "seop",
-      "p": "s o p"
-    },
-    {
-      "w": "sep",
-      "p": "s e p"
-    },
-    {
-      "w": "syeop",
-      "p": "sh o p"
-    },
-    {
-      "w": "syep",
-      "p": "sh e p"
-    },
-    {
-      "w": "sop",
-      "p": "s o p"
-    },
-    {
-      "w": "swap",
-      "p": "s w a p"
-    },
-    {
-      "w": "swaep",
-      "p": "s w e p"
-    },
-    {
-      "w": "soep",
-      "p": "s w e p"
-    },
-    {
-      "w": "syop",
-      "p": "sh o p"
-    },
-    {
-      "w": "sup",
-      "p": "s u p"
-    },
-    {
-      "w": "swop",
-      "p": "s w o p"
-    },
-    {
-      "w": "sweop",
-      "p": "s w o p"
-    },
-    {
-      "w": "swep",
-      "p": "s w e p"
-    },
-    {
-      "w": "swip",
-      "p": "sh w i p"
-    },
-    {
-      "w": "syup",
-      "p": "sh u p"
-    },
-    {
-      "w": "seup",
-      "p": "s u p"
-    },
-    {
-      "w": "suip",
-      "p": "sh w i p"
-    },
-    {
-      "w": "seuip",
-      "p": "sh w i p"
-    },
-    {
-      "w": "sip",
-      "p": "sh i p"
-    },
-    {
-      "w": "sang",
-      "p": "s a N"
-    },
-    {
-      "w": "saeng",
-      "p": "s e N"
-    },
-    {
-      "w": "syang",
-      "p": "sh a N"
-    },
-    {
-      "w": "syaeng",
-      "p": "sh e N"
-    },
-    {
-      "w": "seong",
-      "p": "s o N"
-    },
-    {
-      "w": "seng",
-      "p": "s e N"
-    },
-    {
-      "w": "syeong",
-      "p": "sh o N"
-    },
-    {
-      "w": "syeng",
-      "p": "sh e N"
-    },
-    {
-      "w": "song",
-      "p": "s o N"
-    },
-    {
-      "w": "swang",
-      "p": "s w a N"
-    },
-    {
-      "w": "swaeng",
-      "p": "s w e N"
-    },
-    {
-      "w": "soeng",
-      "p": "s w e N"
-    },
-    {
-      "w": "syong",
-      "p": "sh o N"
-    },
-    {
-      "w": "sung",
-      "p": "s u N"
-    },
-    {
-      "w": "swong",
-      "p": "s w o N"
-    },
-    {
-      "w": "sweong",
-      "p": "s w o N"
-    },
-    {
-      "w": "sweng",
-      "p": "s w e N"
-    },
-    {
-      "w": "swing",
-      "p": "sh w i N"
-    },
-    {
-      "w": "syung",
-      "p": "sh u N"
-    },
-    {
-      "w": "seung",
-      "p": "s u N"
-    },
-    {
-      "w": "suing",
-      "p": "sh w i N"
-    },
-    {
-      "w": "seuing",
-      "p": "sh w i N"
-    },
-    {
-      "w": "sing",
-      "p": "sh i N"
-    },
-    {
       "w": "ssa",
       "p": "s a"
     },
@@ -20607,6 +19871,742 @@
     {
       "w": "zing",
       "p": "z i N"
+    },
+    {
+      "w": "tha",
+      "p": "s a"
+    },
+    {
+      "w": "thae",
+      "p": "s e"
+    },
+    {
+      "w": "thya",
+      "p": "s y a"
+    },
+    {
+      "w": "thyae",
+      "p": "s y e"
+    },
+    {
+      "w": "theo",
+      "p": "s o"
+    },
+    {
+      "w": "the",
+      "p": "s e"
+    },
+    {
+      "w": "thyeo",
+      "p": "s y o"
+    },
+    {
+      "w": "thye",
+      "p": "s y e"
+    },
+    {
+      "w": "tho",
+      "p": "s o"
+    },
+    {
+      "w": "thwa",
+      "p": "s w a"
+    },
+    {
+      "w": "thwae",
+      "p": "s w e"
+    },
+    {
+      "w": "thoe",
+      "p": "s w e"
+    },
+    {
+      "w": "thyo",
+      "p": "s y o"
+    },
+    {
+      "w": "thu",
+      "p": "s u"
+    },
+    {
+      "w": "thwo",
+      "p": "s w o"
+    },
+    {
+      "w": "thweo",
+      "p": "s w o"
+    },
+    {
+      "w": "thwe",
+      "p": "s w e"
+    },
+    {
+      "w": "thwi",
+      "p": "s w i"
+    },
+    {
+      "w": "thyu",
+      "p": "s y u"
+    },
+    {
+      "w": "theu",
+      "p": "s u"
+    },
+    {
+      "w": "thui",
+      "p": "s w i"
+    },
+    {
+      "w": "theui",
+      "p": "s w i"
+    },
+    {
+      "w": "thi",
+      "p": "s i"
+    },
+    {
+      "w": "thak",
+      "p": "s a k"
+    },
+    {
+      "w": "thaek",
+      "p": "s e k"
+    },
+    {
+      "w": "thyak",
+      "p": "s y a k"
+    },
+    {
+      "w": "thyaek",
+      "p": "s y e k"
+    },
+    {
+      "w": "theok",
+      "p": "s o k"
+    },
+    {
+      "w": "thek",
+      "p": "s e k"
+    },
+    {
+      "w": "thyeok",
+      "p": "s y o k"
+    },
+    {
+      "w": "thyek",
+      "p": "s y e k"
+    },
+    {
+      "w": "thok",
+      "p": "s o k"
+    },
+    {
+      "w": "thwak",
+      "p": "s w a k"
+    },
+    {
+      "w": "thwaek",
+      "p": "s w e k"
+    },
+    {
+      "w": "thoek",
+      "p": "s w e k"
+    },
+    {
+      "w": "thyok",
+      "p": "s y o k"
+    },
+    {
+      "w": "thuk",
+      "p": "s u k"
+    },
+    {
+      "w": "thwok",
+      "p": "s w o k"
+    },
+    {
+      "w": "thweok",
+      "p": "s w o k"
+    },
+    {
+      "w": "thwek",
+      "p": "s w e k"
+    },
+    {
+      "w": "thwik",
+      "p": "s w i k"
+    },
+    {
+      "w": "thyuk",
+      "p": "s y u k"
+    },
+    {
+      "w": "theuk",
+      "p": "s u k"
+    },
+    {
+      "w": "thuik",
+      "p": "s w i k"
+    },
+    {
+      "w": "theuik",
+      "p": "s w i k"
+    },
+    {
+      "w": "thik",
+      "p": "s i k"
+    },
+    {
+      "w": "than",
+      "p": "s a n"
+    },
+    {
+      "w": "thaen",
+      "p": "s e n"
+    },
+    {
+      "w": "thyan",
+      "p": "s y a n"
+    },
+    {
+      "w": "thyaen",
+      "p": "s y e n"
+    },
+    {
+      "w": "theon",
+      "p": "s o n"
+    },
+    {
+      "w": "then",
+      "p": "s e n"
+    },
+    {
+      "w": "thyeon",
+      "p": "s y o n"
+    },
+    {
+      "w": "thyen",
+      "p": "s y e n"
+    },
+    {
+      "w": "thon",
+      "p": "s o n"
+    },
+    {
+      "w": "thwan",
+      "p": "s w a n"
+    },
+    {
+      "w": "thwaen",
+      "p": "s w e n"
+    },
+    {
+      "w": "thoen",
+      "p": "s w e n"
+    },
+    {
+      "w": "thyon",
+      "p": "s y o n"
+    },
+    {
+      "w": "thun",
+      "p": "s u n"
+    },
+    {
+      "w": "thwon",
+      "p": "s w o n"
+    },
+    {
+      "w": "thweon",
+      "p": "s w o n"
+    },
+    {
+      "w": "thwen",
+      "p": "s w e n"
+    },
+    {
+      "w": "thwin",
+      "p": "s w i n"
+    },
+    {
+      "w": "thyun",
+      "p": "s y u n"
+    },
+    {
+      "w": "theun",
+      "p": "s u n"
+    },
+    {
+      "w": "thuin",
+      "p": "s w i n"
+    },
+    {
+      "w": "theuin",
+      "p": "s w i n"
+    },
+    {
+      "w": "thin",
+      "p": "s i n"
+    },
+    {
+      "w": "that",
+      "p": "s a t"
+    },
+    {
+      "w": "thaet",
+      "p": "s e t"
+    },
+    {
+      "w": "thyat",
+      "p": "s y a t"
+    },
+    {
+      "w": "thyaet",
+      "p": "s y e t"
+    },
+    {
+      "w": "theot",
+      "p": "s o t"
+    },
+    {
+      "w": "thet",
+      "p": "s e t"
+    },
+    {
+      "w": "thyeot",
+      "p": "s y o t"
+    },
+    {
+      "w": "thyet",
+      "p": "s y e t"
+    },
+    {
+      "w": "thot",
+      "p": "s o t"
+    },
+    {
+      "w": "thwat",
+      "p": "s w a t"
+    },
+    {
+      "w": "thwaet",
+      "p": "s w e t"
+    },
+    {
+      "w": "thoet",
+      "p": "s w e t"
+    },
+    {
+      "w": "thyot",
+      "p": "s y o t"
+    },
+    {
+      "w": "thut",
+      "p": "s u t"
+    },
+    {
+      "w": "thwot",
+      "p": "s w o t"
+    },
+    {
+      "w": "thweot",
+      "p": "s w o t"
+    },
+    {
+      "w": "thwet",
+      "p": "s w e t"
+    },
+    {
+      "w": "thwit",
+      "p": "s w i t"
+    },
+    {
+      "w": "thyut",
+      "p": "s y u t"
+    },
+    {
+      "w": "theut",
+      "p": "s u t"
+    },
+    {
+      "w": "thuit",
+      "p": "s w i t"
+    },
+    {
+      "w": "theuit",
+      "p": "s w i t"
+    },
+    {
+      "w": "thit",
+      "p": "s i t"
+    },
+    {
+      "w": "thal",
+      "p": "s a r"
+    },
+    {
+      "w": "thael",
+      "p": "s e r"
+    },
+    {
+      "w": "thyal",
+      "p": "s y a r"
+    },
+    {
+      "w": "thyael",
+      "p": "s y e r"
+    },
+    {
+      "w": "theol",
+      "p": "s o r"
+    },
+    {
+      "w": "thel",
+      "p": "s e r"
+    },
+    {
+      "w": "thyeol",
+      "p": "s y o r"
+    },
+    {
+      "w": "thyel",
+      "p": "s y e r"
+    },
+    {
+      "w": "thol",
+      "p": "s o r"
+    },
+    {
+      "w": "thwal",
+      "p": "s w a r"
+    },
+    {
+      "w": "thwael",
+      "p": "s w e r"
+    },
+    {
+      "w": "thoel",
+      "p": "s w e r"
+    },
+    {
+      "w": "thyol",
+      "p": "s y o r"
+    },
+    {
+      "w": "thul",
+      "p": "s u r"
+    },
+    {
+      "w": "thwol",
+      "p": "s w o r"
+    },
+    {
+      "w": "thweol",
+      "p": "s w o r"
+    },
+    {
+      "w": "thwel",
+      "p": "s w e r"
+    },
+    {
+      "w": "thwil",
+      "p": "s w i r"
+    },
+    {
+      "w": "thyul",
+      "p": "s y u r"
+    },
+    {
+      "w": "theul",
+      "p": "s u r"
+    },
+    {
+      "w": "thuil",
+      "p": "s w i r"
+    },
+    {
+      "w": "theuil",
+      "p": "s w i r"
+    },
+    {
+      "w": "thil",
+      "p": "s i r"
+    },
+    {
+      "w": "tham",
+      "p": "s a m"
+    },
+    {
+      "w": "thaem",
+      "p": "s e m"
+    },
+    {
+      "w": "thyam",
+      "p": "s y a m"
+    },
+    {
+      "w": "thyaem",
+      "p": "s y e m"
+    },
+    {
+      "w": "theom",
+      "p": "s o m"
+    },
+    {
+      "w": "them",
+      "p": "s e m"
+    },
+    {
+      "w": "thyeom",
+      "p": "s y o m"
+    },
+    {
+      "w": "thyem",
+      "p": "s y e m"
+    },
+    {
+      "w": "thom",
+      "p": "s o m"
+    },
+    {
+      "w": "thwam",
+      "p": "s w a m"
+    },
+    {
+      "w": "thwaem",
+      "p": "s w e m"
+    },
+    {
+      "w": "thoem",
+      "p": "s w e m"
+    },
+    {
+      "w": "thyom",
+      "p": "s y o m"
+    },
+    {
+      "w": "thum",
+      "p": "s u m"
+    },
+    {
+      "w": "thwom",
+      "p": "s w o m"
+    },
+    {
+      "w": "thweom",
+      "p": "s w o m"
+    },
+    {
+      "w": "thwem",
+      "p": "s w e m"
+    },
+    {
+      "w": "thwim",
+      "p": "s w i m"
+    },
+    {
+      "w": "thyum",
+      "p": "s y u m"
+    },
+    {
+      "w": "theum",
+      "p": "s u m"
+    },
+    {
+      "w": "thuim",
+      "p": "s w i m"
+    },
+    {
+      "w": "theuim",
+      "p": "s w i m"
+    },
+    {
+      "w": "thim",
+      "p": "s i m"
+    },
+    {
+      "w": "thap",
+      "p": "s a p"
+    },
+    {
+      "w": "thaep",
+      "p": "s e p"
+    },
+    {
+      "w": "thyap",
+      "p": "s y a p"
+    },
+    {
+      "w": "thyaep",
+      "p": "s y e p"
+    },
+    {
+      "w": "theop",
+      "p": "s o p"
+    },
+    {
+      "w": "thep",
+      "p": "s e p"
+    },
+    {
+      "w": "thyeop",
+      "p": "s y o p"
+    },
+    {
+      "w": "thyep",
+      "p": "s y e p"
+    },
+    {
+      "w": "thop",
+      "p": "s o p"
+    },
+    {
+      "w": "thwap",
+      "p": "s w a p"
+    },
+    {
+      "w": "thwaep",
+      "p": "s w e p"
+    },
+    {
+      "w": "thoep",
+      "p": "s w e p"
+    },
+    {
+      "w": "thyop",
+      "p": "s y o p"
+    },
+    {
+      "w": "thup",
+      "p": "s u p"
+    },
+    {
+      "w": "thwop",
+      "p": "s w o p"
+    },
+    {
+      "w": "thweop",
+      "p": "s w o p"
+    },
+    {
+      "w": "thwep",
+      "p": "s w e p"
+    },
+    {
+      "w": "thwip",
+      "p": "s w i p"
+    },
+    {
+      "w": "thyup",
+      "p": "s y u p"
+    },
+    {
+      "w": "theup",
+      "p": "s u p"
+    },
+    {
+      "w": "thuip",
+      "p": "s w i p"
+    },
+    {
+      "w": "theuip",
+      "p": "s w i p"
+    },
+    {
+      "w": "thip",
+      "p": "s i p"
+    },
+    {
+      "w": "thang",
+      "p": "s a N"
+    },
+    {
+      "w": "thaeng",
+      "p": "s e N"
+    },
+    {
+      "w": "thyang",
+      "p": "s y a N"
+    },
+    {
+      "w": "thyaeng",
+      "p": "s y e N"
+    },
+    {
+      "w": "theong",
+      "p": "s o N"
+    },
+    {
+      "w": "theng",
+      "p": "s e N"
+    },
+    {
+      "w": "thyeong",
+      "p": "s y o N"
+    },
+    {
+      "w": "thyeng",
+      "p": "s y e N"
+    },
+    {
+      "w": "thong",
+      "p": "s o N"
+    },
+    {
+      "w": "thwang",
+      "p": "s w a N"
+    },
+    {
+      "w": "thwaeng",
+      "p": "s w e N"
+    },
+    {
+      "w": "thoeng",
+      "p": "s w e N"
+    },
+    {
+      "w": "thyong",
+      "p": "s y o N"
+    },
+    {
+      "w": "thung",
+      "p": "s u N"
+    },
+    {
+      "w": "thwong",
+      "p": "s w o N"
+    },
+    {
+      "w": "thweong",
+      "p": "s w o N"
+    },
+    {
+      "w": "thweng",
+      "p": "s w e N"
+    },
+    {
+      "w": "thwing",
+      "p": "s w i N"
+    },
+    {
+      "w": "thyung",
+      "p": "s y u N"
+    },
+    {
+      "w": "theung",
+      "p": "s u N"
+    },
+    {
+      "w": "thuing",
+      "p": "s w i N"
+    },
+    {
+      "w": "theuing",
+      "p": "s w i N"
+    },
+    {
+      "w": "thing",
+      "p": "s i N"
     },
     {
       "w": "k",
