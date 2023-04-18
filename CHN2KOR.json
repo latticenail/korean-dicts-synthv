@@ -186,95 +186,95 @@
     },
     {
       "w": "an",
-      "p": "a n"
+      "p": "a :n"
     },
     {
       "w": "aen",
-      "p": "e n"
+      "p": "e :n"
     },
     {
       "w": "yan",
-      "p": "j ia n"
+      "p": "j ia :n"
     },
     {
       "w": "yaen",
-      "p": "j ie n"
+      "p": "j ie :n"
     },
     {
       "w": "eon",
-      "p": "o n"
+      "p": "o :n"
     },
     {
       "w": "en",
-      "p": "e n"
+      "p": "e :n"
     },
     {
       "w": "yeon",
-      "p": "j o n"
+      "p": "j o :n"
     },
     {
       "w": "yen",
-      "p": "j ie n"
+      "p": "j ie :n"
     },
     {
       "w": "on",
-      "p": "o n"
+      "p": "o :n"
     },
     {
       "w": "wan",
-      "p": "w ua n"
+      "p": "w ua :n"
     },
     {
       "w": "waen",
-      "p": "w ue n"
+      "p": "w ue :n"
     },
     {
       "w": "oen",
-      "p": "w ue n"
+      "p": "w ue :n"
     },
     {
       "w": "yon",
-      "p": "j o n"
+      "p": "j o :n"
     },
     {
       "w": "un",
-      "p": "u n"
+      "p": "u :n"
     },
     {
       "w": "won",
-      "p": "w uo n"
+      "p": "w uo :n"
     },
     {
       "w": "weon",
-      "p": "w uo n"
+      "p": "w uo :n"
     },
     {
       "w": "wen",
-      "p": "w ue n"
+      "p": "w ue :n"
     },
     {
       "w": "win",
-      "p": "w i n"
+      "p": "w i :n"
     },
     {
       "w": "yun",
-      "p": "j u n"
+      "p": "j u :n"
     },
     {
       "w": "eun",
-      "p": "u@ n"
+      "p": "u@ :n"
     },
     {
       "w": "uin",
-      "p": "w i n"
+      "p": "w i :n"
     },
     {
       "w": "euin",
-      "p": "w i n"
+      "p": "w i :n"
     },
     {
       "w": "in",
-      "p": "i n"
+      "p": "i :n"
     },
     {
       "w": "at",
@@ -922,95 +922,95 @@
     },
     {
       "w": "gan",
-      "p": "k a n"
+      "p": "k a :n"
     },
     {
       "w": "gaen",
-      "p": "k e n"
+      "p": "k e :n"
     },
     {
       "w": "gyan",
-      "p": "k ia n"
+      "p": "k ia :n"
     },
     {
       "w": "gyaen",
-      "p": "k ie n"
+      "p": "k ie :n"
     },
     {
       "w": "geon",
-      "p": "k o n"
+      "p": "k o :n"
     },
     {
       "w": "gen",
-      "p": "k e n"
+      "p": "k e :n"
     },
     {
       "w": "gyeon",
-      "p": "k j o n"
+      "p": "k j o :n"
     },
     {
       "w": "gyen",
-      "p": "k ie n"
+      "p": "k ie :n"
     },
     {
       "w": "gon",
-      "p": "k o n"
+      "p": "k o :n"
     },
     {
       "w": "gwan",
-      "p": "k ua n"
+      "p": "k ua :n"
     },
     {
       "w": "gwaen",
-      "p": "k ue n"
+      "p": "k ue :n"
     },
     {
       "w": "goen",
-      "p": "k ue n"
+      "p": "k ue :n"
     },
     {
       "w": "gyon",
-      "p": "k j o n"
+      "p": "k j o :n"
     },
     {
       "w": "gun",
-      "p": "k u n"
+      "p": "k u :n"
     },
     {
       "w": "gwon",
-      "p": "k uo n"
+      "p": "k uo :n"
     },
     {
       "w": "gweon",
-      "p": "k uo n"
+      "p": "k uo :n"
     },
     {
       "w": "gwen",
-      "p": "k ue n"
+      "p": "k ue :n"
     },
     {
       "w": "gwin",
-      "p": "k w i n"
+      "p": "k w i :n"
     },
     {
       "w": "gyun",
-      "p": "k j u n"
+      "p": "k j u :n"
     },
     {
       "w": "geun",
-      "p": "k u@ n"
+      "p": "k u@ :n"
     },
     {
       "w": "guin",
-      "p": "k w i n"
+      "p": "k w i :n"
     },
     {
       "w": "geuin",
-      "p": "k w i n"
+      "p": "k w i :n"
     },
     {
       "w": "gin",
-      "p": "k i n"
+      "p": "k i :n"
     },
     {
       "w": "gat",
@@ -1658,95 +1658,95 @@
     },
     {
       "w": "kkan",
-      "p": "cl k a n"
+      "p": "cl k a :n"
     },
     {
       "w": "kkaen",
-      "p": "cl k e n"
+      "p": "cl k e :n"
     },
     {
       "w": "kkyan",
-      "p": "cl k ia n"
+      "p": "cl k ia :n"
     },
     {
       "w": "kkyaen",
-      "p": "cl k ie n"
+      "p": "cl k ie :n"
     },
     {
       "w": "kkeon",
-      "p": "cl k o n"
+      "p": "cl k o :n"
     },
     {
       "w": "kken",
-      "p": "cl k e n"
+      "p": "cl k e :n"
     },
     {
       "w": "kkyeon",
-      "p": "cl k j o n"
+      "p": "cl k j o :n"
     },
     {
       "w": "kkyen",
-      "p": "cl k ie n"
+      "p": "cl k ie :n"
     },
     {
       "w": "kkon",
-      "p": "cl k o n"
+      "p": "cl k o :n"
     },
     {
       "w": "kkwan",
-      "p": "cl k ua n"
+      "p": "cl k ua :n"
     },
     {
       "w": "kkwaen",
-      "p": "cl k ue n"
+      "p": "cl k ue :n"
     },
     {
       "w": "kkoen",
-      "p": "cl k ue n"
+      "p": "cl k ue :n"
     },
     {
       "w": "kkyon",
-      "p": "cl k j o n"
+      "p": "cl k j o :n"
     },
     {
       "w": "kkun",
-      "p": "cl k u n"
+      "p": "cl k u :n"
     },
     {
       "w": "kkwon",
-      "p": "cl k uo n"
+      "p": "cl k uo :n"
     },
     {
       "w": "kkweon",
-      "p": "cl k uo n"
+      "p": "cl k uo :n"
     },
     {
       "w": "kkwen",
-      "p": "cl k ue n"
+      "p": "cl k ue :n"
     },
     {
       "w": "kkwin",
-      "p": "cl k w i n"
+      "p": "cl k w i :n"
     },
     {
       "w": "kkyun",
-      "p": "cl k j u n"
+      "p": "cl k j u :n"
     },
     {
       "w": "kkeun",
-      "p": "cl k u@ n"
+      "p": "cl k u@ :n"
     },
     {
       "w": "kkuin",
-      "p": "cl k w i n"
+      "p": "cl k w i :n"
     },
     {
       "w": "kkeuin",
-      "p": "cl k w i n"
+      "p": "cl k w i :n"
     },
     {
       "w": "kkin",
-      "p": "cl k i n"
+      "p": "cl k i :n"
     },
     {
       "w": "kkat",
@@ -2394,95 +2394,95 @@
     },
     {
       "w": "ggan",
-      "p": "cl k a n"
+      "p": "cl k a :n"
     },
     {
       "w": "ggaen",
-      "p": "cl k e n"
+      "p": "cl k e :n"
     },
     {
       "w": "ggyan",
-      "p": "cl k ia n"
+      "p": "cl k ia :n"
     },
     {
       "w": "ggyaen",
-      "p": "cl k ie n"
+      "p": "cl k ie :n"
     },
     {
       "w": "ggeon",
-      "p": "cl k o n"
+      "p": "cl k o :n"
     },
     {
       "w": "ggen",
-      "p": "cl k e n"
+      "p": "cl k e :n"
     },
     {
       "w": "ggyeon",
-      "p": "cl k j o n"
+      "p": "cl k j o :n"
     },
     {
       "w": "ggyen",
-      "p": "cl k ie n"
+      "p": "cl k ie :n"
     },
     {
       "w": "ggon",
-      "p": "cl k o n"
+      "p": "cl k o :n"
     },
     {
       "w": "ggwan",
-      "p": "cl k ua n"
+      "p": "cl k ua :n"
     },
     {
       "w": "ggwaen",
-      "p": "cl k ue n"
+      "p": "cl k ue :n"
     },
     {
       "w": "ggoen",
-      "p": "cl k ue n"
+      "p": "cl k ue :n"
     },
     {
       "w": "ggyon",
-      "p": "cl k j o n"
+      "p": "cl k j o :n"
     },
     {
       "w": "ggun",
-      "p": "cl k u n"
+      "p": "cl k u :n"
     },
     {
       "w": "ggwon",
-      "p": "cl k uo n"
+      "p": "cl k uo :n"
     },
     {
       "w": "ggweon",
-      "p": "cl k uo n"
+      "p": "cl k uo :n"
     },
     {
       "w": "ggwen",
-      "p": "cl k ue n"
+      "p": "cl k ue :n"
     },
     {
       "w": "ggwin",
-      "p": "cl k w i n"
+      "p": "cl k w i :n"
     },
     {
       "w": "ggyun",
-      "p": "cl k j u n"
+      "p": "cl k j u :n"
     },
     {
       "w": "ggeun",
-      "p": "cl k u@ n"
+      "p": "cl k u@ :n"
     },
     {
       "w": "gguin",
-      "p": "cl k w i n"
+      "p": "cl k w i :n"
     },
     {
       "w": "ggeuin",
-      "p": "cl k w i n"
+      "p": "cl k w i :n"
     },
     {
       "w": "ggin",
-      "p": "cl k i n"
+      "p": "cl k i :n"
     },
     {
       "w": "ggat",
@@ -3130,95 +3130,95 @@
     },
     {
       "w": "nan",
-      "p": "n a n"
+      "p": "n a :n"
     },
     {
       "w": "naen",
-      "p": "n e n"
+      "p": "n e :n"
     },
     {
       "w": "nyan",
-      "p": "n ia n"
+      "p": "n ia :n"
     },
     {
       "w": "nyaen",
-      "p": "n ie n"
+      "p": "n ie :n"
     },
     {
       "w": "neon",
-      "p": "n o n"
+      "p": "n o :n"
     },
     {
       "w": "nen",
-      "p": "n e n"
+      "p": "n e :n"
     },
     {
       "w": "nyeon",
-      "p": "n j o n"
+      "p": "n j o :n"
     },
     {
       "w": "nyen",
-      "p": "n ie n"
+      "p": "n ie :n"
     },
     {
       "w": "non",
-      "p": "n o n"
+      "p": "n o :n"
     },
     {
       "w": "nwan",
-      "p": "n ua n"
+      "p": "n ua :n"
     },
     {
       "w": "nwaen",
-      "p": "n ue n"
+      "p": "n ue :n"
     },
     {
       "w": "noen",
-      "p": "n ue n"
+      "p": "n ue :n"
     },
     {
       "w": "nyon",
-      "p": "n j o n"
+      "p": "n j o :n"
     },
     {
       "w": "nun",
-      "p": "n u n"
+      "p": "n u :n"
     },
     {
       "w": "nwon",
-      "p": "n uo n"
+      "p": "n uo :n"
     },
     {
       "w": "nweon",
-      "p": "n uo n"
+      "p": "n uo :n"
     },
     {
       "w": "nwen",
-      "p": "n ue n"
+      "p": "n ue :n"
     },
     {
       "w": "nwin",
-      "p": "n w i n"
+      "p": "n w i :n"
     },
     {
       "w": "nyun",
-      "p": "n j u n"
+      "p": "n j u :n"
     },
     {
       "w": "neun",
-      "p": "n u@ n"
+      "p": "n u@ :n"
     },
     {
       "w": "nuin",
-      "p": "n w i n"
+      "p": "n w i :n"
     },
     {
       "w": "neuin",
-      "p": "n w i n"
+      "p": "n w i :n"
     },
     {
       "w": "nin",
-      "p": "n i n"
+      "p": "n i :n"
     },
     {
       "w": "nat",
@@ -3866,95 +3866,95 @@
     },
     {
       "w": "dan",
-      "p": "t a n"
+      "p": "t a :n"
     },
     {
       "w": "daen",
-      "p": "t e n"
+      "p": "t e :n"
     },
     {
       "w": "dyan",
-      "p": "t ia n"
+      "p": "t ia :n"
     },
     {
       "w": "dyaen",
-      "p": "t ie n"
+      "p": "t ie :n"
     },
     {
       "w": "deon",
-      "p": "t o n"
+      "p": "t o :n"
     },
     {
       "w": "den",
-      "p": "t e n"
+      "p": "t e :n"
     },
     {
       "w": "dyeon",
-      "p": "t j o n"
+      "p": "t j o :n"
     },
     {
       "w": "dyen",
-      "p": "t ie n"
+      "p": "t ie :n"
     },
     {
       "w": "don",
-      "p": "t o n"
+      "p": "t o :n"
     },
     {
       "w": "dwan",
-      "p": "t ua n"
+      "p": "t ua :n"
     },
     {
       "w": "dwaen",
-      "p": "t ue n"
+      "p": "t ue :n"
     },
     {
       "w": "doen",
-      "p": "t ue n"
+      "p": "t ue :n"
     },
     {
       "w": "dyon",
-      "p": "t j o n"
+      "p": "t j o :n"
     },
     {
       "w": "dun",
-      "p": "t u n"
+      "p": "t u :n"
     },
     {
       "w": "dwon",
-      "p": "t uo n"
+      "p": "t uo :n"
     },
     {
       "w": "dweon",
-      "p": "t uo n"
+      "p": "t uo :n"
     },
     {
       "w": "dwen",
-      "p": "t ue n"
+      "p": "t ue :n"
     },
     {
       "w": "dwin",
-      "p": "t w i n"
+      "p": "t w i :n"
     },
     {
       "w": "dyun",
-      "p": "t j u n"
+      "p": "t j u :n"
     },
     {
       "w": "deun",
-      "p": "t u@ n"
+      "p": "t u@ :n"
     },
     {
       "w": "duin",
-      "p": "t w i n"
+      "p": "t w i :n"
     },
     {
       "w": "deuin",
-      "p": "t w i n"
+      "p": "t w i :n"
     },
     {
       "w": "din",
-      "p": "t i n"
+      "p": "t i :n"
     },
     {
       "w": "dat",
@@ -4602,95 +4602,95 @@
     },
     {
       "w": "ttan",
-      "p": "cl t a n"
+      "p": "cl t a :n"
     },
     {
       "w": "ttaen",
-      "p": "cl t e n"
+      "p": "cl t e :n"
     },
     {
       "w": "ttyan",
-      "p": "cl t ia n"
+      "p": "cl t ia :n"
     },
     {
       "w": "ttyaen",
-      "p": "cl t ie n"
+      "p": "cl t ie :n"
     },
     {
       "w": "tteon",
-      "p": "cl t o n"
+      "p": "cl t o :n"
     },
     {
       "w": "tten",
-      "p": "cl t e n"
+      "p": "cl t e :n"
     },
     {
       "w": "ttyeon",
-      "p": "cl t j o n"
+      "p": "cl t j o :n"
     },
     {
       "w": "ttyen",
-      "p": "cl t ie n"
+      "p": "cl t ie :n"
     },
     {
       "w": "tton",
-      "p": "cl t o n"
+      "p": "cl t o :n"
     },
     {
       "w": "ttwan",
-      "p": "cl t ua n"
+      "p": "cl t ua :n"
     },
     {
       "w": "ttwaen",
-      "p": "cl t ue n"
+      "p": "cl t ue :n"
     },
     {
       "w": "ttoen",
-      "p": "cl t ue n"
+      "p": "cl t ue :n"
     },
     {
       "w": "ttyon",
-      "p": "cl t j o n"
+      "p": "cl t j o :n"
     },
     {
       "w": "ttun",
-      "p": "cl t u n"
+      "p": "cl t u :n"
     },
     {
       "w": "ttwon",
-      "p": "cl t uo n"
+      "p": "cl t uo :n"
     },
     {
       "w": "ttweon",
-      "p": "cl t uo n"
+      "p": "cl t uo :n"
     },
     {
       "w": "ttwen",
-      "p": "cl t ue n"
+      "p": "cl t ue :n"
     },
     {
       "w": "ttwin",
-      "p": "cl t w i n"
+      "p": "cl t w i :n"
     },
     {
       "w": "ttyun",
-      "p": "cl t j u n"
+      "p": "cl t j u :n"
     },
     {
       "w": "tteun",
-      "p": "cl t u@ n"
+      "p": "cl t u@ :n"
     },
     {
       "w": "ttuin",
-      "p": "cl t w i n"
+      "p": "cl t w i :n"
     },
     {
       "w": "tteuin",
-      "p": "cl t w i n"
+      "p": "cl t w i :n"
     },
     {
       "w": "ttin",
-      "p": "cl t i n"
+      "p": "cl t i :n"
     },
     {
       "w": "ttat",
@@ -5338,95 +5338,95 @@
     },
     {
       "w": "ddan",
-      "p": "cl t a n"
+      "p": "cl t a :n"
     },
     {
       "w": "ddaen",
-      "p": "cl t e n"
+      "p": "cl t e :n"
     },
     {
       "w": "ddyan",
-      "p": "cl t ia n"
+      "p": "cl t ia :n"
     },
     {
       "w": "ddyaen",
-      "p": "cl t ie n"
+      "p": "cl t ie :n"
     },
     {
       "w": "ddeon",
-      "p": "cl t o n"
+      "p": "cl t o :n"
     },
     {
       "w": "dden",
-      "p": "cl t e n"
+      "p": "cl t e :n"
     },
     {
       "w": "ddyeon",
-      "p": "cl t j o n"
+      "p": "cl t j o :n"
     },
     {
       "w": "ddyen",
-      "p": "cl t ie n"
+      "p": "cl t ie :n"
     },
     {
       "w": "ddon",
-      "p": "cl t o n"
+      "p": "cl t o :n"
     },
     {
       "w": "ddwan",
-      "p": "cl t ua n"
+      "p": "cl t ua :n"
     },
     {
       "w": "ddwaen",
-      "p": "cl t ue n"
+      "p": "cl t ue :n"
     },
     {
       "w": "ddoen",
-      "p": "cl t ue n"
+      "p": "cl t ue :n"
     },
     {
       "w": "ddyon",
-      "p": "cl t j o n"
+      "p": "cl t j o :n"
     },
     {
       "w": "ddun",
-      "p": "cl t u n"
+      "p": "cl t u :n"
     },
     {
       "w": "ddwon",
-      "p": "cl t uo n"
+      "p": "cl t uo :n"
     },
     {
       "w": "ddweon",
-      "p": "cl t uo n"
+      "p": "cl t uo :n"
     },
     {
       "w": "ddwen",
-      "p": "cl t ue n"
+      "p": "cl t ue :n"
     },
     {
       "w": "ddwin",
-      "p": "cl t w i n"
+      "p": "cl t w i :n"
     },
     {
       "w": "ddyun",
-      "p": "cl t j u n"
+      "p": "cl t j u :n"
     },
     {
       "w": "ddeun",
-      "p": "cl t u@ n"
+      "p": "cl t u@ :n"
     },
     {
       "w": "dduin",
-      "p": "cl t w i n"
+      "p": "cl t w i :n"
     },
     {
       "w": "ddeuin",
-      "p": "cl t w i n"
+      "p": "cl t w i :n"
     },
     {
       "w": "ddin",
-      "p": "cl t i n"
+      "p": "cl t i :n"
     },
     {
       "w": "ddat",
@@ -6074,95 +6074,95 @@
     },
     {
       "w": "ran",
-      "p": "l a n"
+      "p": "l a :n"
     },
     {
       "w": "raen",
-      "p": "l e n"
+      "p": "l e :n"
     },
     {
       "w": "ryan",
-      "p": "l ia n"
+      "p": "l ia :n"
     },
     {
       "w": "ryaen",
-      "p": "l ie n"
+      "p": "l ie :n"
     },
     {
       "w": "reon",
-      "p": "l o n"
+      "p": "l o :n"
     },
     {
       "w": "ren",
-      "p": "l e n"
+      "p": "l e :n"
     },
     {
       "w": "ryeon",
-      "p": "l j o n"
+      "p": "l j o :n"
     },
     {
       "w": "ryen",
-      "p": "l ie n"
+      "p": "l ie :n"
     },
     {
       "w": "ron",
-      "p": "l o n"
+      "p": "l o :n"
     },
     {
       "w": "rwan",
-      "p": "l ua n"
+      "p": "l ua :n"
     },
     {
       "w": "rwaen",
-      "p": "l ue n"
+      "p": "l ue :n"
     },
     {
       "w": "roen",
-      "p": "l ue n"
+      "p": "l ue :n"
     },
     {
       "w": "ryon",
-      "p": "l j o n"
+      "p": "l j o :n"
     },
     {
       "w": "run",
-      "p": "l u n"
+      "p": "l u :n"
     },
     {
       "w": "rwon",
-      "p": "l uo n"
+      "p": "l uo :n"
     },
     {
       "w": "rweon",
-      "p": "l uo n"
+      "p": "l uo :n"
     },
     {
       "w": "rwen",
-      "p": "l ue n"
+      "p": "l ue :n"
     },
     {
       "w": "rwin",
-      "p": "l w i n"
+      "p": "l w i :n"
     },
     {
       "w": "ryun",
-      "p": "l j u n"
+      "p": "l j u :n"
     },
     {
       "w": "reun",
-      "p": "l u@ n"
+      "p": "l u@ :n"
     },
     {
       "w": "ruin",
-      "p": "l w i n"
+      "p": "l w i :n"
     },
     {
       "w": "reuin",
-      "p": "l w i n"
+      "p": "l w i :n"
     },
     {
       "w": "rin",
-      "p": "l i n"
+      "p": "l i :n"
     },
     {
       "w": "rat",
@@ -6810,95 +6810,95 @@
     },
     {
       "w": "lan",
-      "p": "l a n"
+      "p": "l a :n"
     },
     {
       "w": "laen",
-      "p": "l e n"
+      "p": "l e :n"
     },
     {
       "w": "lyan",
-      "p": "l ia n"
+      "p": "l ia :n"
     },
     {
       "w": "lyaen",
-      "p": "l ie n"
+      "p": "l ie :n"
     },
     {
       "w": "leon",
-      "p": "l o n"
+      "p": "l o :n"
     },
     {
       "w": "len",
-      "p": "l e n"
+      "p": "l e :n"
     },
     {
       "w": "lyeon",
-      "p": "l j o n"
+      "p": "l j o :n"
     },
     {
       "w": "lyen",
-      "p": "l ie n"
+      "p": "l ie :n"
     },
     {
       "w": "lon",
-      "p": "l o n"
+      "p": "l o :n"
     },
     {
       "w": "lwan",
-      "p": "l ua n"
+      "p": "l ua :n"
     },
     {
       "w": "lwaen",
-      "p": "l ue n"
+      "p": "l ue :n"
     },
     {
       "w": "loen",
-      "p": "l ue n"
+      "p": "l ue :n"
     },
     {
       "w": "lyon",
-      "p": "l j o n"
+      "p": "l j o :n"
     },
     {
       "w": "lun",
-      "p": "l u n"
+      "p": "l u :n"
     },
     {
       "w": "lwon",
-      "p": "l uo n"
+      "p": "l uo :n"
     },
     {
       "w": "lweon",
-      "p": "l uo n"
+      "p": "l uo :n"
     },
     {
       "w": "lwen",
-      "p": "l ue n"
+      "p": "l ue :n"
     },
     {
       "w": "lwin",
-      "p": "l w i n"
+      "p": "l w i :n"
     },
     {
       "w": "lyun",
-      "p": "l j u n"
+      "p": "l j u :n"
     },
     {
       "w": "leun",
-      "p": "l u@ n"
+      "p": "l u@ :n"
     },
     {
       "w": "luin",
-      "p": "l w i n"
+      "p": "l w i :n"
     },
     {
       "w": "leuin",
-      "p": "l w i n"
+      "p": "l w i :n"
     },
     {
       "w": "lin",
-      "p": "l i n"
+      "p": "l i :n"
     },
     {
       "w": "lat",
@@ -7546,95 +7546,95 @@
     },
     {
       "w": "man",
-      "p": "m a n"
+      "p": "m a :n"
     },
     {
       "w": "maen",
-      "p": "m e n"
+      "p": "m e :n"
     },
     {
       "w": "myan",
-      "p": "m ia n"
+      "p": "m ia :n"
     },
     {
       "w": "myaen",
-      "p": "m ie n"
+      "p": "m ie :n"
     },
     {
       "w": "meon",
-      "p": "m o n"
+      "p": "m o :n"
     },
     {
       "w": "men",
-      "p": "m e n"
+      "p": "m e :n"
     },
     {
       "w": "myeon",
-      "p": "m j o n"
+      "p": "m j o :n"
     },
     {
       "w": "myen",
-      "p": "m ie n"
+      "p": "m ie :n"
     },
     {
       "w": "mon",
-      "p": "m o n"
+      "p": "m o :n"
     },
     {
       "w": "mwan",
-      "p": "m ua n"
+      "p": "m ua :n"
     },
     {
       "w": "mwaen",
-      "p": "m ue n"
+      "p": "m ue :n"
     },
     {
       "w": "moen",
-      "p": "m ue n"
+      "p": "m ue :n"
     },
     {
       "w": "myon",
-      "p": "m j o n"
+      "p": "m j o :n"
     },
     {
       "w": "mun",
-      "p": "m u n"
+      "p": "m u :n"
     },
     {
       "w": "mwon",
-      "p": "m uo n"
+      "p": "m uo :n"
     },
     {
       "w": "mweon",
-      "p": "m uo n"
+      "p": "m uo :n"
     },
     {
       "w": "mwen",
-      "p": "m ue n"
+      "p": "m ue :n"
     },
     {
       "w": "mwin",
-      "p": "m w i n"
+      "p": "m w i :n"
     },
     {
       "w": "myun",
-      "p": "m j u n"
+      "p": "m j u :n"
     },
     {
       "w": "meun",
-      "p": "m u@ n"
+      "p": "m u@ :n"
     },
     {
       "w": "muin",
-      "p": "m w i n"
+      "p": "m w i :n"
     },
     {
       "w": "meuin",
-      "p": "m w i n"
+      "p": "m w i :n"
     },
     {
       "w": "min",
-      "p": "m i n"
+      "p": "m i :n"
     },
     {
       "w": "mat",
@@ -8282,95 +8282,95 @@
     },
     {
       "w": "ban",
-      "p": "p a n"
+      "p": "p a :n"
     },
     {
       "w": "baen",
-      "p": "p e n"
+      "p": "p e :n"
     },
     {
       "w": "byan",
-      "p": "p ia n"
+      "p": "p ia :n"
     },
     {
       "w": "byaen",
-      "p": "p ie n"
+      "p": "p ie :n"
     },
     {
       "w": "beon",
-      "p": "p o n"
+      "p": "p o :n"
     },
     {
       "w": "ben",
-      "p": "p e n"
+      "p": "p e :n"
     },
     {
       "w": "byeon",
-      "p": "p j o n"
+      "p": "p j o :n"
     },
     {
       "w": "byen",
-      "p": "p ie n"
+      "p": "p ie :n"
     },
     {
       "w": "bon",
-      "p": "p o n"
+      "p": "p o :n"
     },
     {
       "w": "bwan",
-      "p": "p ua n"
+      "p": "p ua :n"
     },
     {
       "w": "bwaen",
-      "p": "p ue n"
+      "p": "p ue :n"
     },
     {
       "w": "boen",
-      "p": "p ue n"
+      "p": "p ue :n"
     },
     {
       "w": "byon",
-      "p": "p j o n"
+      "p": "p j o :n"
     },
     {
       "w": "bun",
-      "p": "p u n"
+      "p": "p u :n"
     },
     {
       "w": "bwon",
-      "p": "p uo n"
+      "p": "p uo :n"
     },
     {
       "w": "bweon",
-      "p": "p uo n"
+      "p": "p uo :n"
     },
     {
       "w": "bwen",
-      "p": "p ue n"
+      "p": "p ue :n"
     },
     {
       "w": "bwin",
-      "p": "p w i n"
+      "p": "p w i :n"
     },
     {
       "w": "byun",
-      "p": "p j u n"
+      "p": "p j u :n"
     },
     {
       "w": "beun",
-      "p": "p u@ n"
+      "p": "p u@ :n"
     },
     {
       "w": "buin",
-      "p": "p w i n"
+      "p": "p w i :n"
     },
     {
       "w": "beuin",
-      "p": "p w i n"
+      "p": "p w i :n"
     },
     {
       "w": "bin",
-      "p": "p i n"
+      "p": "p i :n"
     },
     {
       "w": "bat",
@@ -9018,95 +9018,95 @@
     },
     {
       "w": "ppan",
-      "p": "cl p a n"
+      "p": "cl p a :n"
     },
     {
       "w": "ppaen",
-      "p": "cl p e n"
+      "p": "cl p e :n"
     },
     {
       "w": "ppyan",
-      "p": "cl p ia n"
+      "p": "cl p ia :n"
     },
     {
       "w": "ppyaen",
-      "p": "cl p ie n"
+      "p": "cl p ie :n"
     },
     {
       "w": "ppeon",
-      "p": "cl p o n"
+      "p": "cl p o :n"
     },
     {
       "w": "ppen",
-      "p": "cl p e n"
+      "p": "cl p e :n"
     },
     {
       "w": "ppyeon",
-      "p": "cl p j o n"
+      "p": "cl p j o :n"
     },
     {
       "w": "ppyen",
-      "p": "cl p ie n"
+      "p": "cl p ie :n"
     },
     {
       "w": "ppon",
-      "p": "cl p o n"
+      "p": "cl p o :n"
     },
     {
       "w": "ppwan",
-      "p": "cl p ua n"
+      "p": "cl p ua :n"
     },
     {
       "w": "ppwaen",
-      "p": "cl p ue n"
+      "p": "cl p ue :n"
     },
     {
       "w": "ppoen",
-      "p": "cl p ue n"
+      "p": "cl p ue :n"
     },
     {
       "w": "ppyon",
-      "p": "cl p j o n"
+      "p": "cl p j o :n"
     },
     {
       "w": "ppun",
-      "p": "cl p u n"
+      "p": "cl p u :n"
     },
     {
       "w": "ppwon",
-      "p": "cl p uo n"
+      "p": "cl p uo :n"
     },
     {
       "w": "ppweon",
-      "p": "cl p uo n"
+      "p": "cl p uo :n"
     },
     {
       "w": "ppwen",
-      "p": "cl p ue n"
+      "p": "cl p ue :n"
     },
     {
       "w": "ppwin",
-      "p": "cl p w i n"
+      "p": "cl p w i :n"
     },
     {
       "w": "ppyun",
-      "p": "cl p j u n"
+      "p": "cl p j u :n"
     },
     {
       "w": "ppeun",
-      "p": "cl p u@ n"
+      "p": "cl p u@ :n"
     },
     {
       "w": "ppuin",
-      "p": "cl p w i n"
+      "p": "cl p w i :n"
     },
     {
       "w": "ppeuin",
-      "p": "cl p w i n"
+      "p": "cl p w i :n"
     },
     {
       "w": "ppin",
-      "p": "cl p i n"
+      "p": "cl p i :n"
     },
     {
       "w": "ppat",
@@ -9754,95 +9754,95 @@
     },
     {
       "w": "bban",
-      "p": "cl p a n"
+      "p": "cl p a :n"
     },
     {
       "w": "bbaen",
-      "p": "cl p e n"
+      "p": "cl p e :n"
     },
     {
       "w": "bbyan",
-      "p": "cl p ia n"
+      "p": "cl p ia :n"
     },
     {
       "w": "bbyaen",
-      "p": "cl p ie n"
+      "p": "cl p ie :n"
     },
     {
       "w": "bbeon",
-      "p": "cl p o n"
+      "p": "cl p o :n"
     },
     {
       "w": "bben",
-      "p": "cl p e n"
+      "p": "cl p e :n"
     },
     {
       "w": "bbyeon",
-      "p": "cl p j o n"
+      "p": "cl p j o :n"
     },
     {
       "w": "bbyen",
-      "p": "cl p ie n"
+      "p": "cl p ie :n"
     },
     {
       "w": "bbon",
-      "p": "cl p o n"
+      "p": "cl p o :n"
     },
     {
       "w": "bbwan",
-      "p": "cl p ua n"
+      "p": "cl p ua :n"
     },
     {
       "w": "bbwaen",
-      "p": "cl p ue n"
+      "p": "cl p ue :n"
     },
     {
       "w": "bboen",
-      "p": "cl p ue n"
+      "p": "cl p ue :n"
     },
     {
       "w": "bbyon",
-      "p": "cl p j o n"
+      "p": "cl p j o :n"
     },
     {
       "w": "bbun",
-      "p": "cl p u n"
+      "p": "cl p u :n"
     },
     {
       "w": "bbwon",
-      "p": "cl p uo n"
+      "p": "cl p uo :n"
     },
     {
       "w": "bbweon",
-      "p": "cl p uo n"
+      "p": "cl p uo :n"
     },
     {
       "w": "bbwen",
-      "p": "cl p ue n"
+      "p": "cl p ue :n"
     },
     {
       "w": "bbwin",
-      "p": "cl p w i n"
+      "p": "cl p w i :n"
     },
     {
       "w": "bbyun",
-      "p": "cl p j u n"
+      "p": "cl p j u :n"
     },
     {
       "w": "bbeun",
-      "p": "cl p u@ n"
+      "p": "cl p u@ :n"
     },
     {
       "w": "bbuin",
-      "p": "cl p w i n"
+      "p": "cl p w i :n"
     },
     {
       "w": "bbeuin",
-      "p": "cl p w i n"
+      "p": "cl p w i :n"
     },
     {
       "w": "bbin",
-      "p": "cl p i n"
+      "p": "cl p i :n"
     },
     {
       "w": "bbat",
@@ -10490,95 +10490,95 @@
     },
     {
       "w": "san",
-      "p": "s a n"
+      "p": "s a :n"
     },
     {
       "w": "saen",
-      "p": "s e n"
+      "p": "s e :n"
     },
     {
       "w": "syan",
-      "p": "s\\ a n"
+      "p": "s\\ a :n"
     },
     {
       "w": "syaen",
-      "p": "s\\ e n"
+      "p": "s\\ e :n"
     },
     {
       "w": "seon",
-      "p": "s o n"
+      "p": "s o :n"
     },
     {
       "w": "sen",
-      "p": "s e n"
+      "p": "s e :n"
     },
     {
       "w": "syeon",
-      "p": "s\\ o n"
+      "p": "s\\ o :n"
     },
     {
       "w": "syen",
-      "p": "s\\ e n"
+      "p": "s\\ e :n"
     },
     {
       "w": "son",
-      "p": "s o n"
+      "p": "s o :n"
     },
     {
       "w": "swan",
-      "p": "s ua n"
+      "p": "s ua :n"
     },
     {
       "w": "swaen",
-      "p": "s ue n"
+      "p": "s ue :n"
     },
     {
       "w": "soen",
-      "p": "s ue n"
+      "p": "s ue :n"
     },
     {
       "w": "syon",
-      "p": "s\\ o n"
+      "p": "s\\ o :n"
     },
     {
       "w": "sun",
-      "p": "s u n"
+      "p": "s u :n"
     },
     {
       "w": "swon",
-      "p": "s uo n"
+      "p": "s uo :n"
     },
     {
       "w": "sweon",
-      "p": "s uo n"
+      "p": "s uo :n"
     },
     {
       "w": "swen",
-      "p": "s ue n"
+      "p": "s ue :n"
     },
     {
       "w": "swin",
-      "p": "s\\ w i n"
+      "p": "s\\ w i :n"
     },
     {
       "w": "syun",
-      "p": "s\\ u n"
+      "p": "s\\ u :n"
     },
     {
       "w": "seun",
-      "p": "s u@ n"
+      "p": "s u@ :n"
     },
     {
       "w": "suin",
-      "p": "s\\ w i n"
+      "p": "s\\ w i :n"
     },
     {
       "w": "seuin",
-      "p": "s\\ w i n"
+      "p": "s\\ w i :n"
     },
     {
       "w": "sin",
-      "p": "s\\ i n"
+      "p": "s\\ i :n"
     },
     {
       "w": "sat",
@@ -11226,95 +11226,95 @@
     },
     {
       "w": "ssan",
-      "p": "s a n"
+      "p": "s a :n"
     },
     {
       "w": "ssaen",
-      "p": "s e n"
+      "p": "s e :n"
     },
     {
       "w": "ssyan",
-      "p": "s\\ a n"
+      "p": "s\\ a :n"
     },
     {
       "w": "ssyaen",
-      "p": "s\\ e n"
+      "p": "s\\ e :n"
     },
     {
       "w": "sseon",
-      "p": "s o n"
+      "p": "s o :n"
     },
     {
       "w": "ssen",
-      "p": "s e n"
+      "p": "s e :n"
     },
     {
       "w": "ssyeon",
-      "p": "s\\ o n"
+      "p": "s\\ o :n"
     },
     {
       "w": "ssyen",
-      "p": "s\\ e n"
+      "p": "s\\ e :n"
     },
     {
       "w": "sson",
-      "p": "s o n"
+      "p": "s o :n"
     },
     {
       "w": "sswan",
-      "p": "s ua n"
+      "p": "s ua :n"
     },
     {
       "w": "sswaen",
-      "p": "s ue n"
+      "p": "s ue :n"
     },
     {
       "w": "ssoen",
-      "p": "s ue n"
+      "p": "s ue :n"
     },
     {
       "w": "ssyon",
-      "p": "s\\ o n"
+      "p": "s\\ o :n"
     },
     {
       "w": "ssun",
-      "p": "s u n"
+      "p": "s u :n"
     },
     {
       "w": "sswon",
-      "p": "s uo n"
+      "p": "s uo :n"
     },
     {
       "w": "ssweon",
-      "p": "s uo n"
+      "p": "s uo :n"
     },
     {
       "w": "sswen",
-      "p": "s ue n"
+      "p": "s ue :n"
     },
     {
       "w": "sswin",
-      "p": "s\\ w i n"
+      "p": "s\\ w i :n"
     },
     {
       "w": "ssyun",
-      "p": "s\\ u n"
+      "p": "s\\ u :n"
     },
     {
       "w": "sseun",
-      "p": "s u@ n"
+      "p": "s u@ :n"
     },
     {
       "w": "ssuin",
-      "p": "s\\ w i n"
+      "p": "s\\ w i :n"
     },
     {
       "w": "sseuin",
-      "p": "s\\ w i n"
+      "p": "s\\ w i :n"
     },
     {
       "w": "ssin",
-      "p": "s\\ i n"
+      "p": "s\\ i :n"
     },
     {
       "w": "ssat",
@@ -11962,95 +11962,95 @@
     },
     {
       "w": "jan",
-      "p": "ts\\ a n"
+      "p": "ts\\ a :n"
     },
     {
       "w": "jaen",
-      "p": "ts\\ e n"
+      "p": "ts\\ e :n"
     },
     {
       "w": "jyan",
-      "p": "ts\\ a n"
+      "p": "ts\\ a :n"
     },
     {
       "w": "jyaen",
-      "p": "ts\\ e n"
+      "p": "ts\\ e :n"
     },
     {
       "w": "jeon",
-      "p": "ts\\ o n"
+      "p": "ts\\ o :n"
     },
     {
       "w": "jen",
-      "p": "ts\\ e n"
+      "p": "ts\\ e :n"
     },
     {
       "w": "jyeon",
-      "p": "ts\\ o n"
+      "p": "ts\\ o :n"
     },
     {
       "w": "jyen",
-      "p": "ts\\ e n"
+      "p": "ts\\ e :n"
     },
     {
       "w": "jon",
-      "p": "ts\\ o n"
+      "p": "ts\\ o :n"
     },
     {
       "w": "jwan",
-      "p": "ts\\ ua n"
+      "p": "ts\\ ua :n"
     },
     {
       "w": "jwaen",
-      "p": "ts\\ ue n"
+      "p": "ts\\ ue :n"
     },
     {
       "w": "joen",
-      "p": "ts\\ ue n"
+      "p": "ts\\ ue :n"
     },
     {
       "w": "jyon",
-      "p": "ts\\ o n"
+      "p": "ts\\ o :n"
     },
     {
       "w": "jun",
-      "p": "ts\\ u n"
+      "p": "ts\\ u :n"
     },
     {
       "w": "jwon",
-      "p": "ts\\ uo n"
+      "p": "ts\\ uo :n"
     },
     {
       "w": "jweon",
-      "p": "ts\\ uo n"
+      "p": "ts\\ uo :n"
     },
     {
       "w": "jwen",
-      "p": "ts\\ ue n"
+      "p": "ts\\ ue :n"
     },
     {
       "w": "jwin",
-      "p": "ts\\ w i n"
+      "p": "ts\\ w i :n"
     },
     {
       "w": "jyun",
-      "p": "ts\\ u n"
+      "p": "ts\\ u :n"
     },
     {
       "w": "jeun",
-      "p": "ts\\ u@ n"
+      "p": "ts\\ u@ :n"
     },
     {
       "w": "juin",
-      "p": "ts\\ w i n"
+      "p": "ts\\ w i :n"
     },
     {
       "w": "jeuin",
-      "p": "ts\\ w i n"
+      "p": "ts\\ w i :n"
     },
     {
       "w": "jin",
-      "p": "ts\\ i n"
+      "p": "ts\\ i :n"
     },
     {
       "w": "jat",
@@ -12698,95 +12698,95 @@
     },
     {
       "w": "jjan",
-      "p": "cl ts\\ a n"
+      "p": "cl ts\\ a :n"
     },
     {
       "w": "jjaen",
-      "p": "cl ts\\ e n"
+      "p": "cl ts\\ e :n"
     },
     {
       "w": "jjyan",
-      "p": "cl ts\\ a n"
+      "p": "cl ts\\ a :n"
     },
     {
       "w": "jjyaen",
-      "p": "cl ts\\ e n"
+      "p": "cl ts\\ e :n"
     },
     {
       "w": "jjeon",
-      "p": "cl ts\\ o n"
+      "p": "cl ts\\ o :n"
     },
     {
       "w": "jjen",
-      "p": "cl ts\\ e n"
+      "p": "cl ts\\ e :n"
     },
     {
       "w": "jjyeon",
-      "p": "cl ts\\ o n"
+      "p": "cl ts\\ o :n"
     },
     {
       "w": "jjyen",
-      "p": "cl ts\\ e n"
+      "p": "cl ts\\ e :n"
     },
     {
       "w": "jjon",
-      "p": "cl ts\\ o n"
+      "p": "cl ts\\ o :n"
     },
     {
       "w": "jjwan",
-      "p": "cl ts\\ ua n"
+      "p": "cl ts\\ ua :n"
     },
     {
       "w": "jjwaen",
-      "p": "cl ts\\ ue n"
+      "p": "cl ts\\ ue :n"
     },
     {
       "w": "jjoen",
-      "p": "cl ts\\ ue n"
+      "p": "cl ts\\ ue :n"
     },
     {
       "w": "jjyon",
-      "p": "cl ts\\ o n"
+      "p": "cl ts\\ o :n"
     },
     {
       "w": "jjun",
-      "p": "cl ts\\ u n"
+      "p": "cl ts\\ u :n"
     },
     {
       "w": "jjwon",
-      "p": "cl ts\\ uo n"
+      "p": "cl ts\\ uo :n"
     },
     {
       "w": "jjweon",
-      "p": "cl ts\\ uo n"
+      "p": "cl ts\\ uo :n"
     },
     {
       "w": "jjwen",
-      "p": "cl ts\\ ue n"
+      "p": "cl ts\\ ue :n"
     },
     {
       "w": "jjwin",
-      "p": "cl ts\\ w i n"
+      "p": "cl ts\\ w i :n"
     },
     {
       "w": "jjyun",
-      "p": "cl ts\\ u n"
+      "p": "cl ts\\ u :n"
     },
     {
       "w": "jjeun",
-      "p": "cl ts\\ u@ n"
+      "p": "cl ts\\ u@ :n"
     },
     {
       "w": "jjuin",
-      "p": "cl ts\\ w i n"
+      "p": "cl ts\\ w i :n"
     },
     {
       "w": "jjeuin",
-      "p": "cl ts\\ w i n"
+      "p": "cl ts\\ w i :n"
     },
     {
       "w": "jjin",
-      "p": "cl ts\\ i n"
+      "p": "cl ts\\ i :n"
     },
     {
       "w": "jjat",
@@ -13434,95 +13434,95 @@
     },
     {
       "w": "chan",
-      "p": "ts\\h a n"
+      "p": "ts\\h a :n"
     },
     {
       "w": "chaen",
-      "p": "ts\\h e n"
+      "p": "ts\\h e :n"
     },
     {
       "w": "chyan",
-      "p": "ts\\h a n"
+      "p": "ts\\h a :n"
     },
     {
       "w": "chyaen",
-      "p": "ts\\h e n"
+      "p": "ts\\h e :n"
     },
     {
       "w": "cheon",
-      "p": "ts\\h o n"
+      "p": "ts\\h o :n"
     },
     {
       "w": "chen",
-      "p": "ts\\h e n"
+      "p": "ts\\h e :n"
     },
     {
       "w": "chyeon",
-      "p": "ts\\h o n"
+      "p": "ts\\h o :n"
     },
     {
       "w": "chyen",
-      "p": "ts\\h e n"
+      "p": "ts\\h e :n"
     },
     {
       "w": "chon",
-      "p": "ts\\h o n"
+      "p": "ts\\h o :n"
     },
     {
       "w": "chwan",
-      "p": "ts\\h ua n"
+      "p": "ts\\h ua :n"
     },
     {
       "w": "chwaen",
-      "p": "ts\\h ue n"
+      "p": "ts\\h ue :n"
     },
     {
       "w": "choen",
-      "p": "ts\\h ue n"
+      "p": "ts\\h ue :n"
     },
     {
       "w": "chyon",
-      "p": "ts\\h o n"
+      "p": "ts\\h o :n"
     },
     {
       "w": "chun",
-      "p": "ts\\h u n"
+      "p": "ts\\h u :n"
     },
     {
       "w": "chwon",
-      "p": "ts\\h uo n"
+      "p": "ts\\h uo :n"
     },
     {
       "w": "chweon",
-      "p": "ts\\h uo n"
+      "p": "ts\\h uo :n"
     },
     {
       "w": "chwen",
-      "p": "ts\\h ue n"
+      "p": "ts\\h ue :n"
     },
     {
       "w": "chwin",
-      "p": "ts\\h w i n"
+      "p": "ts\\h w i :n"
     },
     {
       "w": "chyun",
-      "p": "ts\\h u n"
+      "p": "ts\\h u :n"
     },
     {
       "w": "cheun",
-      "p": "ts\\h u@ n"
+      "p": "ts\\h u@ :n"
     },
     {
       "w": "chuin",
-      "p": "ts\\h w i n"
+      "p": "ts\\h w i :n"
     },
     {
       "w": "cheuin",
-      "p": "ts\\h w i n"
+      "p": "ts\\h w i :n"
     },
     {
       "w": "chin",
-      "p": "ts\\h i n"
+      "p": "ts\\h i :n"
     },
     {
       "w": "chat",
@@ -14170,95 +14170,95 @@
     },
     {
       "w": "kan",
-      "p": "kh a n"
+      "p": "kh a :n"
     },
     {
       "w": "kaen",
-      "p": "kh e n"
+      "p": "kh e :n"
     },
     {
       "w": "kyan",
-      "p": "kh ia n"
+      "p": "kh ia :n"
     },
     {
       "w": "kyaen",
-      "p": "kh ie n"
+      "p": "kh ie :n"
     },
     {
       "w": "keon",
-      "p": "kh o n"
+      "p": "kh o :n"
     },
     {
       "w": "ken",
-      "p": "kh e n"
+      "p": "kh e :n"
     },
     {
       "w": "kyeon",
-      "p": "kh j o n"
+      "p": "kh j o :n"
     },
     {
       "w": "kyen",
-      "p": "kh ie n"
+      "p": "kh ie :n"
     },
     {
       "w": "kon",
-      "p": "kh o n"
+      "p": "kh o :n"
     },
     {
       "w": "kwan",
-      "p": "kh ua n"
+      "p": "kh ua :n"
     },
     {
       "w": "kwaen",
-      "p": "kh ue n"
+      "p": "kh ue :n"
     },
     {
       "w": "koen",
-      "p": "kh ue n"
+      "p": "kh ue :n"
     },
     {
       "w": "kyon",
-      "p": "kh j o n"
+      "p": "kh j o :n"
     },
     {
       "w": "kun",
-      "p": "kh u n"
+      "p": "kh u :n"
     },
     {
       "w": "kwon",
-      "p": "kh uo n"
+      "p": "kh uo :n"
     },
     {
       "w": "kweon",
-      "p": "kh uo n"
+      "p": "kh uo :n"
     },
     {
       "w": "kwen",
-      "p": "kh ue n"
+      "p": "kh ue :n"
     },
     {
       "w": "kwin",
-      "p": "kh w i n"
+      "p": "kh w i :n"
     },
     {
       "w": "kyun",
-      "p": "kh j u n"
+      "p": "kh j u :n"
     },
     {
       "w": "keun",
-      "p": "kh u@ n"
+      "p": "kh u@ :n"
     },
     {
       "w": "kuin",
-      "p": "kh w i n"
+      "p": "kh w i :n"
     },
     {
       "w": "keuin",
-      "p": "kh w i n"
+      "p": "kh w i :n"
     },
     {
       "w": "kin",
-      "p": "kh i n"
+      "p": "kh i :n"
     },
     {
       "w": "kat",
@@ -14906,95 +14906,95 @@
     },
     {
       "w": "tan",
-      "p": "th a n"
+      "p": "th a :n"
     },
     {
       "w": "taen",
-      "p": "th e n"
+      "p": "th e :n"
     },
     {
       "w": "tyan",
-      "p": "th ia n"
+      "p": "th ia :n"
     },
     {
       "w": "tyaen",
-      "p": "th ie n"
+      "p": "th ie :n"
     },
     {
       "w": "teon",
-      "p": "th o n"
+      "p": "th o :n"
     },
     {
       "w": "ten",
-      "p": "th e n"
+      "p": "th e :n"
     },
     {
       "w": "tyeon",
-      "p": "th j o n"
+      "p": "th j o :n"
     },
     {
       "w": "tyen",
-      "p": "th ie n"
+      "p": "th ie :n"
     },
     {
       "w": "ton",
-      "p": "th o n"
+      "p": "th o :n"
     },
     {
       "w": "twan",
-      "p": "th ua n"
+      "p": "th ua :n"
     },
     {
       "w": "twaen",
-      "p": "th ue n"
+      "p": "th ue :n"
     },
     {
       "w": "toen",
-      "p": "th ue n"
+      "p": "th ue :n"
     },
     {
       "w": "tyon",
-      "p": "th j o n"
+      "p": "th j o :n"
     },
     {
       "w": "tun",
-      "p": "th u n"
+      "p": "th u :n"
     },
     {
       "w": "twon",
-      "p": "th uo n"
+      "p": "th uo :n"
     },
     {
       "w": "tweon",
-      "p": "th uo n"
+      "p": "th uo :n"
     },
     {
       "w": "twen",
-      "p": "th ue n"
+      "p": "th ue :n"
     },
     {
       "w": "twin",
-      "p": "th w i n"
+      "p": "th w i :n"
     },
     {
       "w": "tyun",
-      "p": "th j u n"
+      "p": "th j u :n"
     },
     {
       "w": "teun",
-      "p": "th u@ n"
+      "p": "th u@ :n"
     },
     {
       "w": "tuin",
-      "p": "th w i n"
+      "p": "th w i :n"
     },
     {
       "w": "teuin",
-      "p": "th w i n"
+      "p": "th w i :n"
     },
     {
       "w": "tin",
-      "p": "th i n"
+      "p": "th i :n"
     },
     {
       "w": "tat",
@@ -15642,95 +15642,95 @@
     },
     {
       "w": "pan",
-      "p": "ph a n"
+      "p": "ph a :n"
     },
     {
       "w": "paen",
-      "p": "ph e n"
+      "p": "ph e :n"
     },
     {
       "w": "pyan",
-      "p": "ph ia n"
+      "p": "ph ia :n"
     },
     {
       "w": "pyaen",
-      "p": "ph ie n"
+      "p": "ph ie :n"
     },
     {
       "w": "peon",
-      "p": "ph o n"
+      "p": "ph o :n"
     },
     {
       "w": "pen",
-      "p": "ph e n"
+      "p": "ph e :n"
     },
     {
       "w": "pyeon",
-      "p": "ph j o n"
+      "p": "ph j o :n"
     },
     {
       "w": "pyen",
-      "p": "ph ie n"
+      "p": "ph ie :n"
     },
     {
       "w": "pon",
-      "p": "ph o n"
+      "p": "ph o :n"
     },
     {
       "w": "pwan",
-      "p": "ph ua n"
+      "p": "ph ua :n"
     },
     {
       "w": "pwaen",
-      "p": "ph ue n"
+      "p": "ph ue :n"
     },
     {
       "w": "poen",
-      "p": "ph ue n"
+      "p": "ph ue :n"
     },
     {
       "w": "pyon",
-      "p": "ph j o n"
+      "p": "ph j o :n"
     },
     {
       "w": "pun",
-      "p": "ph u n"
+      "p": "ph u :n"
     },
     {
       "w": "pwon",
-      "p": "ph uo n"
+      "p": "ph uo :n"
     },
     {
       "w": "pweon",
-      "p": "ph uo n"
+      "p": "ph uo :n"
     },
     {
       "w": "pwen",
-      "p": "ph ue n"
+      "p": "ph ue :n"
     },
     {
       "w": "pwin",
-      "p": "ph w i n"
+      "p": "ph w i :n"
     },
     {
       "w": "pyun",
-      "p": "ph j u n"
+      "p": "ph j u :n"
     },
     {
       "w": "peun",
-      "p": "ph u@ n"
+      "p": "ph u@ :n"
     },
     {
       "w": "puin",
-      "p": "ph w i n"
+      "p": "ph w i :n"
     },
     {
       "w": "peuin",
-      "p": "ph w i n"
+      "p": "ph w i :n"
     },
     {
       "w": "pin",
-      "p": "ph i n"
+      "p": "ph i :n"
     },
     {
       "w": "pat",
@@ -16378,95 +16378,95 @@
     },
     {
       "w": "han",
-      "p": "x a n"
+      "p": "x a :n"
     },
     {
       "w": "haen",
-      "p": "x e n"
+      "p": "x e :n"
     },
     {
       "w": "hyan",
-      "p": "x ia n"
+      "p": "x ia :n"
     },
     {
       "w": "hyaen",
-      "p": "x ie n"
+      "p": "x ie :n"
     },
     {
       "w": "heon",
-      "p": "x o n"
+      "p": "x o :n"
     },
     {
       "w": "hen",
-      "p": "x e n"
+      "p": "x e :n"
     },
     {
       "w": "hyeon",
-      "p": "x j o n"
+      "p": "x j o :n"
     },
     {
       "w": "hyen",
-      "p": "x ie n"
+      "p": "x ie :n"
     },
     {
       "w": "hon",
-      "p": "f o n"
+      "p": "f o :n"
     },
     {
       "w": "hwan",
-      "p": "f a n"
+      "p": "f a :n"
     },
     {
       "w": "hwaen",
-      "p": "f e n"
+      "p": "f e :n"
     },
     {
       "w": "hoen",
-      "p": "f e n"
+      "p": "f e :n"
     },
     {
       "w": "hyon",
-      "p": "x j o n"
+      "p": "x j o :n"
     },
     {
       "w": "hun",
-      "p": "f u n"
+      "p": "f u :n"
     },
     {
       "w": "hwon",
-      "p": "f o n"
+      "p": "f o :n"
     },
     {
       "w": "hweon",
-      "p": "f o n"
+      "p": "f o :n"
     },
     {
       "w": "hwen",
-      "p": "f e n"
+      "p": "f e :n"
     },
     {
       "w": "hwin",
-      "p": "f i n"
+      "p": "f i :n"
     },
     {
       "w": "hyun",
-      "p": "x j u n"
+      "p": "x j u :n"
     },
     {
       "w": "heun",
-      "p": "x u@ n"
+      "p": "x u@ :n"
     },
     {
       "w": "huin",
-      "p": "f i n"
+      "p": "f i :n"
     },
     {
       "w": "heuin",
-      "p": "f i n"
+      "p": "f i :n"
     },
     {
       "w": "hin",
-      "p": "x i n"
+      "p": "x i :n"
     },
     {
       "w": "hat",
@@ -17114,95 +17114,95 @@
     },
     {
       "w": "fan",
-      "p": "f a n"
+      "p": "f a :n"
     },
     {
       "w": "faen",
-      "p": "f e n"
+      "p": "f e :n"
     },
     {
       "w": "fyan",
-      "p": "f ia n"
+      "p": "f ia :n"
     },
     {
       "w": "fyaen",
-      "p": "f ie n"
+      "p": "f ie :n"
     },
     {
       "w": "feon",
-      "p": "f o n"
+      "p": "f o :n"
     },
     {
       "w": "fen",
-      "p": "f e n"
+      "p": "f e :n"
     },
     {
       "w": "fyeon",
-      "p": "f j o n"
+      "p": "f j o :n"
     },
     {
       "w": "fyen",
-      "p": "f ie n"
+      "p": "f ie :n"
     },
     {
       "w": "fon",
-      "p": "f o n"
+      "p": "f o :n"
     },
     {
       "w": "fwan",
-      "p": "f ua n"
+      "p": "f ua :n"
     },
     {
       "w": "fwaen",
-      "p": "f ue n"
+      "p": "f ue :n"
     },
     {
       "w": "foen",
-      "p": "f ue n"
+      "p": "f ue :n"
     },
     {
       "w": "fyon",
-      "p": "f j o n"
+      "p": "f j o :n"
     },
     {
       "w": "fun",
-      "p": "f u n"
+      "p": "f u :n"
     },
     {
       "w": "fwon",
-      "p": "f uo n"
+      "p": "f uo :n"
     },
     {
       "w": "fweon",
-      "p": "f uo n"
+      "p": "f uo :n"
     },
     {
       "w": "fwen",
-      "p": "f ue n"
+      "p": "f ue :n"
     },
     {
       "w": "fwin",
-      "p": "f w i n"
+      "p": "f w i :n"
     },
     {
       "w": "fyun",
-      "p": "f j u n"
+      "p": "f j u :n"
     },
     {
       "w": "feun",
-      "p": "x u@ n"
+      "p": "x u@ :n"
     },
     {
       "w": "fuin",
-      "p": "f w i n"
+      "p": "f w i :n"
     },
     {
       "w": "feuin",
-      "p": "f w i n"
+      "p": "f w i :n"
     },
     {
       "w": "fin",
-      "p": "f i n"
+      "p": "f i :n"
     },
     {
       "w": "fat",
@@ -17850,95 +17850,95 @@
     },
     {
       "w": "rran",
-      "p": "z` a n"
+      "p": "z` a :n"
     },
     {
       "w": "rraen",
-      "p": "z` e n"
+      "p": "z` e :n"
     },
     {
       "w": "rryan",
-      "p": "z` ia n"
+      "p": "z` ia :n"
     },
     {
       "w": "rryaen",
-      "p": "z` ie n"
+      "p": "z` ie :n"
     },
     {
       "w": "rreon",
-      "p": "z` o n"
+      "p": "z` o :n"
     },
     {
       "w": "rren",
-      "p": "z` e n"
+      "p": "z` e :n"
     },
     {
       "w": "rryeon",
-      "p": "z` j o n"
+      "p": "z` j o :n"
     },
     {
       "w": "rryen",
-      "p": "z` ie n"
+      "p": "z` ie :n"
     },
     {
       "w": "rron",
-      "p": "z` o n"
+      "p": "z` o :n"
     },
     {
       "w": "rrwan",
-      "p": "z` ua n"
+      "p": "z` ua :n"
     },
     {
       "w": "rrwaen",
-      "p": "z` ue n"
+      "p": "z` ue :n"
     },
     {
       "w": "rroen",
-      "p": "z` ue n"
+      "p": "z` ue :n"
     },
     {
       "w": "rryon",
-      "p": "z` j o n"
+      "p": "z` j o :n"
     },
     {
       "w": "rrun",
-      "p": "z` u n"
+      "p": "z` u :n"
     },
     {
       "w": "rrwon",
-      "p": "z` uo n"
+      "p": "z` uo :n"
     },
     {
       "w": "rrweon",
-      "p": "z` uo n"
+      "p": "z` uo :n"
     },
     {
       "w": "rrwen",
-      "p": "z` ue n"
+      "p": "z` ue :n"
     },
     {
       "w": "rrwin",
-      "p": "z` w i n"
+      "p": "z` w i :n"
     },
     {
       "w": "rryun",
-      "p": "z` j u n"
+      "p": "z` j u :n"
     },
     {
       "w": "rreun",
-      "p": "z` u@ n"
+      "p": "z` u@ :n"
     },
     {
       "w": "rruin",
-      "p": "z` w i n"
+      "p": "z` w i :n"
     },
     {
       "w": "rreuin",
-      "p": "z` w i n"
+      "p": "z` w i :n"
     },
     {
       "w": "rrin",
-      "p": "z` i n"
+      "p": "z` i :n"
     },
     {
       "w": "rrat",
@@ -18586,95 +18586,95 @@
     },
     {
       "w": "van",
-      "p": "f a n"
+      "p": "f a :n"
     },
     {
       "w": "vaen",
-      "p": "f e n"
+      "p": "f e :n"
     },
     {
       "w": "vyan",
-      "p": "f ia n"
+      "p": "f ia :n"
     },
     {
       "w": "vyaen",
-      "p": "f ie n"
+      "p": "f ie :n"
     },
     {
       "w": "veon",
-      "p": "f o n"
+      "p": "f o :n"
     },
     {
       "w": "ven",
-      "p": "f e n"
+      "p": "f e :n"
     },
     {
       "w": "vyeon",
-      "p": "f j o n"
+      "p": "f j o :n"
     },
     {
       "w": "vyen",
-      "p": "f ie n"
+      "p": "f ie :n"
     },
     {
       "w": "von",
-      "p": "f o n"
+      "p": "f o :n"
     },
     {
       "w": "vwan",
-      "p": "f ua n"
+      "p": "f ua :n"
     },
     {
       "w": "vwaen",
-      "p": "f ue n"
+      "p": "f ue :n"
     },
     {
       "w": "voen",
-      "p": "f ue n"
+      "p": "f ue :n"
     },
     {
       "w": "vyon",
-      "p": "f j o n"
+      "p": "f j o :n"
     },
     {
       "w": "vun",
-      "p": "f u n"
+      "p": "f u :n"
     },
     {
       "w": "vwon",
-      "p": "f uo n"
+      "p": "f uo :n"
     },
     {
       "w": "vweon",
-      "p": "f uo n"
+      "p": "f uo :n"
     },
     {
       "w": "vwen",
-      "p": "f ue n"
+      "p": "f ue :n"
     },
     {
       "w": "vwin",
-      "p": "f w i n"
+      "p": "f w i :n"
     },
     {
       "w": "vyun",
-      "p": "f j u n"
+      "p": "f j u :n"
     },
     {
       "w": "veun",
-      "p": "x u@ n"
+      "p": "x u@ :n"
     },
     {
       "w": "vuin",
-      "p": "f w i n"
+      "p": "f w i :n"
     },
     {
       "w": "veuin",
-      "p": "f w i n"
+      "p": "f w i :n"
     },
     {
       "w": "vin",
-      "p": "f i n"
+      "p": "f i :n"
     },
     {
       "w": "vat",
@@ -19322,95 +19322,95 @@
     },
     {
       "w": "zan",
-      "p": "ts a n"
+      "p": "ts a :n"
     },
     {
       "w": "zaen",
-      "p": "ts e n"
+      "p": "ts e :n"
     },
     {
       "w": "zyan",
-      "p": "ts ia n"
+      "p": "ts ia :n"
     },
     {
       "w": "zyaen",
-      "p": "ts ie n"
+      "p": "ts ie :n"
     },
     {
       "w": "zeon",
-      "p": "ts o n"
+      "p": "ts o :n"
     },
     {
       "w": "zen",
-      "p": "ts e n"
+      "p": "ts e :n"
     },
     {
       "w": "zyeon",
-      "p": "ts j o n"
+      "p": "ts j o :n"
     },
     {
       "w": "zyen",
-      "p": "ts ie n"
+      "p": "ts ie :n"
     },
     {
       "w": "zon",
-      "p": "ts o n"
+      "p": "ts o :n"
     },
     {
       "w": "zwan",
-      "p": "ts ua n"
+      "p": "ts ua :n"
     },
     {
       "w": "zwaen",
-      "p": "ts ue n"
+      "p": "ts ue :n"
     },
     {
       "w": "zoen",
-      "p": "ts ue n"
+      "p": "ts ue :n"
     },
     {
       "w": "zyon",
-      "p": "ts j o n"
+      "p": "ts j o :n"
     },
     {
       "w": "zun",
-      "p": "ts u n"
+      "p": "ts u :n"
     },
     {
       "w": "zwon",
-      "p": "ts uo n"
+      "p": "ts uo :n"
     },
     {
       "w": "zweon",
-      "p": "ts uo n"
+      "p": "ts uo :n"
     },
     {
       "w": "zwen",
-      "p": "ts ue n"
+      "p": "ts ue :n"
     },
     {
       "w": "zwin",
-      "p": "ts w i n"
+      "p": "ts w i :n"
     },
     {
       "w": "zyun",
-      "p": "ts j u n"
+      "p": "ts j u :n"
     },
     {
       "w": "zeun",
-      "p": "ts u@ n"
+      "p": "ts u@ :n"
     },
     {
       "w": "zuin",
-      "p": "ts w i n"
+      "p": "ts w i :n"
     },
     {
       "w": "zeuin",
-      "p": "ts w i n"
+      "p": "ts w i :n"
     },
     {
       "w": "zin",
-      "p": "ts i n"
+      "p": "ts i :n"
     },
     {
       "w": "zat",
@@ -20058,95 +20058,95 @@
     },
     {
       "w": "than",
-      "p": "s a n"
+      "p": "s a :n"
     },
     {
       "w": "thaen",
-      "p": "s e n"
+      "p": "s e :n"
     },
     {
       "w": "thyan",
-      "p": "s ia n"
+      "p": "s ia :n"
     },
     {
       "w": "thyaen",
-      "p": "s ie n"
+      "p": "s ie :n"
     },
     {
       "w": "theon",
-      "p": "s o n"
+      "p": "s o :n"
     },
     {
       "w": "then",
-      "p": "s e n"
+      "p": "s e :n"
     },
     {
       "w": "thyeon",
-      "p": "s j o n"
+      "p": "s j o :n"
     },
     {
       "w": "thyen",
-      "p": "s ie n"
+      "p": "s ie :n"
     },
     {
       "w": "thon",
-      "p": "s o n"
+      "p": "s o :n"
     },
     {
       "w": "thwan",
-      "p": "s ua n"
+      "p": "s ua :n"
     },
     {
       "w": "thwaen",
-      "p": "s ue n"
+      "p": "s ue :n"
     },
     {
       "w": "thoen",
-      "p": "s ue n"
+      "p": "s ue :n"
     },
     {
       "w": "thyon",
-      "p": "s j o n"
+      "p": "s j o :n"
     },
     {
       "w": "thun",
-      "p": "s u n"
+      "p": "s u :n"
     },
     {
       "w": "thwon",
-      "p": "s uo n"
+      "p": "s uo :n"
     },
     {
       "w": "thweon",
-      "p": "s uo n"
+      "p": "s uo :n"
     },
     {
       "w": "thwen",
-      "p": "s ue n"
+      "p": "s ue :n"
     },
     {
       "w": "thwin",
-      "p": "s w i n"
+      "p": "s w i :n"
     },
     {
       "w": "thyun",
-      "p": "s j u n"
+      "p": "s j u :n"
     },
     {
       "w": "theun",
-      "p": "s u@ n"
+      "p": "s u@ :n"
     },
     {
       "w": "thuin",
-      "p": "s w i n"
+      "p": "s w i :n"
     },
     {
       "w": "theuin",
-      "p": "s w i n"
+      "p": "s w i :n"
     },
     {
       "w": "thin",
-      "p": "s i n"
+      "p": "s i :n"
     },
     {
       "w": "that",
@@ -20618,11 +20618,11 @@
     },
     {
       "w": "n",
-      "p": "n"
+      "p": ":n"
     },
     {
       "w": "N",
-      "p": "n"
+      "p": ":n"
     },
     {
       "w": "t",
