@@ -7,17 +7,17 @@ The dictionary entries are romanized, although there might be future hangul inpu
 
 For consonants like "pp/bb", "kk/gg", "tt/dd", "jj", and "ss" it's recommended you increase the phoneme strength as well.
 
-The ANY2KOR dictionary has all other 3 dictionaries combined; to use Chinese phonemes add a 2 to the end and for English phonemes add a 3. Remember to change the note's language before typing the number in.
+The ANY2KOR dictionary has all other 3 dictionaries combined; to use Chinese phonemes add a 2 to the end, for English phonemes add a 3, and for Cantonese phonemes add a 4. Remember to change the note's language before typing the number in.
 
 Please note this dictionary was made with AI voicebanks in mind, so it might be faulty for Standard voicebanks. (Again, I'll also consider adding support for this if needed.)
 
-Also, credit isn't necessary, I don't really mind; but if you'd like to, feel free to link back or tag me on my socials (latticenail on SoundCloud, 500tears on Twitter) so I can see what you've done ^_^
+Also, credit isn't necessary, I don't really mind; but if you'd like to, feel free to link back or tag me on my socials (latticenail on SoundCloud, curlflavor on Twitter) so I can see what you've done ^_^
 ## Notes
 * Includes individual ending consonants (i.e. k, ng, l). Uppercase aliases are included too
 * Includes syllables starting with "f", "v", "th", "rr", and "z"
 ## Tables
-### Consonants (initial and final)
-| Hangul | JPN | CHN | ENG | CAN |
+### Initial consonants
+| KOR | JPN | CHN | ENG | CAN |
 | --- | --- | --- | --- | --- |
 | g | g, gy | k | g | k |
 | kk/gg | cl k, cl ky | cl k | cl k | cl k, cl kw |
@@ -43,8 +43,18 @@ Also, credit isn't necessary, I don't really mind; but if you'd like to, feel fr
 | rr | w | z\` | r | w |
 | v | v | f | v | f |
 | z | z | ts | z | ts |
+### Final consonants
+| KOR | JPN | CHN | ENG | CAN |
+| --- | --- | --- | --- | --- |
+| k | k | k | k | :k_} |
+| n | n | :n | n | :n |
+| t | t | t | t | :t_} |
+| l | r | l | l | l |
+| m | m | m | m | :m |
+| p | p | p | p | :p_} |
+| ng | N | N | ng | :N |
 ### Vowels
-| Hangul | JPN | CHN | ENG | CAN |
+| KOR | JPN | CHN | ENG | CAN |
 | --- | --- | --- | --- | --- |
 | a | a | a | aa | 6 |
 | ae | e | e | eh | e |
