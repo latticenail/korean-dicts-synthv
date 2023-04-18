@@ -21,7 +21,7 @@ Also, credit isn't necessary, I don't really mind; but if you'd like to, feel fr
 | --- | --- | --- | --- | --- |
 | g | g, gy | k | g | k |
 | kk/gg | cl k, cl ky | cl k | cl k | cl k, cl kw |
-| n | n, ny | n, :n | n | n, :n |
+| n | n, ny | n | n | n |
 | d | d | t | d | t |
 | tt/dd | cl t | cl t | cl t | cl t |
 | r | r | l | dx | l |
