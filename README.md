@@ -1,9 +1,7 @@
 # Korean SynthV dictionaries
 Korean dictionaries for SynthV voicebanks.
 
-CAN2KOR, ANY2KOR, and SPA2KOR dictionaries are still in development, come back later!
 ## How to use
-(This description is kinda copy-pasted from my previous repository, please don't mind it >_>)
 
 The dictionary entries are romanized, although there might be future hangul input as well. *It's advised to phoneme edit accordingly rather than plug-and-play.*
 
