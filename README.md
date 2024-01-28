@@ -15,3 +15,5 @@ Also, credit isn't necessary, I don't really mind; but if you'd like to, feel fr
 ## Notes
 * Includes individual ending consonants (i.e. k, ng, l). Uppercase aliases are included too
 * Includes syllables starting with "f", "v", "th", "rr", and "z"
+## Phoneme tables
+\[TBA]
