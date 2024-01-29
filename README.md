@@ -16,4 +16,30 @@ Also, credit isn't necessary, I don't really mind; but if you'd like to, feel fr
 * Includes individual ending consonants (i.e. k, ng, l). Uppercase aliases are included too
 * Includes syllables starting with "f", "v", "th", "rr", and "z"
 ## Phoneme tables
-\[TBA]
+### Initial consonants
+|       	| JPN         	| ENG   	| MAN    	| CAN   	| SPA   	|
+|-------	|-------------	|-------	|--------	|-------	|-------	|
+| g     	| g, gy       	| g     	| k      	| k     	| g     	|
+| gg/kk 	| cl k, cl ky 	| cl k  	| cl k   	| cl k  	| cl k  	|
+| n     	| n, ny       	| n     	| n      	| n     	| n     	|
+| d     	| d           	| d     	| t      	| t     	| d     	|
+| dd/tt 	| cl t        	| cl t  	| cl t   	| cl t  	| cl t  	|
+| r     	| r, ry       	| dx    	| l      	| l     	| r     	|
+| l     	| r, ry       	| l     	| l      	| l     	| l     	|
+| m     	| m, my       	| m     	| m      	| m     	| m     	|
+| b     	| b, by       	| b     	| p      	| p     	| b     	|
+| bb/pp 	| cl p, cl py 	| cl p  	| cl p   	| cl p  	| cl p  	|
+| s     	| s           	| s     	| s      	| s     	| s     	|
+| ss    	| s           	| s     	| s      	| s     	| s     	|
+| j     	| j           	| jh    	| ts\    	| ts    	| ch    	|
+| jj    	| cl ch       	| cl ch 	| cl ts\ 	| cl ts 	| cl ch 	|
+| ch    	| ch          	| ch    	| ts\h   	| tsh   	| ch    	|
+| k     	| k, ky       	| k     	| kh     	| kh    	| k     	|
+| t     	| t           	| t     	| th     	| th    	| t     	|
+| p     	| p, py       	| p     	| ph     	| ph    	| p     	|
+| h     	| h, hy, f    	| hh, f 	| x, f   	| h, f  	| x, f  	|
+| f     	| f           	| f     	| f      	| f     	| f     	|
+| th    	| s           	| th    	| s      	| s     	| C     	|
+| rr    	| w           	| r     	| z`     	| w     	| w     	|
+| v     	| v           	| v     	| f      	| f     	| B     	|
+| z     	| z           	| z     	| ts     	| ts    	| s     	|
