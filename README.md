@@ -37,7 +37,7 @@ Also, credit isn't necessary, I don't really mind; but if you'd like to, feel fr
 | we     	| w e 	| w eh 	| ue  	| w e 	| U e 	|
 | wi     	| w i 	| w iy 	| w i 	| w i 	| U i 	|
 | yu     	| y u 	| y uh 	| j u 	| j u 	| y u 	|
-| eu     	| u   	| ax   	| i\  	| u   	| u   	|
+| eu     	| u   	| ax   	| i\\  	| u   	| u   	|
 | eui/ui 	| w i 	| w iy 	| w i 	| w i 	| U i 	|
 | i      	| i   	| iy   	| i   	| i   	| i   	|
 ### Initial consonants
@@ -55,9 +55,9 @@ Also, credit isn't necessary, I don't really mind; but if you'd like to, feel fr
 | bb/pp 	| cl p, cl py 	| cl p  	| cl p   	| cl p  	| cl p  	|
 | s     	| s           	| s     	| s      	| s     	| s     	|
 | ss    	| s           	| s     	| s      	| s     	| s     	|
-| j     	| j           	| jh    	| ts\    	| ts    	| ch    	|
-| jj    	| cl ch       	| cl ch 	| cl ts\ 	| cl ts 	| cl ch 	|
-| ch    	| ch          	| ch    	| ts\h   	| tsh   	| ch    	|
+| j     	| j           	| jh    	| ts\\    | ts    	| ch    	|
+| jj    	| cl ch       	| cl ch 	| cl ts\\ | cl ts 	| cl ch 	|
+| ch    	| ch          	| ch    	| ts\\h   | tsh   	| ch    	|
 | k     	| k, ky       	| k     	| kh     	| kh    	| k     	|
 | t     	| t           	| t     	| th     	| th    	| t     	|
 | p     	| p, py       	| p     	| ph     	| ph    	| p     	|
@@ -74,7 +74,7 @@ Also, credit isn't necessary, I don't really mind; but if you'd like to, feel fr
 | n  	| n   	| n   	| :n  	| :n   	| n   	|
 | t  	| t   	| t   	| t   	| :t_} 	| t   	|
 | l  	| r   	| l   	| l   	| l    	| l   	|
-| rl 	| r   	| r   	| r\` 	| l    	| l   	|
+| rl 	| r   	| r   	| r\\` 	| l    	| l   	|
 | m  	| m   	| m   	| m   	| :m   	| m   	|
 | p  	| p   	| p   	| p   	| :p_} 	| p   	|
 | ng 	| N   	| ng  	| N   	| :N   	| N   	|
