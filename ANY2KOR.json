@@ -23302,7 +23302,7 @@
         },
         {
             "w": "u2",
-            "p": "uw"
+            "p": "uh"
         },
         {
             "w": "wo2",
@@ -23322,7 +23322,7 @@
         },
         {
             "w": "yu2",
-            "p": "y uw"
+            "p": "y uh"
         },
         {
             "w": "eu2",
@@ -23394,7 +23394,7 @@
         },
         {
             "w": "uk2",
-            "p": "uw k"
+            "p": "uh k"
         },
         {
             "w": "wok2",
@@ -23414,7 +23414,7 @@
         },
         {
             "w": "yuk2",
-            "p": "y uw k"
+            "p": "y uh k"
         },
         {
             "w": "euk2",
@@ -23486,7 +23486,7 @@
         },
         {
             "w": "un2",
-            "p": "uw n"
+            "p": "uh n"
         },
         {
             "w": "won2",
@@ -23506,7 +23506,7 @@
         },
         {
             "w": "yun2",
-            "p": "y uw n"
+            "p": "y uh n"
         },
         {
             "w": "eun2",
@@ -23578,7 +23578,7 @@
         },
         {
             "w": "ut2",
-            "p": "uw t"
+            "p": "uh t"
         },
         {
             "w": "wot2",
@@ -23598,7 +23598,7 @@
         },
         {
             "w": "yut2",
-            "p": "y uw t"
+            "p": "y uh t"
         },
         {
             "w": "eut2",
@@ -23670,7 +23670,7 @@
         },
         {
             "w": "ul2",
-            "p": "uw l"
+            "p": "uh l"
         },
         {
             "w": "wol2",
@@ -23690,7 +23690,7 @@
         },
         {
             "w": "yul2",
-            "p": "y uw l"
+            "p": "y uh l"
         },
         {
             "w": "eul2",
@@ -23762,7 +23762,7 @@
         },
         {
             "w": "url2",
-            "p": "uw r"
+            "p": "uh r"
         },
         {
             "w": "worl2",
@@ -23782,7 +23782,7 @@
         },
         {
             "w": "yurl2",
-            "p": "y uw r"
+            "p": "y uh r"
         },
         {
             "w": "eurl2",
@@ -23854,7 +23854,7 @@
         },
         {
             "w": "um2",
-            "p": "uw m"
+            "p": "uh m"
         },
         {
             "w": "wom2",
@@ -23874,7 +23874,7 @@
         },
         {
             "w": "yum2",
-            "p": "y uw m"
+            "p": "y uh m"
         },
         {
             "w": "eum2",
@@ -23946,7 +23946,7 @@
         },
         {
             "w": "up2",
-            "p": "uw p"
+            "p": "uh p"
         },
         {
             "w": "wop2",
@@ -23966,7 +23966,7 @@
         },
         {
             "w": "yup2",
-            "p": "y uw p"
+            "p": "y uh p"
         },
         {
             "w": "eup2",
@@ -24038,7 +24038,7 @@
         },
         {
             "w": "ung2",
-            "p": "uw ng"
+            "p": "uh ng"
         },
         {
             "w": "wong2",
@@ -24058,7 +24058,7 @@
         },
         {
             "w": "yung2",
-            "p": "y uw ng"
+            "p": "y uh ng"
         },
         {
             "w": "eung2",
@@ -24130,7 +24130,7 @@
         },
         {
             "w": "gu2",
-            "p": "g uw"
+            "p": "g uh"
         },
         {
             "w": "gwo2",
@@ -24150,7 +24150,7 @@
         },
         {
             "w": "gyu2",
-            "p": "g y uw"
+            "p": "g y uh"
         },
         {
             "w": "geu2",
@@ -24222,7 +24222,7 @@
         },
         {
             "w": "guk2",
-            "p": "g uw k"
+            "p": "g uh k"
         },
         {
             "w": "gwok2",
@@ -24242,7 +24242,7 @@
         },
         {
             "w": "gyuk2",
-            "p": "g y uw k"
+            "p": "g y uh k"
         },
         {
             "w": "geuk2",
@@ -24314,7 +24314,7 @@
         },
         {
             "w": "gun2",
-            "p": "g uw n"
+            "p": "g uh n"
         },
         {
             "w": "gwon2",
@@ -24334,7 +24334,7 @@
         },
         {
             "w": "gyun2",
-            "p": "g y uw n"
+            "p": "g y uh n"
         },
         {
             "w": "geun2",
@@ -24406,7 +24406,7 @@
         },
         {
             "w": "gut2",
-            "p": "g uw t"
+            "p": "g uh t"
         },
         {
             "w": "gwot2",
@@ -24426,7 +24426,7 @@
         },
         {
             "w": "gyut2",
-            "p": "g y uw t"
+            "p": "g y uh t"
         },
         {
             "w": "geut2",
@@ -24498,7 +24498,7 @@
         },
         {
             "w": "gul2",
-            "p": "g uw l"
+            "p": "g uh l"
         },
         {
             "w": "gwol2",
@@ -24518,7 +24518,7 @@
         },
         {
             "w": "gyul2",
-            "p": "g y uw l"
+            "p": "g y uh l"
         },
         {
             "w": "geul2",
@@ -24590,7 +24590,7 @@
         },
         {
             "w": "gurl2",
-            "p": "g uw r"
+            "p": "g uh r"
         },
         {
             "w": "gworl2",
@@ -24610,7 +24610,7 @@
         },
         {
             "w": "gyurl2",
-            "p": "g y uw r"
+            "p": "g y uh r"
         },
         {
             "w": "geurl2",
@@ -24682,7 +24682,7 @@
         },
         {
             "w": "gum2",
-            "p": "g uw m"
+            "p": "g uh m"
         },
         {
             "w": "gwom2",
@@ -24702,7 +24702,7 @@
         },
         {
             "w": "gyum2",
-            "p": "g y uw m"
+            "p": "g y uh m"
         },
         {
             "w": "geum2",
@@ -24774,7 +24774,7 @@
         },
         {
             "w": "gup2",
-            "p": "g uw p"
+            "p": "g uh p"
         },
         {
             "w": "gwop2",
@@ -24794,7 +24794,7 @@
         },
         {
             "w": "gyup2",
-            "p": "g y uw p"
+            "p": "g y uh p"
         },
         {
             "w": "geup2",
@@ -24866,7 +24866,7 @@
         },
         {
             "w": "gung2",
-            "p": "g uw ng"
+            "p": "g uh ng"
         },
         {
             "w": "gwong2",
@@ -24886,7 +24886,7 @@
         },
         {
             "w": "gyung2",
-            "p": "g y uw ng"
+            "p": "g y uh ng"
         },
         {
             "w": "geung2",
@@ -24958,7 +24958,7 @@
         },
         {
             "w": "kku2",
-            "p": "cl k uw"
+            "p": "cl k uh"
         },
         {
             "w": "kkwo2",
@@ -24978,7 +24978,7 @@
         },
         {
             "w": "kkyu2",
-            "p": "cl k y uw"
+            "p": "cl k y uh"
         },
         {
             "w": "kkeu2",
@@ -25050,7 +25050,7 @@
         },
         {
             "w": "kkuk2",
-            "p": "cl k uw k"
+            "p": "cl k uh k"
         },
         {
             "w": "kkwok2",
@@ -25070,7 +25070,7 @@
         },
         {
             "w": "kkyuk2",
-            "p": "cl k y uw k"
+            "p": "cl k y uh k"
         },
         {
             "w": "kkeuk2",
@@ -25142,7 +25142,7 @@
         },
         {
             "w": "kkun2",
-            "p": "cl k uw n"
+            "p": "cl k uh n"
         },
         {
             "w": "kkwon2",
@@ -25162,7 +25162,7 @@
         },
         {
             "w": "kkyun2",
-            "p": "cl k y uw n"
+            "p": "cl k y uh n"
         },
         {
             "w": "kkeun2",
@@ -25234,7 +25234,7 @@
         },
         {
             "w": "kkut2",
-            "p": "cl k uw t"
+            "p": "cl k uh t"
         },
         {
             "w": "kkwot2",
@@ -25254,7 +25254,7 @@
         },
         {
             "w": "kkyut2",
-            "p": "cl k y uw t"
+            "p": "cl k y uh t"
         },
         {
             "w": "kkeut2",
@@ -25326,7 +25326,7 @@
         },
         {
             "w": "kkul2",
-            "p": "cl k uw l"
+            "p": "cl k uh l"
         },
         {
             "w": "kkwol2",
@@ -25346,7 +25346,7 @@
         },
         {
             "w": "kkyul2",
-            "p": "cl k y uw l"
+            "p": "cl k y uh l"
         },
         {
             "w": "kkeul2",
@@ -25418,7 +25418,7 @@
         },
         {
             "w": "kkurl2",
-            "p": "cl k uw r"
+            "p": "cl k uh r"
         },
         {
             "w": "kkworl2",
@@ -25438,7 +25438,7 @@
         },
         {
             "w": "kkyurl2",
-            "p": "cl k y uw r"
+            "p": "cl k y uh r"
         },
         {
             "w": "kkeurl2",
@@ -25510,7 +25510,7 @@
         },
         {
             "w": "kkum2",
-            "p": "cl k uw m"
+            "p": "cl k uh m"
         },
         {
             "w": "kkwom2",
@@ -25530,7 +25530,7 @@
         },
         {
             "w": "kkyum2",
-            "p": "cl k y uw m"
+            "p": "cl k y uh m"
         },
         {
             "w": "kkeum2",
@@ -25602,7 +25602,7 @@
         },
         {
             "w": "kkup2",
-            "p": "cl k uw p"
+            "p": "cl k uh p"
         },
         {
             "w": "kkwop2",
@@ -25622,7 +25622,7 @@
         },
         {
             "w": "kkyup2",
-            "p": "cl k y uw p"
+            "p": "cl k y uh p"
         },
         {
             "w": "kkeup2",
@@ -25694,7 +25694,7 @@
         },
         {
             "w": "kkung2",
-            "p": "cl k uw ng"
+            "p": "cl k uh ng"
         },
         {
             "w": "kkwong2",
@@ -25714,7 +25714,7 @@
         },
         {
             "w": "kkyung2",
-            "p": "cl k y uw ng"
+            "p": "cl k y uh ng"
         },
         {
             "w": "kkeung2",
@@ -25786,7 +25786,7 @@
         },
         {
             "w": "ggu2",
-            "p": "cl k uw"
+            "p": "cl k uh"
         },
         {
             "w": "ggwo2",
@@ -25806,7 +25806,7 @@
         },
         {
             "w": "ggyu2",
-            "p": "cl k y uw"
+            "p": "cl k y uh"
         },
         {
             "w": "ggeu2",
@@ -25878,7 +25878,7 @@
         },
         {
             "w": "gguk2",
-            "p": "cl k uw k"
+            "p": "cl k uh k"
         },
         {
             "w": "ggwok2",
@@ -25898,7 +25898,7 @@
         },
         {
             "w": "ggyuk2",
-            "p": "cl k y uw k"
+            "p": "cl k y uh k"
         },
         {
             "w": "ggeuk2",
@@ -25970,7 +25970,7 @@
         },
         {
             "w": "ggun2",
-            "p": "cl k uw n"
+            "p": "cl k uh n"
         },
         {
             "w": "ggwon2",
@@ -25990,7 +25990,7 @@
         },
         {
             "w": "ggyun2",
-            "p": "cl k y uw n"
+            "p": "cl k y uh n"
         },
         {
             "w": "ggeun2",
@@ -26062,7 +26062,7 @@
         },
         {
             "w": "ggut2",
-            "p": "cl k uw t"
+            "p": "cl k uh t"
         },
         {
             "w": "ggwot2",
@@ -26082,7 +26082,7 @@
         },
         {
             "w": "ggyut2",
-            "p": "cl k y uw t"
+            "p": "cl k y uh t"
         },
         {
             "w": "ggeut2",
@@ -26154,7 +26154,7 @@
         },
         {
             "w": "ggul2",
-            "p": "cl k uw l"
+            "p": "cl k uh l"
         },
         {
             "w": "ggwol2",
@@ -26174,7 +26174,7 @@
         },
         {
             "w": "ggyul2",
-            "p": "cl k y uw l"
+            "p": "cl k y uh l"
         },
         {
             "w": "ggeul2",
@@ -26246,7 +26246,7 @@
         },
         {
             "w": "ggurl2",
-            "p": "cl k uw r"
+            "p": "cl k uh r"
         },
         {
             "w": "ggworl2",
@@ -26266,7 +26266,7 @@
         },
         {
             "w": "ggyurl2",
-            "p": "cl k y uw r"
+            "p": "cl k y uh r"
         },
         {
             "w": "ggeurl2",
@@ -26338,7 +26338,7 @@
         },
         {
             "w": "ggum2",
-            "p": "cl k uw m"
+            "p": "cl k uh m"
         },
         {
             "w": "ggwom2",
@@ -26358,7 +26358,7 @@
         },
         {
             "w": "ggyum2",
-            "p": "cl k y uw m"
+            "p": "cl k y uh m"
         },
         {
             "w": "ggeum2",
@@ -26430,7 +26430,7 @@
         },
         {
             "w": "ggup2",
-            "p": "cl k uw p"
+            "p": "cl k uh p"
         },
         {
             "w": "ggwop2",
@@ -26450,7 +26450,7 @@
         },
         {
             "w": "ggyup2",
-            "p": "cl k y uw p"
+            "p": "cl k y uh p"
         },
         {
             "w": "ggeup2",
@@ -26522,7 +26522,7 @@
         },
         {
             "w": "ggung2",
-            "p": "cl k uw ng"
+            "p": "cl k uh ng"
         },
         {
             "w": "ggwong2",
@@ -26542,7 +26542,7 @@
         },
         {
             "w": "ggyung2",
-            "p": "cl k y uw ng"
+            "p": "cl k y uh ng"
         },
         {
             "w": "ggeung2",
@@ -26614,7 +26614,7 @@
         },
         {
             "w": "nu2",
-            "p": "n uw"
+            "p": "n uh"
         },
         {
             "w": "nwo2",
@@ -26634,7 +26634,7 @@
         },
         {
             "w": "nyu2",
-            "p": "n y uw"
+            "p": "n y uh"
         },
         {
             "w": "neu2",
@@ -26706,7 +26706,7 @@
         },
         {
             "w": "nuk2",
-            "p": "n uw k"
+            "p": "n uh k"
         },
         {
             "w": "nwok2",
@@ -26726,7 +26726,7 @@
         },
         {
             "w": "nyuk2",
-            "p": "n y uw k"
+            "p": "n y uh k"
         },
         {
             "w": "neuk2",
@@ -26798,7 +26798,7 @@
         },
         {
             "w": "nun2",
-            "p": "n uw n"
+            "p": "n uh n"
         },
         {
             "w": "nwon2",
@@ -26818,7 +26818,7 @@
         },
         {
             "w": "nyun2",
-            "p": "n y uw n"
+            "p": "n y uh n"
         },
         {
             "w": "neun2",
@@ -26890,7 +26890,7 @@
         },
         {
             "w": "nut2",
-            "p": "n uw t"
+            "p": "n uh t"
         },
         {
             "w": "nwot2",
@@ -26910,7 +26910,7 @@
         },
         {
             "w": "nyut2",
-            "p": "n y uw t"
+            "p": "n y uh t"
         },
         {
             "w": "neut2",
@@ -26982,7 +26982,7 @@
         },
         {
             "w": "nul2",
-            "p": "n uw l"
+            "p": "n uh l"
         },
         {
             "w": "nwol2",
@@ -27002,7 +27002,7 @@
         },
         {
             "w": "nyul2",
-            "p": "n y uw l"
+            "p": "n y uh l"
         },
         {
             "w": "neul2",
@@ -27074,7 +27074,7 @@
         },
         {
             "w": "nurl2",
-            "p": "n uw r"
+            "p": "n uh r"
         },
         {
             "w": "nworl2",
@@ -27094,7 +27094,7 @@
         },
         {
             "w": "nyurl2",
-            "p": "n y uw r"
+            "p": "n y uh r"
         },
         {
             "w": "neurl2",
@@ -27166,7 +27166,7 @@
         },
         {
             "w": "num2",
-            "p": "n uw m"
+            "p": "n uh m"
         },
         {
             "w": "nwom2",
@@ -27186,7 +27186,7 @@
         },
         {
             "w": "nyum2",
-            "p": "n y uw m"
+            "p": "n y uh m"
         },
         {
             "w": "neum2",
@@ -27258,7 +27258,7 @@
         },
         {
             "w": "nup2",
-            "p": "n uw p"
+            "p": "n uh p"
         },
         {
             "w": "nwop2",
@@ -27278,7 +27278,7 @@
         },
         {
             "w": "nyup2",
-            "p": "n y uw p"
+            "p": "n y uh p"
         },
         {
             "w": "neup2",
@@ -27350,7 +27350,7 @@
         },
         {
             "w": "nung2",
-            "p": "n uw ng"
+            "p": "n uh ng"
         },
         {
             "w": "nwong2",
@@ -27370,7 +27370,7 @@
         },
         {
             "w": "nyung2",
-            "p": "n y uw ng"
+            "p": "n y uh ng"
         },
         {
             "w": "neung2",
@@ -27442,7 +27442,7 @@
         },
         {
             "w": "du2",
-            "p": "d uw"
+            "p": "d uh"
         },
         {
             "w": "dwo2",
@@ -27462,7 +27462,7 @@
         },
         {
             "w": "dyu2",
-            "p": "d y uw"
+            "p": "d y uh"
         },
         {
             "w": "deu2",
@@ -27534,7 +27534,7 @@
         },
         {
             "w": "duk2",
-            "p": "d uw k"
+            "p": "d uh k"
         },
         {
             "w": "dwok2",
@@ -27554,7 +27554,7 @@
         },
         {
             "w": "dyuk2",
-            "p": "d y uw k"
+            "p": "d y uh k"
         },
         {
             "w": "deuk2",
@@ -27626,7 +27626,7 @@
         },
         {
             "w": "dun2",
-            "p": "d uw n"
+            "p": "d uh n"
         },
         {
             "w": "dwon2",
@@ -27646,7 +27646,7 @@
         },
         {
             "w": "dyun2",
-            "p": "d y uw n"
+            "p": "d y uh n"
         },
         {
             "w": "deun2",
@@ -27718,7 +27718,7 @@
         },
         {
             "w": "dut2",
-            "p": "d uw t"
+            "p": "d uh t"
         },
         {
             "w": "dwot2",
@@ -27738,7 +27738,7 @@
         },
         {
             "w": "dyut2",
-            "p": "d y uw t"
+            "p": "d y uh t"
         },
         {
             "w": "deut2",
@@ -27810,7 +27810,7 @@
         },
         {
             "w": "dul2",
-            "p": "d uw l"
+            "p": "d uh l"
         },
         {
             "w": "dwol2",
@@ -27830,7 +27830,7 @@
         },
         {
             "w": "dyul2",
-            "p": "d y uw l"
+            "p": "d y uh l"
         },
         {
             "w": "deul2",
@@ -27902,7 +27902,7 @@
         },
         {
             "w": "durl2",
-            "p": "d uw r"
+            "p": "d uh r"
         },
         {
             "w": "dworl2",
@@ -27922,7 +27922,7 @@
         },
         {
             "w": "dyurl2",
-            "p": "d y uw r"
+            "p": "d y uh r"
         },
         {
             "w": "deurl2",
@@ -27994,7 +27994,7 @@
         },
         {
             "w": "dum2",
-            "p": "d uw m"
+            "p": "d uh m"
         },
         {
             "w": "dwom2",
@@ -28014,7 +28014,7 @@
         },
         {
             "w": "dyum2",
-            "p": "d y uw m"
+            "p": "d y uh m"
         },
         {
             "w": "deum2",
@@ -28086,7 +28086,7 @@
         },
         {
             "w": "dup2",
-            "p": "d uw p"
+            "p": "d uh p"
         },
         {
             "w": "dwop2",
@@ -28106,7 +28106,7 @@
         },
         {
             "w": "dyup2",
-            "p": "d y uw p"
+            "p": "d y uh p"
         },
         {
             "w": "deup2",
@@ -28178,7 +28178,7 @@
         },
         {
             "w": "dung2",
-            "p": "d uw ng"
+            "p": "d uh ng"
         },
         {
             "w": "dwong2",
@@ -28198,7 +28198,7 @@
         },
         {
             "w": "dyung2",
-            "p": "d y uw ng"
+            "p": "d y uh ng"
         },
         {
             "w": "deung2",
@@ -28270,7 +28270,7 @@
         },
         {
             "w": "ttu2",
-            "p": "cl t uw"
+            "p": "cl t uh"
         },
         {
             "w": "ttwo2",
@@ -28290,7 +28290,7 @@
         },
         {
             "w": "ttyu2",
-            "p": "cl t y uw"
+            "p": "cl t y uh"
         },
         {
             "w": "tteu2",
@@ -28362,7 +28362,7 @@
         },
         {
             "w": "ttuk2",
-            "p": "cl t uw k"
+            "p": "cl t uh k"
         },
         {
             "w": "ttwok2",
@@ -28382,7 +28382,7 @@
         },
         {
             "w": "ttyuk2",
-            "p": "cl t y uw k"
+            "p": "cl t y uh k"
         },
         {
             "w": "tteuk2",
@@ -28454,7 +28454,7 @@
         },
         {
             "w": "ttun2",
-            "p": "cl t uw n"
+            "p": "cl t uh n"
         },
         {
             "w": "ttwon2",
@@ -28474,7 +28474,7 @@
         },
         {
             "w": "ttyun2",
-            "p": "cl t y uw n"
+            "p": "cl t y uh n"
         },
         {
             "w": "tteun2",
@@ -28546,7 +28546,7 @@
         },
         {
             "w": "ttut2",
-            "p": "cl t uw t"
+            "p": "cl t uh t"
         },
         {
             "w": "ttwot2",
@@ -28566,7 +28566,7 @@
         },
         {
             "w": "ttyut2",
-            "p": "cl t y uw t"
+            "p": "cl t y uh t"
         },
         {
             "w": "tteut2",
@@ -28638,7 +28638,7 @@
         },
         {
             "w": "ttul2",
-            "p": "cl t uw l"
+            "p": "cl t uh l"
         },
         {
             "w": "ttwol2",
@@ -28658,7 +28658,7 @@
         },
         {
             "w": "ttyul2",
-            "p": "cl t y uw l"
+            "p": "cl t y uh l"
         },
         {
             "w": "tteul2",
@@ -28730,7 +28730,7 @@
         },
         {
             "w": "tturl2",
-            "p": "cl t uw r"
+            "p": "cl t uh r"
         },
         {
             "w": "ttworl2",
@@ -28750,7 +28750,7 @@
         },
         {
             "w": "ttyurl2",
-            "p": "cl t y uw r"
+            "p": "cl t y uh r"
         },
         {
             "w": "tteurl2",
@@ -28822,7 +28822,7 @@
         },
         {
             "w": "ttum2",
-            "p": "cl t uw m"
+            "p": "cl t uh m"
         },
         {
             "w": "ttwom2",
@@ -28842,7 +28842,7 @@
         },
         {
             "w": "ttyum2",
-            "p": "cl t y uw m"
+            "p": "cl t y uh m"
         },
         {
             "w": "tteum2",
@@ -28914,7 +28914,7 @@
         },
         {
             "w": "ttup2",
-            "p": "cl t uw p"
+            "p": "cl t uh p"
         },
         {
             "w": "ttwop2",
@@ -28934,7 +28934,7 @@
         },
         {
             "w": "ttyup2",
-            "p": "cl t y uw p"
+            "p": "cl t y uh p"
         },
         {
             "w": "tteup2",
@@ -29006,7 +29006,7 @@
         },
         {
             "w": "ttung2",
-            "p": "cl t uw ng"
+            "p": "cl t uh ng"
         },
         {
             "w": "ttwong2",
@@ -29026,7 +29026,7 @@
         },
         {
             "w": "ttyung2",
-            "p": "cl t y uw ng"
+            "p": "cl t y uh ng"
         },
         {
             "w": "tteung2",
@@ -29098,7 +29098,7 @@
         },
         {
             "w": "ddu2",
-            "p": "cl t uw"
+            "p": "cl t uh"
         },
         {
             "w": "ddwo2",
@@ -29118,7 +29118,7 @@
         },
         {
             "w": "ddyu2",
-            "p": "cl t y uw"
+            "p": "cl t y uh"
         },
         {
             "w": "ddeu2",
@@ -29190,7 +29190,7 @@
         },
         {
             "w": "dduk2",
-            "p": "cl t uw k"
+            "p": "cl t uh k"
         },
         {
             "w": "ddwok2",
@@ -29210,7 +29210,7 @@
         },
         {
             "w": "ddyuk2",
-            "p": "cl t y uw k"
+            "p": "cl t y uh k"
         },
         {
             "w": "ddeuk2",
@@ -29282,7 +29282,7 @@
         },
         {
             "w": "ddun2",
-            "p": "cl t uw n"
+            "p": "cl t uh n"
         },
         {
             "w": "ddwon2",
@@ -29302,7 +29302,7 @@
         },
         {
             "w": "ddyun2",
-            "p": "cl t y uw n"
+            "p": "cl t y uh n"
         },
         {
             "w": "ddeun2",
@@ -29374,7 +29374,7 @@
         },
         {
             "w": "ddut2",
-            "p": "cl t uw t"
+            "p": "cl t uh t"
         },
         {
             "w": "ddwot2",
@@ -29394,7 +29394,7 @@
         },
         {
             "w": "ddyut2",
-            "p": "cl t y uw t"
+            "p": "cl t y uh t"
         },
         {
             "w": "ddeut2",
@@ -29466,7 +29466,7 @@
         },
         {
             "w": "ddul2",
-            "p": "cl t uw l"
+            "p": "cl t uh l"
         },
         {
             "w": "ddwol2",
@@ -29486,7 +29486,7 @@
         },
         {
             "w": "ddyul2",
-            "p": "cl t y uw l"
+            "p": "cl t y uh l"
         },
         {
             "w": "ddeul2",
@@ -29558,7 +29558,7 @@
         },
         {
             "w": "ddurl2",
-            "p": "cl t uw r"
+            "p": "cl t uh r"
         },
         {
             "w": "ddworl2",
@@ -29578,7 +29578,7 @@
         },
         {
             "w": "ddyurl2",
-            "p": "cl t y uw r"
+            "p": "cl t y uh r"
         },
         {
             "w": "ddeurl2",
@@ -29650,7 +29650,7 @@
         },
         {
             "w": "ddum2",
-            "p": "cl t uw m"
+            "p": "cl t uh m"
         },
         {
             "w": "ddwom2",
@@ -29670,7 +29670,7 @@
         },
         {
             "w": "ddyum2",
-            "p": "cl t y uw m"
+            "p": "cl t y uh m"
         },
         {
             "w": "ddeum2",
@@ -29742,7 +29742,7 @@
         },
         {
             "w": "ddup2",
-            "p": "cl t uw p"
+            "p": "cl t uh p"
         },
         {
             "w": "ddwop2",
@@ -29762,7 +29762,7 @@
         },
         {
             "w": "ddyup2",
-            "p": "cl t y uw p"
+            "p": "cl t y uh p"
         },
         {
             "w": "ddeup2",
@@ -29834,7 +29834,7 @@
         },
         {
             "w": "ddung2",
-            "p": "cl t uw ng"
+            "p": "cl t uh ng"
         },
         {
             "w": "ddwong2",
@@ -29854,7 +29854,7 @@
         },
         {
             "w": "ddyung2",
-            "p": "cl t y uw ng"
+            "p": "cl t y uh ng"
         },
         {
             "w": "ddeung2",
@@ -29926,7 +29926,7 @@
         },
         {
             "w": "ru2",
-            "p": "dx uw"
+            "p": "dx uh"
         },
         {
             "w": "rwo2",
@@ -29946,7 +29946,7 @@
         },
         {
             "w": "ryu2",
-            "p": "dx y uw"
+            "p": "dx y uh"
         },
         {
             "w": "reu2",
@@ -30018,7 +30018,7 @@
         },
         {
             "w": "ruk2",
-            "p": "dx uw k"
+            "p": "dx uh k"
         },
         {
             "w": "rwok2",
@@ -30038,7 +30038,7 @@
         },
         {
             "w": "ryuk2",
-            "p": "dx y uw k"
+            "p": "dx y uh k"
         },
         {
             "w": "reuk2",
@@ -30110,7 +30110,7 @@
         },
         {
             "w": "run2",
-            "p": "dx uw n"
+            "p": "dx uh n"
         },
         {
             "w": "rwon2",
@@ -30130,7 +30130,7 @@
         },
         {
             "w": "ryun2",
-            "p": "dx y uw n"
+            "p": "dx y uh n"
         },
         {
             "w": "reun2",
@@ -30202,7 +30202,7 @@
         },
         {
             "w": "rut2",
-            "p": "dx uw t"
+            "p": "dx uh t"
         },
         {
             "w": "rwot2",
@@ -30222,7 +30222,7 @@
         },
         {
             "w": "ryut2",
-            "p": "dx y uw t"
+            "p": "dx y uh t"
         },
         {
             "w": "reut2",
@@ -30294,7 +30294,7 @@
         },
         {
             "w": "rul2",
-            "p": "dx uw l"
+            "p": "dx uh l"
         },
         {
             "w": "rwol2",
@@ -30314,7 +30314,7 @@
         },
         {
             "w": "ryul2",
-            "p": "dx y uw l"
+            "p": "dx y uh l"
         },
         {
             "w": "reul2",
@@ -30386,7 +30386,7 @@
         },
         {
             "w": "rurl2",
-            "p": "dx uw r"
+            "p": "dx uh r"
         },
         {
             "w": "rworl2",
@@ -30406,7 +30406,7 @@
         },
         {
             "w": "ryurl2",
-            "p": "dx y uw r"
+            "p": "dx y uh r"
         },
         {
             "w": "reurl2",
@@ -30478,7 +30478,7 @@
         },
         {
             "w": "rum2",
-            "p": "dx uw m"
+            "p": "dx uh m"
         },
         {
             "w": "rwom2",
@@ -30498,7 +30498,7 @@
         },
         {
             "w": "ryum2",
-            "p": "dx y uw m"
+            "p": "dx y uh m"
         },
         {
             "w": "reum2",
@@ -30570,7 +30570,7 @@
         },
         {
             "w": "rup2",
-            "p": "dx uw p"
+            "p": "dx uh p"
         },
         {
             "w": "rwop2",
@@ -30590,7 +30590,7 @@
         },
         {
             "w": "ryup2",
-            "p": "dx y uw p"
+            "p": "dx y uh p"
         },
         {
             "w": "reup2",
@@ -30662,7 +30662,7 @@
         },
         {
             "w": "rung2",
-            "p": "dx uw ng"
+            "p": "dx uh ng"
         },
         {
             "w": "rwong2",
@@ -30682,7 +30682,7 @@
         },
         {
             "w": "ryung2",
-            "p": "dx y uw ng"
+            "p": "dx y uh ng"
         },
         {
             "w": "reung2",
@@ -30754,7 +30754,7 @@
         },
         {
             "w": "lu2",
-            "p": "l uw"
+            "p": "l uh"
         },
         {
             "w": "lwo2",
@@ -30774,7 +30774,7 @@
         },
         {
             "w": "lyu2",
-            "p": "l y uw"
+            "p": "l y uh"
         },
         {
             "w": "leu2",
@@ -30846,7 +30846,7 @@
         },
         {
             "w": "luk2",
-            "p": "l uw k"
+            "p": "l uh k"
         },
         {
             "w": "lwok2",
@@ -30866,7 +30866,7 @@
         },
         {
             "w": "lyuk2",
-            "p": "l y uw k"
+            "p": "l y uh k"
         },
         {
             "w": "leuk2",
@@ -30938,7 +30938,7 @@
         },
         {
             "w": "lun2",
-            "p": "l uw n"
+            "p": "l uh n"
         },
         {
             "w": "lwon2",
@@ -30958,7 +30958,7 @@
         },
         {
             "w": "lyun2",
-            "p": "l y uw n"
+            "p": "l y uh n"
         },
         {
             "w": "leun2",
@@ -31030,7 +31030,7 @@
         },
         {
             "w": "lut2",
-            "p": "l uw t"
+            "p": "l uh t"
         },
         {
             "w": "lwot2",
@@ -31050,7 +31050,7 @@
         },
         {
             "w": "lyut2",
-            "p": "l y uw t"
+            "p": "l y uh t"
         },
         {
             "w": "leut2",
@@ -31122,7 +31122,7 @@
         },
         {
             "w": "lul2",
-            "p": "l uw l"
+            "p": "l uh l"
         },
         {
             "w": "lwol2",
@@ -31142,7 +31142,7 @@
         },
         {
             "w": "lyul2",
-            "p": "l y uw l"
+            "p": "l y uh l"
         },
         {
             "w": "leul2",
@@ -31214,7 +31214,7 @@
         },
         {
             "w": "lurl2",
-            "p": "l uw r"
+            "p": "l uh r"
         },
         {
             "w": "lworl2",
@@ -31234,7 +31234,7 @@
         },
         {
             "w": "lyurl2",
-            "p": "l y uw r"
+            "p": "l y uh r"
         },
         {
             "w": "leurl2",
@@ -31306,7 +31306,7 @@
         },
         {
             "w": "lum2",
-            "p": "l uw m"
+            "p": "l uh m"
         },
         {
             "w": "lwom2",
@@ -31326,7 +31326,7 @@
         },
         {
             "w": "lyum2",
-            "p": "l y uw m"
+            "p": "l y uh m"
         },
         {
             "w": "leum2",
@@ -31398,7 +31398,7 @@
         },
         {
             "w": "lup2",
-            "p": "l uw p"
+            "p": "l uh p"
         },
         {
             "w": "lwop2",
@@ -31418,7 +31418,7 @@
         },
         {
             "w": "lyup2",
-            "p": "l y uw p"
+            "p": "l y uh p"
         },
         {
             "w": "leup2",
@@ -31490,7 +31490,7 @@
         },
         {
             "w": "lung2",
-            "p": "l uw ng"
+            "p": "l uh ng"
         },
         {
             "w": "lwong2",
@@ -31510,7 +31510,7 @@
         },
         {
             "w": "lyung2",
-            "p": "l y uw ng"
+            "p": "l y uh ng"
         },
         {
             "w": "leung2",
@@ -31582,7 +31582,7 @@
         },
         {
             "w": "mu2",
-            "p": "m uw"
+            "p": "m uh"
         },
         {
             "w": "mwo2",
@@ -31602,7 +31602,7 @@
         },
         {
             "w": "myu2",
-            "p": "m y uw"
+            "p": "m y uh"
         },
         {
             "w": "meu2",
@@ -31674,7 +31674,7 @@
         },
         {
             "w": "muk2",
-            "p": "m uw k"
+            "p": "m uh k"
         },
         {
             "w": "mwok2",
@@ -31694,7 +31694,7 @@
         },
         {
             "w": "myuk2",
-            "p": "m y uw k"
+            "p": "m y uh k"
         },
         {
             "w": "meuk2",
@@ -31766,7 +31766,7 @@
         },
         {
             "w": "mun2",
-            "p": "m uw n"
+            "p": "m uh n"
         },
         {
             "w": "mwon2",
@@ -31786,7 +31786,7 @@
         },
         {
             "w": "myun2",
-            "p": "m y uw n"
+            "p": "m y uh n"
         },
         {
             "w": "meun2",
@@ -31858,7 +31858,7 @@
         },
         {
             "w": "mut2",
-            "p": "m uw t"
+            "p": "m uh t"
         },
         {
             "w": "mwot2",
@@ -31878,7 +31878,7 @@
         },
         {
             "w": "myut2",
-            "p": "m y uw t"
+            "p": "m y uh t"
         },
         {
             "w": "meut2",
@@ -31950,7 +31950,7 @@
         },
         {
             "w": "mul2",
-            "p": "m uw l"
+            "p": "m uh l"
         },
         {
             "w": "mwol2",
@@ -31970,7 +31970,7 @@
         },
         {
             "w": "myul2",
-            "p": "m y uw l"
+            "p": "m y uh l"
         },
         {
             "w": "meul2",
@@ -32042,7 +32042,7 @@
         },
         {
             "w": "murl2",
-            "p": "m uw r"
+            "p": "m uh r"
         },
         {
             "w": "mworl2",
@@ -32062,7 +32062,7 @@
         },
         {
             "w": "myurl2",
-            "p": "m y uw r"
+            "p": "m y uh r"
         },
         {
             "w": "meurl2",
@@ -32134,7 +32134,7 @@
         },
         {
             "w": "mum2",
-            "p": "m uw m"
+            "p": "m uh m"
         },
         {
             "w": "mwom2",
@@ -32154,7 +32154,7 @@
         },
         {
             "w": "myum2",
-            "p": "m y uw m"
+            "p": "m y uh m"
         },
         {
             "w": "meum2",
@@ -32226,7 +32226,7 @@
         },
         {
             "w": "mup2",
-            "p": "m uw p"
+            "p": "m uh p"
         },
         {
             "w": "mwop2",
@@ -32246,7 +32246,7 @@
         },
         {
             "w": "myup2",
-            "p": "m y uw p"
+            "p": "m y uh p"
         },
         {
             "w": "meup2",
@@ -32318,7 +32318,7 @@
         },
         {
             "w": "mung2",
-            "p": "m uw ng"
+            "p": "m uh ng"
         },
         {
             "w": "mwong2",
@@ -32338,7 +32338,7 @@
         },
         {
             "w": "myung2",
-            "p": "m y uw ng"
+            "p": "m y uh ng"
         },
         {
             "w": "meung2",
@@ -32410,7 +32410,7 @@
         },
         {
             "w": "bu2",
-            "p": "b uw"
+            "p": "b uh"
         },
         {
             "w": "bwo2",
@@ -32430,7 +32430,7 @@
         },
         {
             "w": "byu2",
-            "p": "b y uw"
+            "p": "b y uh"
         },
         {
             "w": "beu2",
@@ -32502,7 +32502,7 @@
         },
         {
             "w": "buk2",
-            "p": "b uw k"
+            "p": "b uh k"
         },
         {
             "w": "bwok2",
@@ -32522,7 +32522,7 @@
         },
         {
             "w": "byuk2",
-            "p": "b y uw k"
+            "p": "b y uh k"
         },
         {
             "w": "beuk2",
@@ -32594,7 +32594,7 @@
         },
         {
             "w": "bun2",
-            "p": "b uw n"
+            "p": "b uh n"
         },
         {
             "w": "bwon2",
@@ -32614,7 +32614,7 @@
         },
         {
             "w": "byun2",
-            "p": "b y uw n"
+            "p": "b y uh n"
         },
         {
             "w": "beun2",
@@ -32686,7 +32686,7 @@
         },
         {
             "w": "but2",
-            "p": "b uw t"
+            "p": "b uh t"
         },
         {
             "w": "bwot2",
@@ -32706,7 +32706,7 @@
         },
         {
             "w": "byut2",
-            "p": "b y uw t"
+            "p": "b y uh t"
         },
         {
             "w": "beut2",
@@ -32778,7 +32778,7 @@
         },
         {
             "w": "bul2",
-            "p": "b uw l"
+            "p": "b uh l"
         },
         {
             "w": "bwol2",
@@ -32798,7 +32798,7 @@
         },
         {
             "w": "byul2",
-            "p": "b y uw l"
+            "p": "b y uh l"
         },
         {
             "w": "beul2",
@@ -32870,7 +32870,7 @@
         },
         {
             "w": "burl2",
-            "p": "b uw r"
+            "p": "b uh r"
         },
         {
             "w": "bworl2",
@@ -32890,7 +32890,7 @@
         },
         {
             "w": "byurl2",
-            "p": "b y uw r"
+            "p": "b y uh r"
         },
         {
             "w": "beurl2",
@@ -32962,7 +32962,7 @@
         },
         {
             "w": "bum2",
-            "p": "b uw m"
+            "p": "b uh m"
         },
         {
             "w": "bwom2",
@@ -32982,7 +32982,7 @@
         },
         {
             "w": "byum2",
-            "p": "b y uw m"
+            "p": "b y uh m"
         },
         {
             "w": "beum2",
@@ -33054,7 +33054,7 @@
         },
         {
             "w": "bup2",
-            "p": "b uw p"
+            "p": "b uh p"
         },
         {
             "w": "bwop2",
@@ -33074,7 +33074,7 @@
         },
         {
             "w": "byup2",
-            "p": "b y uw p"
+            "p": "b y uh p"
         },
         {
             "w": "beup2",
@@ -33146,7 +33146,7 @@
         },
         {
             "w": "bung2",
-            "p": "b uw ng"
+            "p": "b uh ng"
         },
         {
             "w": "bwong2",
@@ -33166,7 +33166,7 @@
         },
         {
             "w": "byung2",
-            "p": "b y uw ng"
+            "p": "b y uh ng"
         },
         {
             "w": "beung2",
@@ -33238,7 +33238,7 @@
         },
         {
             "w": "ppu2",
-            "p": "cl p uw"
+            "p": "cl p uh"
         },
         {
             "w": "ppwo2",
@@ -33258,7 +33258,7 @@
         },
         {
             "w": "ppyu2",
-            "p": "cl p y uw"
+            "p": "cl p y uh"
         },
         {
             "w": "ppeu2",
@@ -33330,7 +33330,7 @@
         },
         {
             "w": "ppuk2",
-            "p": "cl p uw k"
+            "p": "cl p uh k"
         },
         {
             "w": "ppwok2",
@@ -33350,7 +33350,7 @@
         },
         {
             "w": "ppyuk2",
-            "p": "cl p y uw k"
+            "p": "cl p y uh k"
         },
         {
             "w": "ppeuk2",
@@ -33422,7 +33422,7 @@
         },
         {
             "w": "ppun2",
-            "p": "cl p uw n"
+            "p": "cl p uh n"
         },
         {
             "w": "ppwon2",
@@ -33442,7 +33442,7 @@
         },
         {
             "w": "ppyun2",
-            "p": "cl p y uw n"
+            "p": "cl p y uh n"
         },
         {
             "w": "ppeun2",
@@ -33514,7 +33514,7 @@
         },
         {
             "w": "pput2",
-            "p": "cl p uw t"
+            "p": "cl p uh t"
         },
         {
             "w": "ppwot2",
@@ -33534,7 +33534,7 @@
         },
         {
             "w": "ppyut2",
-            "p": "cl p y uw t"
+            "p": "cl p y uh t"
         },
         {
             "w": "ppeut2",
@@ -33606,7 +33606,7 @@
         },
         {
             "w": "ppul2",
-            "p": "cl p uw l"
+            "p": "cl p uh l"
         },
         {
             "w": "ppwol2",
@@ -33626,7 +33626,7 @@
         },
         {
             "w": "ppyul2",
-            "p": "cl p y uw l"
+            "p": "cl p y uh l"
         },
         {
             "w": "ppeul2",
@@ -33698,7 +33698,7 @@
         },
         {
             "w": "ppurl2",
-            "p": "cl p uw r"
+            "p": "cl p uh r"
         },
         {
             "w": "ppworl2",
@@ -33718,7 +33718,7 @@
         },
         {
             "w": "ppyurl2",
-            "p": "cl p y uw r"
+            "p": "cl p y uh r"
         },
         {
             "w": "ppeurl2",
@@ -33790,7 +33790,7 @@
         },
         {
             "w": "ppum2",
-            "p": "cl p uw m"
+            "p": "cl p uh m"
         },
         {
             "w": "ppwom2",
@@ -33810,7 +33810,7 @@
         },
         {
             "w": "ppyum2",
-            "p": "cl p y uw m"
+            "p": "cl p y uh m"
         },
         {
             "w": "ppeum2",
@@ -33882,7 +33882,7 @@
         },
         {
             "w": "ppup2",
-            "p": "cl p uw p"
+            "p": "cl p uh p"
         },
         {
             "w": "ppwop2",
@@ -33902,7 +33902,7 @@
         },
         {
             "w": "ppyup2",
-            "p": "cl p y uw p"
+            "p": "cl p y uh p"
         },
         {
             "w": "ppeup2",
@@ -33974,7 +33974,7 @@
         },
         {
             "w": "ppung2",
-            "p": "cl p uw ng"
+            "p": "cl p uh ng"
         },
         {
             "w": "ppwong2",
@@ -33994,7 +33994,7 @@
         },
         {
             "w": "ppyung2",
-            "p": "cl p y uw ng"
+            "p": "cl p y uh ng"
         },
         {
             "w": "ppeung2",
@@ -34066,7 +34066,7 @@
         },
         {
             "w": "bbu2",
-            "p": "cl p uw"
+            "p": "cl p uh"
         },
         {
             "w": "bbwo2",
@@ -34086,7 +34086,7 @@
         },
         {
             "w": "bbyu2",
-            "p": "cl p y uw"
+            "p": "cl p y uh"
         },
         {
             "w": "bbeu2",
@@ -34158,7 +34158,7 @@
         },
         {
             "w": "bbuk2",
-            "p": "cl p uw k"
+            "p": "cl p uh k"
         },
         {
             "w": "bbwok2",
@@ -34178,7 +34178,7 @@
         },
         {
             "w": "bbyuk2",
-            "p": "cl p y uw k"
+            "p": "cl p y uh k"
         },
         {
             "w": "bbeuk2",
@@ -34250,7 +34250,7 @@
         },
         {
             "w": "bbun2",
-            "p": "cl p uw n"
+            "p": "cl p uh n"
         },
         {
             "w": "bbwon2",
@@ -34270,7 +34270,7 @@
         },
         {
             "w": "bbyun2",
-            "p": "cl p y uw n"
+            "p": "cl p y uh n"
         },
         {
             "w": "bbeun2",
@@ -34342,7 +34342,7 @@
         },
         {
             "w": "bbut2",
-            "p": "cl p uw t"
+            "p": "cl p uh t"
         },
         {
             "w": "bbwot2",
@@ -34362,7 +34362,7 @@
         },
         {
             "w": "bbyut2",
-            "p": "cl p y uw t"
+            "p": "cl p y uh t"
         },
         {
             "w": "bbeut2",
@@ -34434,7 +34434,7 @@
         },
         {
             "w": "bbul2",
-            "p": "cl p uw l"
+            "p": "cl p uh l"
         },
         {
             "w": "bbwol2",
@@ -34454,7 +34454,7 @@
         },
         {
             "w": "bbyul2",
-            "p": "cl p y uw l"
+            "p": "cl p y uh l"
         },
         {
             "w": "bbeul2",
@@ -34526,7 +34526,7 @@
         },
         {
             "w": "bburl2",
-            "p": "cl p uw r"
+            "p": "cl p uh r"
         },
         {
             "w": "bbworl2",
@@ -34546,7 +34546,7 @@
         },
         {
             "w": "bbyurl2",
-            "p": "cl p y uw r"
+            "p": "cl p y uh r"
         },
         {
             "w": "bbeurl2",
@@ -34618,7 +34618,7 @@
         },
         {
             "w": "bbum2",
-            "p": "cl p uw m"
+            "p": "cl p uh m"
         },
         {
             "w": "bbwom2",
@@ -34638,7 +34638,7 @@
         },
         {
             "w": "bbyum2",
-            "p": "cl p y uw m"
+            "p": "cl p y uh m"
         },
         {
             "w": "bbeum2",
@@ -34710,7 +34710,7 @@
         },
         {
             "w": "bbup2",
-            "p": "cl p uw p"
+            "p": "cl p uh p"
         },
         {
             "w": "bbwop2",
@@ -34730,7 +34730,7 @@
         },
         {
             "w": "bbyup2",
-            "p": "cl p y uw p"
+            "p": "cl p y uh p"
         },
         {
             "w": "bbeup2",
@@ -34802,7 +34802,7 @@
         },
         {
             "w": "bbung2",
-            "p": "cl p uw ng"
+            "p": "cl p uh ng"
         },
         {
             "w": "bbwong2",
@@ -34822,7 +34822,7 @@
         },
         {
             "w": "bbyung2",
-            "p": "cl p y uw ng"
+            "p": "cl p y uh ng"
         },
         {
             "w": "bbeung2",
@@ -34894,7 +34894,7 @@
         },
         {
             "w": "su2",
-            "p": "s uw"
+            "p": "s uh"
         },
         {
             "w": "swo2",
@@ -34914,7 +34914,7 @@
         },
         {
             "w": "syu2",
-            "p": "sh uw"
+            "p": "sh uh"
         },
         {
             "w": "seu2",
@@ -34986,7 +34986,7 @@
         },
         {
             "w": "suk2",
-            "p": "s uw k"
+            "p": "s uh k"
         },
         {
             "w": "swok2",
@@ -35006,7 +35006,7 @@
         },
         {
             "w": "syuk2",
-            "p": "sh uw k"
+            "p": "sh uh k"
         },
         {
             "w": "seuk2",
@@ -35078,7 +35078,7 @@
         },
         {
             "w": "sun2",
-            "p": "s uw n"
+            "p": "s uh n"
         },
         {
             "w": "swon2",
@@ -35098,7 +35098,7 @@
         },
         {
             "w": "syun2",
-            "p": "sh uw n"
+            "p": "sh uh n"
         },
         {
             "w": "seun2",
@@ -35170,7 +35170,7 @@
         },
         {
             "w": "sut2",
-            "p": "s uw t"
+            "p": "s uh t"
         },
         {
             "w": "swot2",
@@ -35190,7 +35190,7 @@
         },
         {
             "w": "syut2",
-            "p": "sh uw t"
+            "p": "sh uh t"
         },
         {
             "w": "seut2",
@@ -35262,7 +35262,7 @@
         },
         {
             "w": "sul2",
-            "p": "s uw l"
+            "p": "s uh l"
         },
         {
             "w": "swol2",
@@ -35282,7 +35282,7 @@
         },
         {
             "w": "syul2",
-            "p": "sh uw l"
+            "p": "sh uh l"
         },
         {
             "w": "seul2",
@@ -35354,7 +35354,7 @@
         },
         {
             "w": "surl2",
-            "p": "s uw r"
+            "p": "s uh r"
         },
         {
             "w": "sworl2",
@@ -35374,7 +35374,7 @@
         },
         {
             "w": "syurl2",
-            "p": "sh uw r"
+            "p": "sh uh r"
         },
         {
             "w": "seurl2",
@@ -35446,7 +35446,7 @@
         },
         {
             "w": "sum2",
-            "p": "s uw m"
+            "p": "s uh m"
         },
         {
             "w": "swom2",
@@ -35466,7 +35466,7 @@
         },
         {
             "w": "syum2",
-            "p": "sh uw m"
+            "p": "sh uh m"
         },
         {
             "w": "seum2",
@@ -35538,7 +35538,7 @@
         },
         {
             "w": "sup2",
-            "p": "s uw p"
+            "p": "s uh p"
         },
         {
             "w": "swop2",
@@ -35558,7 +35558,7 @@
         },
         {
             "w": "syup2",
-            "p": "sh uw p"
+            "p": "sh uh p"
         },
         {
             "w": "seup2",
@@ -35630,7 +35630,7 @@
         },
         {
             "w": "sung2",
-            "p": "s uw ng"
+            "p": "s uh ng"
         },
         {
             "w": "swong2",
@@ -35650,7 +35650,7 @@
         },
         {
             "w": "syung2",
-            "p": "sh uw ng"
+            "p": "sh uh ng"
         },
         {
             "w": "seung2",
@@ -35722,7 +35722,7 @@
         },
         {
             "w": "ssu2",
-            "p": "s uw"
+            "p": "s uh"
         },
         {
             "w": "sswo2",
@@ -35742,7 +35742,7 @@
         },
         {
             "w": "ssyu2",
-            "p": "sh uw"
+            "p": "sh uh"
         },
         {
             "w": "sseu2",
@@ -35814,7 +35814,7 @@
         },
         {
             "w": "ssuk2",
-            "p": "s uw k"
+            "p": "s uh k"
         },
         {
             "w": "sswok2",
@@ -35834,7 +35834,7 @@
         },
         {
             "w": "ssyuk2",
-            "p": "sh uw k"
+            "p": "sh uh k"
         },
         {
             "w": "sseuk2",
@@ -35906,7 +35906,7 @@
         },
         {
             "w": "ssun2",
-            "p": "s uw n"
+            "p": "s uh n"
         },
         {
             "w": "sswon2",
@@ -35926,7 +35926,7 @@
         },
         {
             "w": "ssyun2",
-            "p": "sh uw n"
+            "p": "sh uh n"
         },
         {
             "w": "sseun2",
@@ -35998,7 +35998,7 @@
         },
         {
             "w": "ssut2",
-            "p": "s uw t"
+            "p": "s uh t"
         },
         {
             "w": "sswot2",
@@ -36018,7 +36018,7 @@
         },
         {
             "w": "ssyut2",
-            "p": "sh uw t"
+            "p": "sh uh t"
         },
         {
             "w": "sseut2",
@@ -36090,7 +36090,7 @@
         },
         {
             "w": "ssul2",
-            "p": "s uw l"
+            "p": "s uh l"
         },
         {
             "w": "sswol2",
@@ -36110,7 +36110,7 @@
         },
         {
             "w": "ssyul2",
-            "p": "sh uw l"
+            "p": "sh uh l"
         },
         {
             "w": "sseul2",
@@ -36182,7 +36182,7 @@
         },
         {
             "w": "ssurl2",
-            "p": "s uw r"
+            "p": "s uh r"
         },
         {
             "w": "ssworl2",
@@ -36202,7 +36202,7 @@
         },
         {
             "w": "ssyurl2",
-            "p": "sh uw r"
+            "p": "sh uh r"
         },
         {
             "w": "sseurl2",
@@ -36274,7 +36274,7 @@
         },
         {
             "w": "ssum2",
-            "p": "s uw m"
+            "p": "s uh m"
         },
         {
             "w": "sswom2",
@@ -36294,7 +36294,7 @@
         },
         {
             "w": "ssyum2",
-            "p": "sh uw m"
+            "p": "sh uh m"
         },
         {
             "w": "sseum2",
@@ -36366,7 +36366,7 @@
         },
         {
             "w": "ssup2",
-            "p": "s uw p"
+            "p": "s uh p"
         },
         {
             "w": "sswop2",
@@ -36386,7 +36386,7 @@
         },
         {
             "w": "ssyup2",
-            "p": "sh uw p"
+            "p": "sh uh p"
         },
         {
             "w": "sseup2",
@@ -36458,7 +36458,7 @@
         },
         {
             "w": "ssung2",
-            "p": "s uw ng"
+            "p": "s uh ng"
         },
         {
             "w": "sswong2",
@@ -36478,7 +36478,7 @@
         },
         {
             "w": "ssyung2",
-            "p": "sh uw ng"
+            "p": "sh uh ng"
         },
         {
             "w": "sseung2",
@@ -36550,7 +36550,7 @@
         },
         {
             "w": "ju2",
-            "p": "jh uw"
+            "p": "jh uh"
         },
         {
             "w": "jwo2",
@@ -36570,7 +36570,7 @@
         },
         {
             "w": "jyu2",
-            "p": "jh y uw"
+            "p": "jh y uh"
         },
         {
             "w": "jeu2",
@@ -36642,7 +36642,7 @@
         },
         {
             "w": "juk2",
-            "p": "jh uw k"
+            "p": "jh uh k"
         },
         {
             "w": "jwok2",
@@ -36662,7 +36662,7 @@
         },
         {
             "w": "jyuk2",
-            "p": "jh y uw k"
+            "p": "jh y uh k"
         },
         {
             "w": "jeuk2",
@@ -36734,7 +36734,7 @@
         },
         {
             "w": "jun2",
-            "p": "jh uw n"
+            "p": "jh uh n"
         },
         {
             "w": "jwon2",
@@ -36754,7 +36754,7 @@
         },
         {
             "w": "jyun2",
-            "p": "jh y uw n"
+            "p": "jh y uh n"
         },
         {
             "w": "jeun2",
@@ -36826,7 +36826,7 @@
         },
         {
             "w": "jut2",
-            "p": "jh uw t"
+            "p": "jh uh t"
         },
         {
             "w": "jwot2",
@@ -36846,7 +36846,7 @@
         },
         {
             "w": "jyut2",
-            "p": "jh y uw t"
+            "p": "jh y uh t"
         },
         {
             "w": "jeut2",
@@ -36918,7 +36918,7 @@
         },
         {
             "w": "jul2",
-            "p": "jh uw l"
+            "p": "jh uh l"
         },
         {
             "w": "jwol2",
@@ -36938,7 +36938,7 @@
         },
         {
             "w": "jyul2",
-            "p": "jh y uw l"
+            "p": "jh y uh l"
         },
         {
             "w": "jeul2",
@@ -37010,7 +37010,7 @@
         },
         {
             "w": "jurl2",
-            "p": "jh uw r"
+            "p": "jh uh r"
         },
         {
             "w": "jworl2",
@@ -37030,7 +37030,7 @@
         },
         {
             "w": "jyurl2",
-            "p": "jh y uw r"
+            "p": "jh y uh r"
         },
         {
             "w": "jeurl2",
@@ -37102,7 +37102,7 @@
         },
         {
             "w": "jum2",
-            "p": "jh uw m"
+            "p": "jh uh m"
         },
         {
             "w": "jwom2",
@@ -37122,7 +37122,7 @@
         },
         {
             "w": "jyum2",
-            "p": "jh y uw m"
+            "p": "jh y uh m"
         },
         {
             "w": "jeum2",
@@ -37194,7 +37194,7 @@
         },
         {
             "w": "jup2",
-            "p": "jh uw p"
+            "p": "jh uh p"
         },
         {
             "w": "jwop2",
@@ -37214,7 +37214,7 @@
         },
         {
             "w": "jyup2",
-            "p": "jh y uw p"
+            "p": "jh y uh p"
         },
         {
             "w": "jeup2",
@@ -37286,7 +37286,7 @@
         },
         {
             "w": "jung2",
-            "p": "jh uw ng"
+            "p": "jh uh ng"
         },
         {
             "w": "jwong2",
@@ -37306,7 +37306,7 @@
         },
         {
             "w": "jyung2",
-            "p": "jh y uw ng"
+            "p": "jh y uh ng"
         },
         {
             "w": "jeung2",
@@ -37378,7 +37378,7 @@
         },
         {
             "w": "jju2",
-            "p": "cl ch uw"
+            "p": "cl ch uh"
         },
         {
             "w": "jjwo2",
@@ -37398,7 +37398,7 @@
         },
         {
             "w": "jjyu2",
-            "p": "cl ch y uw"
+            "p": "cl ch y uh"
         },
         {
             "w": "jjeu2",
@@ -37470,7 +37470,7 @@
         },
         {
             "w": "jjuk2",
-            "p": "cl ch uw k"
+            "p": "cl ch uh k"
         },
         {
             "w": "jjwok2",
@@ -37490,7 +37490,7 @@
         },
         {
             "w": "jjyuk2",
-            "p": "cl ch y uw k"
+            "p": "cl ch y uh k"
         },
         {
             "w": "jjeuk2",
@@ -37562,7 +37562,7 @@
         },
         {
             "w": "jjun2",
-            "p": "cl ch uw n"
+            "p": "cl ch uh n"
         },
         {
             "w": "jjwon2",
@@ -37582,7 +37582,7 @@
         },
         {
             "w": "jjyun2",
-            "p": "cl ch y uw n"
+            "p": "cl ch y uh n"
         },
         {
             "w": "jjeun2",
@@ -37654,7 +37654,7 @@
         },
         {
             "w": "jjut2",
-            "p": "cl ch uw t"
+            "p": "cl ch uh t"
         },
         {
             "w": "jjwot2",
@@ -37674,7 +37674,7 @@
         },
         {
             "w": "jjyut2",
-            "p": "cl ch y uw t"
+            "p": "cl ch y uh t"
         },
         {
             "w": "jjeut2",
@@ -37746,7 +37746,7 @@
         },
         {
             "w": "jjul2",
-            "p": "cl ch uw l"
+            "p": "cl ch uh l"
         },
         {
             "w": "jjwol2",
@@ -37766,7 +37766,7 @@
         },
         {
             "w": "jjyul2",
-            "p": "cl ch y uw l"
+            "p": "cl ch y uh l"
         },
         {
             "w": "jjeul2",
@@ -37838,7 +37838,7 @@
         },
         {
             "w": "jjurl2",
-            "p": "cl ch uw r"
+            "p": "cl ch uh r"
         },
         {
             "w": "jjworl2",
@@ -37858,7 +37858,7 @@
         },
         {
             "w": "jjyurl2",
-            "p": "cl ch y uw r"
+            "p": "cl ch y uh r"
         },
         {
             "w": "jjeurl2",
@@ -37930,7 +37930,7 @@
         },
         {
             "w": "jjum2",
-            "p": "cl ch uw m"
+            "p": "cl ch uh m"
         },
         {
             "w": "jjwom2",
@@ -37950,7 +37950,7 @@
         },
         {
             "w": "jjyum2",
-            "p": "cl ch y uw m"
+            "p": "cl ch y uh m"
         },
         {
             "w": "jjeum2",
@@ -38022,7 +38022,7 @@
         },
         {
             "w": "jjup2",
-            "p": "cl ch uw p"
+            "p": "cl ch uh p"
         },
         {
             "w": "jjwop2",
@@ -38042,7 +38042,7 @@
         },
         {
             "w": "jjyup2",
-            "p": "cl ch y uw p"
+            "p": "cl ch y uh p"
         },
         {
             "w": "jjeup2",
@@ -38114,7 +38114,7 @@
         },
         {
             "w": "jjung2",
-            "p": "cl ch uw ng"
+            "p": "cl ch uh ng"
         },
         {
             "w": "jjwong2",
@@ -38134,7 +38134,7 @@
         },
         {
             "w": "jjyung2",
-            "p": "cl ch y uw ng"
+            "p": "cl ch y uh ng"
         },
         {
             "w": "jjeung2",
@@ -38206,7 +38206,7 @@
         },
         {
             "w": "chu2",
-            "p": "ch uw"
+            "p": "ch uh"
         },
         {
             "w": "chwo2",
@@ -38226,7 +38226,7 @@
         },
         {
             "w": "chyu2",
-            "p": "ch y uw"
+            "p": "ch y uh"
         },
         {
             "w": "cheu2",
@@ -38298,7 +38298,7 @@
         },
         {
             "w": "chuk2",
-            "p": "ch uw k"
+            "p": "ch uh k"
         },
         {
             "w": "chwok2",
@@ -38318,7 +38318,7 @@
         },
         {
             "w": "chyuk2",
-            "p": "ch y uw k"
+            "p": "ch y uh k"
         },
         {
             "w": "cheuk2",
@@ -38390,7 +38390,7 @@
         },
         {
             "w": "chun2",
-            "p": "ch uw n"
+            "p": "ch uh n"
         },
         {
             "w": "chwon2",
@@ -38410,7 +38410,7 @@
         },
         {
             "w": "chyun2",
-            "p": "ch y uw n"
+            "p": "ch y uh n"
         },
         {
             "w": "cheun2",
@@ -38482,7 +38482,7 @@
         },
         {
             "w": "chut2",
-            "p": "ch uw t"
+            "p": "ch uh t"
         },
         {
             "w": "chwot2",
@@ -38502,7 +38502,7 @@
         },
         {
             "w": "chyut2",
-            "p": "ch y uw t"
+            "p": "ch y uh t"
         },
         {
             "w": "cheut2",
@@ -38574,7 +38574,7 @@
         },
         {
             "w": "chul2",
-            "p": "ch uw l"
+            "p": "ch uh l"
         },
         {
             "w": "chwol2",
@@ -38594,7 +38594,7 @@
         },
         {
             "w": "chyul2",
-            "p": "ch y uw l"
+            "p": "ch y uh l"
         },
         {
             "w": "cheul2",
@@ -38666,7 +38666,7 @@
         },
         {
             "w": "churl2",
-            "p": "ch uw r"
+            "p": "ch uh r"
         },
         {
             "w": "chworl2",
@@ -38686,7 +38686,7 @@
         },
         {
             "w": "chyurl2",
-            "p": "ch y uw r"
+            "p": "ch y uh r"
         },
         {
             "w": "cheurl2",
@@ -38758,7 +38758,7 @@
         },
         {
             "w": "chum2",
-            "p": "ch uw m"
+            "p": "ch uh m"
         },
         {
             "w": "chwom2",
@@ -38778,7 +38778,7 @@
         },
         {
             "w": "chyum2",
-            "p": "ch y uw m"
+            "p": "ch y uh m"
         },
         {
             "w": "cheum2",
@@ -38850,7 +38850,7 @@
         },
         {
             "w": "chup2",
-            "p": "ch uw p"
+            "p": "ch uh p"
         },
         {
             "w": "chwop2",
@@ -38870,7 +38870,7 @@
         },
         {
             "w": "chyup2",
-            "p": "ch y uw p"
+            "p": "ch y uh p"
         },
         {
             "w": "cheup2",
@@ -38942,7 +38942,7 @@
         },
         {
             "w": "chung2",
-            "p": "ch uw ng"
+            "p": "ch uh ng"
         },
         {
             "w": "chwong2",
@@ -38962,7 +38962,7 @@
         },
         {
             "w": "chyung2",
-            "p": "ch y uw ng"
+            "p": "ch y uh ng"
         },
         {
             "w": "cheung2",
@@ -39034,7 +39034,7 @@
         },
         {
             "w": "ku2",
-            "p": "k uw"
+            "p": "k uh"
         },
         {
             "w": "kwo2",
@@ -39054,7 +39054,7 @@
         },
         {
             "w": "kyu2",
-            "p": "k y uw"
+            "p": "k y uh"
         },
         {
             "w": "keu2",
@@ -39126,7 +39126,7 @@
         },
         {
             "w": "kuk2",
-            "p": "k uw k"
+            "p": "k uh k"
         },
         {
             "w": "kwok2",
@@ -39146,7 +39146,7 @@
         },
         {
             "w": "kyuk2",
-            "p": "k y uw k"
+            "p": "k y uh k"
         },
         {
             "w": "keuk2",
@@ -39218,7 +39218,7 @@
         },
         {
             "w": "kun2",
-            "p": "k uw n"
+            "p": "k uh n"
         },
         {
             "w": "kwon2",
@@ -39238,7 +39238,7 @@
         },
         {
             "w": "kyun2",
-            "p": "k y uw n"
+            "p": "k y uh n"
         },
         {
             "w": "keun2",
@@ -39310,7 +39310,7 @@
         },
         {
             "w": "kut2",
-            "p": "k uw t"
+            "p": "k uh t"
         },
         {
             "w": "kwot2",
@@ -39330,7 +39330,7 @@
         },
         {
             "w": "kyut2",
-            "p": "k y uw t"
+            "p": "k y uh t"
         },
         {
             "w": "keut2",
@@ -39402,7 +39402,7 @@
         },
         {
             "w": "kul2",
-            "p": "k uw l"
+            "p": "k uh l"
         },
         {
             "w": "kwol2",
@@ -39422,7 +39422,7 @@
         },
         {
             "w": "kyul2",
-            "p": "k y uw l"
+            "p": "k y uh l"
         },
         {
             "w": "keul2",
@@ -39494,7 +39494,7 @@
         },
         {
             "w": "kurl2",
-            "p": "k uw r"
+            "p": "k uh r"
         },
         {
             "w": "kworl2",
@@ -39514,7 +39514,7 @@
         },
         {
             "w": "kyurl2",
-            "p": "k y uw r"
+            "p": "k y uh r"
         },
         {
             "w": "keurl2",
@@ -39586,7 +39586,7 @@
         },
         {
             "w": "kum2",
-            "p": "k uw m"
+            "p": "k uh m"
         },
         {
             "w": "kwom2",
@@ -39606,7 +39606,7 @@
         },
         {
             "w": "kyum2",
-            "p": "k y uw m"
+            "p": "k y uh m"
         },
         {
             "w": "keum2",
@@ -39678,7 +39678,7 @@
         },
         {
             "w": "kup2",
-            "p": "k uw p"
+            "p": "k uh p"
         },
         {
             "w": "kwop2",
@@ -39698,7 +39698,7 @@
         },
         {
             "w": "kyup2",
-            "p": "k y uw p"
+            "p": "k y uh p"
         },
         {
             "w": "keup2",
@@ -39770,7 +39770,7 @@
         },
         {
             "w": "kung2",
-            "p": "k uw ng"
+            "p": "k uh ng"
         },
         {
             "w": "kwong2",
@@ -39790,7 +39790,7 @@
         },
         {
             "w": "kyung2",
-            "p": "k y uw ng"
+            "p": "k y uh ng"
         },
         {
             "w": "keung2",
@@ -39862,7 +39862,7 @@
         },
         {
             "w": "tu2",
-            "p": "t uw"
+            "p": "t uh"
         },
         {
             "w": "two2",
@@ -39882,7 +39882,7 @@
         },
         {
             "w": "tyu2",
-            "p": "t y uw"
+            "p": "t y uh"
         },
         {
             "w": "teu2",
@@ -39954,7 +39954,7 @@
         },
         {
             "w": "tuk2",
-            "p": "t uw k"
+            "p": "t uh k"
         },
         {
             "w": "twok2",
@@ -39974,7 +39974,7 @@
         },
         {
             "w": "tyuk2",
-            "p": "t y uw k"
+            "p": "t y uh k"
         },
         {
             "w": "teuk2",
@@ -40046,7 +40046,7 @@
         },
         {
             "w": "tun2",
-            "p": "t uw n"
+            "p": "t uh n"
         },
         {
             "w": "twon2",
@@ -40066,7 +40066,7 @@
         },
         {
             "w": "tyun2",
-            "p": "t y uw n"
+            "p": "t y uh n"
         },
         {
             "w": "teun2",
@@ -40138,7 +40138,7 @@
         },
         {
             "w": "tut2",
-            "p": "t uw t"
+            "p": "t uh t"
         },
         {
             "w": "twot2",
@@ -40158,7 +40158,7 @@
         },
         {
             "w": "tyut2",
-            "p": "t y uw t"
+            "p": "t y uh t"
         },
         {
             "w": "teut2",
@@ -40230,7 +40230,7 @@
         },
         {
             "w": "tul2",
-            "p": "t uw l"
+            "p": "t uh l"
         },
         {
             "w": "twol2",
@@ -40250,7 +40250,7 @@
         },
         {
             "w": "tyul2",
-            "p": "t y uw l"
+            "p": "t y uh l"
         },
         {
             "w": "teul2",
@@ -40322,7 +40322,7 @@
         },
         {
             "w": "turl2",
-            "p": "t uw r"
+            "p": "t uh r"
         },
         {
             "w": "tworl2",
@@ -40342,7 +40342,7 @@
         },
         {
             "w": "tyurl2",
-            "p": "t y uw r"
+            "p": "t y uh r"
         },
         {
             "w": "teurl2",
@@ -40414,7 +40414,7 @@
         },
         {
             "w": "tum2",
-            "p": "t uw m"
+            "p": "t uh m"
         },
         {
             "w": "twom2",
@@ -40434,7 +40434,7 @@
         },
         {
             "w": "tyum2",
-            "p": "t y uw m"
+            "p": "t y uh m"
         },
         {
             "w": "teum2",
@@ -40506,7 +40506,7 @@
         },
         {
             "w": "tup2",
-            "p": "t uw p"
+            "p": "t uh p"
         },
         {
             "w": "twop2",
@@ -40526,7 +40526,7 @@
         },
         {
             "w": "tyup2",
-            "p": "t y uw p"
+            "p": "t y uh p"
         },
         {
             "w": "teup2",
@@ -40598,7 +40598,7 @@
         },
         {
             "w": "tung2",
-            "p": "t uw ng"
+            "p": "t uh ng"
         },
         {
             "w": "twong2",
@@ -40618,7 +40618,7 @@
         },
         {
             "w": "tyung2",
-            "p": "t y uw ng"
+            "p": "t y uh ng"
         },
         {
             "w": "teung2",
@@ -40690,7 +40690,7 @@
         },
         {
             "w": "pu2",
-            "p": "p uw"
+            "p": "p uh"
         },
         {
             "w": "pwo2",
@@ -40710,7 +40710,7 @@
         },
         {
             "w": "pyu2",
-            "p": "p y uw"
+            "p": "p y uh"
         },
         {
             "w": "peu2",
@@ -40782,7 +40782,7 @@
         },
         {
             "w": "puk2",
-            "p": "p uw k"
+            "p": "p uh k"
         },
         {
             "w": "pwok2",
@@ -40802,7 +40802,7 @@
         },
         {
             "w": "pyuk2",
-            "p": "p y uw k"
+            "p": "p y uh k"
         },
         {
             "w": "peuk2",
@@ -40874,7 +40874,7 @@
         },
         {
             "w": "pun2",
-            "p": "p uw n"
+            "p": "p uh n"
         },
         {
             "w": "pwon2",
@@ -40894,7 +40894,7 @@
         },
         {
             "w": "pyun2",
-            "p": "p y uw n"
+            "p": "p y uh n"
         },
         {
             "w": "peun2",
@@ -40966,7 +40966,7 @@
         },
         {
             "w": "put2",
-            "p": "p uw t"
+            "p": "p uh t"
         },
         {
             "w": "pwot2",
@@ -40986,7 +40986,7 @@
         },
         {
             "w": "pyut2",
-            "p": "p y uw t"
+            "p": "p y uh t"
         },
         {
             "w": "peut2",
@@ -41058,7 +41058,7 @@
         },
         {
             "w": "pul2",
-            "p": "p uw l"
+            "p": "p uh l"
         },
         {
             "w": "pwol2",
@@ -41078,7 +41078,7 @@
         },
         {
             "w": "pyul2",
-            "p": "p y uw l"
+            "p": "p y uh l"
         },
         {
             "w": "peul2",
@@ -41150,7 +41150,7 @@
         },
         {
             "w": "purl2",
-            "p": "p uw r"
+            "p": "p uh r"
         },
         {
             "w": "pworl2",
@@ -41170,7 +41170,7 @@
         },
         {
             "w": "pyurl2",
-            "p": "p y uw r"
+            "p": "p y uh r"
         },
         {
             "w": "peurl2",
@@ -41242,7 +41242,7 @@
         },
         {
             "w": "pum2",
-            "p": "p uw m"
+            "p": "p uh m"
         },
         {
             "w": "pwom2",
@@ -41262,7 +41262,7 @@
         },
         {
             "w": "pyum2",
-            "p": "p y uw m"
+            "p": "p y uh m"
         },
         {
             "w": "peum2",
@@ -41334,7 +41334,7 @@
         },
         {
             "w": "pup2",
-            "p": "p uw p"
+            "p": "p uh p"
         },
         {
             "w": "pwop2",
@@ -41354,7 +41354,7 @@
         },
         {
             "w": "pyup2",
-            "p": "p y uw p"
+            "p": "p y uh p"
         },
         {
             "w": "peup2",
@@ -41426,7 +41426,7 @@
         },
         {
             "w": "pung2",
-            "p": "p uw ng"
+            "p": "p uh ng"
         },
         {
             "w": "pwong2",
@@ -41446,7 +41446,7 @@
         },
         {
             "w": "pyung2",
-            "p": "p y uw ng"
+            "p": "p y uh ng"
         },
         {
             "w": "peung2",
@@ -41518,7 +41518,7 @@
         },
         {
             "w": "hu2",
-            "p": "f uw"
+            "p": "f uh"
         },
         {
             "w": "hwo2",
@@ -41538,7 +41538,7 @@
         },
         {
             "w": "hyu2",
-            "p": "hh y uw"
+            "p": "hh y uh"
         },
         {
             "w": "heu2",
@@ -41610,7 +41610,7 @@
         },
         {
             "w": "huk2",
-            "p": "f uw k"
+            "p": "f uh k"
         },
         {
             "w": "hwok2",
@@ -41630,7 +41630,7 @@
         },
         {
             "w": "hyuk2",
-            "p": "hh y uw k"
+            "p": "hh y uh k"
         },
         {
             "w": "heuk2",
@@ -41702,7 +41702,7 @@
         },
         {
             "w": "hun2",
-            "p": "f uw n"
+            "p": "f uh n"
         },
         {
             "w": "hwon2",
@@ -41722,7 +41722,7 @@
         },
         {
             "w": "hyun2",
-            "p": "hh y uw n"
+            "p": "hh y uh n"
         },
         {
             "w": "heun2",
@@ -41794,7 +41794,7 @@
         },
         {
             "w": "hut2",
-            "p": "f uw t"
+            "p": "f uh t"
         },
         {
             "w": "hwot2",
@@ -41814,7 +41814,7 @@
         },
         {
             "w": "hyut2",
-            "p": "hh y uw t"
+            "p": "hh y uh t"
         },
         {
             "w": "heut2",
@@ -41886,7 +41886,7 @@
         },
         {
             "w": "hul2",
-            "p": "f uw l"
+            "p": "f uh l"
         },
         {
             "w": "hwol2",
@@ -41906,7 +41906,7 @@
         },
         {
             "w": "hyul2",
-            "p": "hh y uw l"
+            "p": "hh y uh l"
         },
         {
             "w": "heul2",
@@ -41978,7 +41978,7 @@
         },
         {
             "w": "hurl2",
-            "p": "f uw r"
+            "p": "f uh r"
         },
         {
             "w": "hworl2",
@@ -41998,7 +41998,7 @@
         },
         {
             "w": "hyurl2",
-            "p": "hh y uw r"
+            "p": "hh y uh r"
         },
         {
             "w": "heurl2",
@@ -42070,7 +42070,7 @@
         },
         {
             "w": "hum2",
-            "p": "f uw m"
+            "p": "f uh m"
         },
         {
             "w": "hwom2",
@@ -42090,7 +42090,7 @@
         },
         {
             "w": "hyum2",
-            "p": "hh y uw m"
+            "p": "hh y uh m"
         },
         {
             "w": "heum2",
@@ -42162,7 +42162,7 @@
         },
         {
             "w": "hup2",
-            "p": "f uw p"
+            "p": "f uh p"
         },
         {
             "w": "hwop2",
@@ -42182,7 +42182,7 @@
         },
         {
             "w": "hyup2",
-            "p": "hh y uw p"
+            "p": "hh y uh p"
         },
         {
             "w": "heup2",
@@ -42254,7 +42254,7 @@
         },
         {
             "w": "hung2",
-            "p": "f uw ng"
+            "p": "f uh ng"
         },
         {
             "w": "hwong2",
@@ -42274,7 +42274,7 @@
         },
         {
             "w": "hyung2",
-            "p": "hh y uw ng"
+            "p": "hh y uh ng"
         },
         {
             "w": "heung2",
@@ -42346,7 +42346,7 @@
         },
         {
             "w": "fu2",
-            "p": "f uw"
+            "p": "f uh"
         },
         {
             "w": "fwo2",
@@ -42366,7 +42366,7 @@
         },
         {
             "w": "fyu2",
-            "p": "f y uw"
+            "p": "f y uh"
         },
         {
             "w": "feu2",
@@ -42438,7 +42438,7 @@
         },
         {
             "w": "fuk2",
-            "p": "f uw k"
+            "p": "f uh k"
         },
         {
             "w": "fwok2",
@@ -42458,7 +42458,7 @@
         },
         {
             "w": "fyuk2",
-            "p": "f y uw k"
+            "p": "f y uh k"
         },
         {
             "w": "feuk2",
@@ -42530,7 +42530,7 @@
         },
         {
             "w": "fun2",
-            "p": "f uw n"
+            "p": "f uh n"
         },
         {
             "w": "fwon2",
@@ -42550,7 +42550,7 @@
         },
         {
             "w": "fyun2",
-            "p": "f y uw n"
+            "p": "f y uh n"
         },
         {
             "w": "feun2",
@@ -42622,7 +42622,7 @@
         },
         {
             "w": "fut2",
-            "p": "f uw t"
+            "p": "f uh t"
         },
         {
             "w": "fwot2",
@@ -42642,7 +42642,7 @@
         },
         {
             "w": "fyut2",
-            "p": "f y uw t"
+            "p": "f y uh t"
         },
         {
             "w": "feut2",
@@ -42714,7 +42714,7 @@
         },
         {
             "w": "ful2",
-            "p": "f uw l"
+            "p": "f uh l"
         },
         {
             "w": "fwol2",
@@ -42734,7 +42734,7 @@
         },
         {
             "w": "fyul2",
-            "p": "f y uw l"
+            "p": "f y uh l"
         },
         {
             "w": "feul2",
@@ -42806,7 +42806,7 @@
         },
         {
             "w": "furl2",
-            "p": "f uw r"
+            "p": "f uh r"
         },
         {
             "w": "fworl2",
@@ -42826,7 +42826,7 @@
         },
         {
             "w": "fyurl2",
-            "p": "f y uw r"
+            "p": "f y uh r"
         },
         {
             "w": "feurl2",
@@ -42898,7 +42898,7 @@
         },
         {
             "w": "fum2",
-            "p": "f uw m"
+            "p": "f uh m"
         },
         {
             "w": "fwom2",
@@ -42918,7 +42918,7 @@
         },
         {
             "w": "fyum2",
-            "p": "f y uw m"
+            "p": "f y uh m"
         },
         {
             "w": "feum2",
@@ -42990,7 +42990,7 @@
         },
         {
             "w": "fup2",
-            "p": "f uw p"
+            "p": "f uh p"
         },
         {
             "w": "fwop2",
@@ -43010,7 +43010,7 @@
         },
         {
             "w": "fyup2",
-            "p": "f y uw p"
+            "p": "f y uh p"
         },
         {
             "w": "feup2",
@@ -43082,7 +43082,7 @@
         },
         {
             "w": "fung2",
-            "p": "f uw ng"
+            "p": "f uh ng"
         },
         {
             "w": "fwong2",
@@ -43102,7 +43102,7 @@
         },
         {
             "w": "fyung2",
-            "p": "f y uw ng"
+            "p": "f y uh ng"
         },
         {
             "w": "feung2",
@@ -43174,7 +43174,7 @@
         },
         {
             "w": "thu2",
-            "p": "th uw"
+            "p": "th uh"
         },
         {
             "w": "thwo2",
@@ -43194,7 +43194,7 @@
         },
         {
             "w": "thyu2",
-            "p": "th y uw"
+            "p": "th y uh"
         },
         {
             "w": "theu2",
@@ -43266,7 +43266,7 @@
         },
         {
             "w": "thuk2",
-            "p": "th uw k"
+            "p": "th uh k"
         },
         {
             "w": "thwok2",
@@ -43286,7 +43286,7 @@
         },
         {
             "w": "thyuk2",
-            "p": "th y uw k"
+            "p": "th y uh k"
         },
         {
             "w": "theuk2",
@@ -43358,7 +43358,7 @@
         },
         {
             "w": "thun2",
-            "p": "th uw n"
+            "p": "th uh n"
         },
         {
             "w": "thwon2",
@@ -43378,7 +43378,7 @@
         },
         {
             "w": "thyun2",
-            "p": "th y uw n"
+            "p": "th y uh n"
         },
         {
             "w": "theun2",
@@ -43450,7 +43450,7 @@
         },
         {
             "w": "thut2",
-            "p": "th uw t"
+            "p": "th uh t"
         },
         {
             "w": "thwot2",
@@ -43470,7 +43470,7 @@
         },
         {
             "w": "thyut2",
-            "p": "th y uw t"
+            "p": "th y uh t"
         },
         {
             "w": "theut2",
@@ -43542,7 +43542,7 @@
         },
         {
             "w": "thul2",
-            "p": "th uw l"
+            "p": "th uh l"
         },
         {
             "w": "thwol2",
@@ -43562,7 +43562,7 @@
         },
         {
             "w": "thyul2",
-            "p": "th y uw l"
+            "p": "th y uh l"
         },
         {
             "w": "theul2",
@@ -43634,7 +43634,7 @@
         },
         {
             "w": "thurl2",
-            "p": "th uw r"
+            "p": "th uh r"
         },
         {
             "w": "thworl2",
@@ -43654,7 +43654,7 @@
         },
         {
             "w": "thyurl2",
-            "p": "th y uw r"
+            "p": "th y uh r"
         },
         {
             "w": "theurl2",
@@ -43726,7 +43726,7 @@
         },
         {
             "w": "thum2",
-            "p": "th uw m"
+            "p": "th uh m"
         },
         {
             "w": "thwom2",
@@ -43746,7 +43746,7 @@
         },
         {
             "w": "thyum2",
-            "p": "th y uw m"
+            "p": "th y uh m"
         },
         {
             "w": "theum2",
@@ -43818,7 +43818,7 @@
         },
         {
             "w": "thup2",
-            "p": "th uw p"
+            "p": "th uh p"
         },
         {
             "w": "thwop2",
@@ -43838,7 +43838,7 @@
         },
         {
             "w": "thyup2",
-            "p": "th y uw p"
+            "p": "th y uh p"
         },
         {
             "w": "theup2",
@@ -43910,7 +43910,7 @@
         },
         {
             "w": "thung2",
-            "p": "th uw ng"
+            "p": "th uh ng"
         },
         {
             "w": "thwong2",
@@ -43930,7 +43930,7 @@
         },
         {
             "w": "thyung2",
-            "p": "th y uw ng"
+            "p": "th y uh ng"
         },
         {
             "w": "theung2",
@@ -44002,7 +44002,7 @@
         },
         {
             "w": "rru2",
-            "p": "r uw"
+            "p": "r uh"
         },
         {
             "w": "rrwo2",
@@ -44022,7 +44022,7 @@
         },
         {
             "w": "rryu2",
-            "p": "r y uw"
+            "p": "r y uh"
         },
         {
             "w": "rreu2",
@@ -44094,7 +44094,7 @@
         },
         {
             "w": "rruk2",
-            "p": "r uw k"
+            "p": "r uh k"
         },
         {
             "w": "rrwok2",
@@ -44114,7 +44114,7 @@
         },
         {
             "w": "rryuk2",
-            "p": "r y uw k"
+            "p": "r y uh k"
         },
         {
             "w": "rreuk2",
@@ -44186,7 +44186,7 @@
         },
         {
             "w": "rrun2",
-            "p": "r uw n"
+            "p": "r uh n"
         },
         {
             "w": "rrwon2",
@@ -44206,7 +44206,7 @@
         },
         {
             "w": "rryun2",
-            "p": "r y uw n"
+            "p": "r y uh n"
         },
         {
             "w": "rreun2",
@@ -44278,7 +44278,7 @@
         },
         {
             "w": "rrut2",
-            "p": "r uw t"
+            "p": "r uh t"
         },
         {
             "w": "rrwot2",
@@ -44298,7 +44298,7 @@
         },
         {
             "w": "rryut2",
-            "p": "r y uw t"
+            "p": "r y uh t"
         },
         {
             "w": "rreut2",
@@ -44370,7 +44370,7 @@
         },
         {
             "w": "rrul2",
-            "p": "r uw l"
+            "p": "r uh l"
         },
         {
             "w": "rrwol2",
@@ -44390,7 +44390,7 @@
         },
         {
             "w": "rryul2",
-            "p": "r y uw l"
+            "p": "r y uh l"
         },
         {
             "w": "rreul2",
@@ -44462,7 +44462,7 @@
         },
         {
             "w": "rrurl2",
-            "p": "r uw r"
+            "p": "r uh r"
         },
         {
             "w": "rrworl2",
@@ -44482,7 +44482,7 @@
         },
         {
             "w": "rryurl2",
-            "p": "r y uw r"
+            "p": "r y uh r"
         },
         {
             "w": "rreurl2",
@@ -44554,7 +44554,7 @@
         },
         {
             "w": "rrum2",
-            "p": "r uw m"
+            "p": "r uh m"
         },
         {
             "w": "rrwom2",
@@ -44574,7 +44574,7 @@
         },
         {
             "w": "rryum2",
-            "p": "r y uw m"
+            "p": "r y uh m"
         },
         {
             "w": "rreum2",
@@ -44646,7 +44646,7 @@
         },
         {
             "w": "rrup2",
-            "p": "r uw p"
+            "p": "r uh p"
         },
         {
             "w": "rrwop2",
@@ -44666,7 +44666,7 @@
         },
         {
             "w": "rryup2",
-            "p": "r y uw p"
+            "p": "r y uh p"
         },
         {
             "w": "rreup2",
@@ -44738,7 +44738,7 @@
         },
         {
             "w": "rrung2",
-            "p": "r uw ng"
+            "p": "r uh ng"
         },
         {
             "w": "rrwong2",
@@ -44758,7 +44758,7 @@
         },
         {
             "w": "rryung2",
-            "p": "r y uw ng"
+            "p": "r y uh ng"
         },
         {
             "w": "rreung2",
@@ -44830,7 +44830,7 @@
         },
         {
             "w": "vu2",
-            "p": "v uw"
+            "p": "v uh"
         },
         {
             "w": "vwo2",
@@ -44850,7 +44850,7 @@
         },
         {
             "w": "vyu2",
-            "p": "v y uw"
+            "p": "v y uh"
         },
         {
             "w": "veu2",
@@ -44922,7 +44922,7 @@
         },
         {
             "w": "vuk2",
-            "p": "v uw k"
+            "p": "v uh k"
         },
         {
             "w": "vwok2",
@@ -44942,7 +44942,7 @@
         },
         {
             "w": "vyuk2",
-            "p": "v y uw k"
+            "p": "v y uh k"
         },
         {
             "w": "veuk2",
@@ -45014,7 +45014,7 @@
         },
         {
             "w": "vun2",
-            "p": "v uw n"
+            "p": "v uh n"
         },
         {
             "w": "vwon2",
@@ -45034,7 +45034,7 @@
         },
         {
             "w": "vyun2",
-            "p": "v y uw n"
+            "p": "v y uh n"
         },
         {
             "w": "veun2",
@@ -45106,7 +45106,7 @@
         },
         {
             "w": "vut2",
-            "p": "v uw t"
+            "p": "v uh t"
         },
         {
             "w": "vwot2",
@@ -45126,7 +45126,7 @@
         },
         {
             "w": "vyut2",
-            "p": "v y uw t"
+            "p": "v y uh t"
         },
         {
             "w": "veut2",
@@ -45198,7 +45198,7 @@
         },
         {
             "w": "vul2",
-            "p": "v uw l"
+            "p": "v uh l"
         },
         {
             "w": "vwol2",
@@ -45218,7 +45218,7 @@
         },
         {
             "w": "vyul2",
-            "p": "v y uw l"
+            "p": "v y uh l"
         },
         {
             "w": "veul2",
@@ -45290,7 +45290,7 @@
         },
         {
             "w": "vurl2",
-            "p": "v uw r"
+            "p": "v uh r"
         },
         {
             "w": "vworl2",
@@ -45310,7 +45310,7 @@
         },
         {
             "w": "vyurl2",
-            "p": "v y uw r"
+            "p": "v y uh r"
         },
         {
             "w": "veurl2",
@@ -45382,7 +45382,7 @@
         },
         {
             "w": "vum2",
-            "p": "v uw m"
+            "p": "v uh m"
         },
         {
             "w": "vwom2",
@@ -45402,7 +45402,7 @@
         },
         {
             "w": "vyum2",
-            "p": "v y uw m"
+            "p": "v y uh m"
         },
         {
             "w": "veum2",
@@ -45474,7 +45474,7 @@
         },
         {
             "w": "vup2",
-            "p": "v uw p"
+            "p": "v uh p"
         },
         {
             "w": "vwop2",
@@ -45494,7 +45494,7 @@
         },
         {
             "w": "vyup2",
-            "p": "v y uw p"
+            "p": "v y uh p"
         },
         {
             "w": "veup2",
@@ -45566,7 +45566,7 @@
         },
         {
             "w": "vung2",
-            "p": "v uw ng"
+            "p": "v uh ng"
         },
         {
             "w": "vwong2",
@@ -45586,7 +45586,7 @@
         },
         {
             "w": "vyung2",
-            "p": "v y uw ng"
+            "p": "v y uh ng"
         },
         {
             "w": "veung2",
@@ -45658,7 +45658,7 @@
         },
         {
             "w": "zu2",
-            "p": "z uw"
+            "p": "z uh"
         },
         {
             "w": "zwo2",
@@ -45678,7 +45678,7 @@
         },
         {
             "w": "zyu2",
-            "p": "z y uw"
+            "p": "z y uh"
         },
         {
             "w": "zeu2",
@@ -45750,7 +45750,7 @@
         },
         {
             "w": "zuk2",
-            "p": "z uw k"
+            "p": "z uh k"
         },
         {
             "w": "zwok2",
@@ -45770,7 +45770,7 @@
         },
         {
             "w": "zyuk2",
-            "p": "z y uw k"
+            "p": "z y uh k"
         },
         {
             "w": "zeuk2",
@@ -45842,7 +45842,7 @@
         },
         {
             "w": "zun2",
-            "p": "z uw n"
+            "p": "z uh n"
         },
         {
             "w": "zwon2",
@@ -45862,7 +45862,7 @@
         },
         {
             "w": "zyun2",
-            "p": "z y uw n"
+            "p": "z y uh n"
         },
         {
             "w": "zeun2",
@@ -45934,7 +45934,7 @@
         },
         {
             "w": "zut2",
-            "p": "z uw t"
+            "p": "z uh t"
         },
         {
             "w": "zwot2",
@@ -45954,7 +45954,7 @@
         },
         {
             "w": "zyut2",
-            "p": "z y uw t"
+            "p": "z y uh t"
         },
         {
             "w": "zeut2",
@@ -46026,7 +46026,7 @@
         },
         {
             "w": "zul2",
-            "p": "z uw l"
+            "p": "z uh l"
         },
         {
             "w": "zwol2",
@@ -46046,7 +46046,7 @@
         },
         {
             "w": "zyul2",
-            "p": "z y uw l"
+            "p": "z y uh l"
         },
         {
             "w": "zeul2",
@@ -46118,7 +46118,7 @@
         },
         {
             "w": "zurl2",
-            "p": "z uw r"
+            "p": "z uh r"
         },
         {
             "w": "zworl2",
@@ -46138,7 +46138,7 @@
         },
         {
             "w": "zyurl2",
-            "p": "z y uw r"
+            "p": "z y uh r"
         },
         {
             "w": "zeurl2",
@@ -46210,7 +46210,7 @@
         },
         {
             "w": "zum2",
-            "p": "z uw m"
+            "p": "z uh m"
         },
         {
             "w": "zwom2",
@@ -46230,7 +46230,7 @@
         },
         {
             "w": "zyum2",
-            "p": "z y uw m"
+            "p": "z y uh m"
         },
         {
             "w": "zeum2",
@@ -46302,7 +46302,7 @@
         },
         {
             "w": "zup2",
-            "p": "z uw p"
+            "p": "z uh p"
         },
         {
             "w": "zwop2",
@@ -46322,7 +46322,7 @@
         },
         {
             "w": "zyup2",
-            "p": "z y uw p"
+            "p": "z y uh p"
         },
         {
             "w": "zeup2",
@@ -46394,7 +46394,7 @@
         },
         {
             "w": "zung2",
-            "p": "z uw ng"
+            "p": "z uh ng"
         },
         {
             "w": "zwong2",
@@ -46414,7 +46414,7 @@
         },
         {
             "w": "zyung2",
-            "p": "z y uw ng"
+            "p": "z y uh ng"
         },
         {
             "w": "zeung2",
