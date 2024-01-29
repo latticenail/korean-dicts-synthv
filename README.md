@@ -16,12 +16,36 @@ Also, credit isn't necessary, I don't really mind; but if you'd like to, feel fr
 * Includes individual ending consonants (i.e. k, ng, l). Uppercase aliases are included too
 * Includes syllables starting with "f", "v", "th", "rr", and "z"
 ## Phoneme tables
+### Vowels
+|        	| JPN 	| ENG  	| MAN 	| CAN 	| SPA 	|
+|--------	|-----	|------	|-----	|-----	|-----	|
+| a      	| a   	| aa   	| a   	| a   	| a   	|
+| ae     	| e   	| eh   	| e   	| e   	| e   	|
+| ya     	| y a 	| y aa 	| ia  	| j a 	| y a 	|
+| yae    	| y e 	| y eh 	| ie  	| j e 	| y e 	|
+| eo     	| o   	| ao   	| o   	| 6   	| o   	|
+| e      	| e   	| eh   	| e   	| e   	| e   	|
+| yeo    	| y o 	| y ao 	| j o 	| j 6 	| y o 	|
+| ye     	| y e 	| y eh 	| ie  	| j e 	| y e 	|
+| o      	| o   	| ao   	| o   	| o   	| o   	|
+| wa     	| w a 	| w aa 	| ua  	| w a 	| U a 	|
+| wae    	| w e 	| w eh 	| ue  	| w e 	| U e 	|
+| oe     	| w e 	| w eh 	| ue  	| w e 	| U e 	|
+| yo     	| y o 	| y ao 	| j o 	| j o 	| y o 	|
+| u      	| u   	| uh   	| u   	| u   	| u   	|
+| weo/wo 	| w o 	| w ao 	| uo  	| w 6 	| U o 	|
+| we     	| w e 	| w eh 	| ue  	| w e 	| U e 	|
+| wi     	| w i 	| w iy 	| w i 	| w i 	| U i 	|
+| yu     	| y u 	| y uh 	| j u 	| j u 	| y u 	|
+| eu     	| u   	| ax   	| i\  	| u   	| u   	|
+| eui/ui 	| w i 	| w iy 	| w i 	| w i 	| U i 	|
+| i      	| i   	| iy   	| i   	| i   	| i   	|
 ### Initial consonants
 |       	| JPN         	| ENG   	| MAN    	| CAN   	| SPA   	|
 |-------	|-------------	|-------	|--------	|-------	|-------	|
 | g     	| g, gy       	| g     	| k      	| k     	| g     	|
 | gg/kk 	| cl k, cl ky 	| cl k  	| cl k   	| cl k  	| cl k  	|
-| n     	| n, ny       	| n     	| n      	| n     	| n     	|
+| n     	| n, ny       	| n     	| n      	| n     	| n, J    |
 | d     	| d           	| d     	| t      	| t     	| d     	|
 | dd/tt 	| cl t        	| cl t  	| cl t   	| cl t  	| cl t  	|
 | r     	| r, ry       	| dx    	| l      	| l     	| r     	|
@@ -43,3 +67,14 @@ Also, credit isn't necessary, I don't really mind; but if you'd like to, feel fr
 | rr    	| w           	| r     	| z`     	| w     	| w     	|
 | v     	| v           	| v     	| f      	| f     	| B     	|
 | z     	| z           	| z     	| ts     	| ts    	| s     	|
+### Final consonants
+|    	| JPN 	| ENG 	| MAN 	| CAN  	| SPA 	|
+|----	|-----	|-----	|-----	|------	|-----	|
+| k  	| k   	| k   	| k   	| :k_} 	| k   	|
+| n  	| n   	| n   	| :n  	| :n   	| n   	|
+| t  	| t   	| t   	| t   	| :t_} 	| t   	|
+| l  	| r   	| l   	| l   	| l    	| l   	|
+| rl 	| r   	| r   	| r\` 	| l    	| l   	|
+| m  	| m   	| m   	| m   	| :m   	| m   	|
+| p  	| p   	| p   	| p   	| :p_} 	| p   	|
+| ng 	| N   	| ng  	| N   	| :N   	| N   	|
